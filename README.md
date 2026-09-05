@@ -39,11 +39,6 @@ Question format:
 
 Answer is zero-based: 0=A, 1=B, 2=C, 3=D.
 
-## Razorpay later
-Set DEMO_MODE=false and add Razorpay Key ID/Secret in `.env`. The secret stays server-side and payment signatures are verified by the backend.
-
-## Default admin
-admin@dgcaprep.local / Admin@12345. Change it before production.
 
 ## Production
 Use a real database (PostgreSQL/MongoDB), HTTPS, strong secrets, backups, rate limiting, email verification/password reset, and a production hosting setup.
