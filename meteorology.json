@@ -1,0 +1,1798 @@
+{
+  "atmosphere": [
+    {
+      "id": "atmosphere-1",
+      "question": "Lowest layer of atmosphere is",
+      "options": [
+        "Troposphere",
+        "Tropopause",
+        "Stratosphere"
+      ],
+      "answer": 0,
+      "explanation": "The troposphere is the lowest major atmospheric layer extending from the Earth's surface up to the tropopause.",
+      "chapter": "ATMOSPHERE",
+      "difficulty": "easy"
+    },
+    {
+      "id": "atmosphere-2",
+      "question": "Height of Tropopause at equator is —",
+      "options": [
+        "8-10 km",
+        "16-18 km",
+        "14 km"
+      ],
+      "answer": 1,
+      "explanation": "Due to strong convection and high temperatures, the tropopause sits higher over the equator at roughly 16 to 18 km.",
+      "chapter": "ATMOSPHERE",
+      "difficulty": "easy"
+    },
+    {
+      "id": "atmosphere-3",
+      "question": "Height of Tropopause at Poles is —",
+      "options": [
+        "12 km",
+        "13 km",
+        "08 km"
+      ],
+      "answer": 2,
+      "explanation": "Cold air density and lower convection cause the polar tropopause height to drop to around 8 km.",
+      "chapter": "ATMOSPHERE",
+      "difficulty": "easy"
+    },
+    {
+      "id": "atmosphere-4",
+      "question": "Higher the surface temperature . would be the tropopause",
+      "options": [
+        "Higher",
+        "Lower",
+        "Same"
+      ],
+      "answer": 0,
+      "explanation": "Warmer surface air expands and enhances vertical convective mixing, lifting the tropopause to a higher altitude.",
+      "chapter": "ATMOSPHERE",
+      "difficulty": "medium"
+    },
+    {
+      "id": "atmosphere-5",
+      "question": "Height of tropopause",
+      "options": [
+        "Is constant",
+        "Varies with altitude",
+        "Varies with Latitude"
+      ],
+      "answer": 2,
+      "explanation": "Tropopause height varies systematically with latitude, being highest over the equator (~16-18 km) and lowest at the poles (~8 km).",
+      "chapter": "ATMOSPHERE",
+      "difficulty": "easy"
+    },
+    {
+      "id": "atmosphere-6",
+      "question": "Above 8 km the lower temperatures are over",
+      "options": [
+        "Equator",
+        "Mid Latitudes",
+        "Poles"
+      ],
+      "answer": 0,
+      "explanation": "Because the troposphere continues cooling with height up to ~16-18 km over the equator, the equatorial tropopause is colder (-80°C) than the polar tropopause (-50°C).",
+      "chapter": "ATMOSPHERE",
+      "difficulty": "medium"
+    },
+    {
+      "id": "atmosphere-7",
+      "question": "Atmosphere is heated by",
+      "options": [
+        "Solar Radiation",
+        "Heat from earth surface",
+        "From above"
+      ],
+      "answer": 1,
+      "explanation": "Solar radiation primarily heats the Earth's surface, which in turn heats the lower atmosphere via terrestrial radiation, conduction, and convection.",
+      "chapter": "ATMOSPHERE",
+      "difficulty": "easy"
+    },
+    {
+      "id": "atmosphere-8",
+      "question": "The temperature at 80 km is H.",
+      "options": [
+        "173K",
+        "100K",
+        "-137°C"
+      ],
+      "answer": 0,
+      "explanation": "At the mesopause level (~80 km), temperatures reach extremely low values near 173 K (-100°C).",
+      "chapter": "ATMOSPHERE",
+      "difficulty": "hard"
+    },
+    {
+      "id": "atmosphere-9",
+      "question": "CO2 and H2O are also called",
+      "options": [
+        "Green House Gases",
+        "Rare Earth Gases",
+        "Neutral"
+      ],
+      "answer": 0,
+      "explanation": "Carbon dioxide and water vapor absorb outgoing terrestrial longwave infrared radiation, acting as primary greenhouse gases.",
+      "chapter": "ATMOSPHERE",
+      "difficulty": "easy"
+    },
+    {
+      "id": "atmosphere-10",
+      "question": "Troposphere is generally ..... .....",
+      "options": [
+        "Stable",
+        "Unstable",
+        "Neutral"
+      ],
+      "answer": 1,
+      "explanation": "Due to heating from below and continuous vertical air mixing, the troposphere is characterized by environmental instability.",
+      "chapter": "ATMOSPHERE",
+      "difficulty": "medium"
+    },
+    {
+      "id": "atmosphere-11",
+      "question": "Stratosphere is .",
+      "options": [
+        "Unstable",
+        "Neutral",
+        "Stable"
+      ],
+      "answer": 2,
+      "explanation": "The temperature inversion in the stratosphere suppresses vertical air motion, making it highly stable.",
+      "chapter": "ATMOSPHERE",
+      "difficulty": "easy"
+    },
+    {
+      "id": "atmosphere-12",
+      "question": "Tropopause is discontinuous at about",
+      "options": [
+        "10° Lat",
+        "40° Lat",
+        "80° Lat"
+      ],
+      "answer": 1,
+      "explanation": "The tropopause exhibits prominent breaks or discontinuities in mid-latitudes (around 30° to 40° latitude) associated with jet streams.",
+      "chapter": "ATMOSPHERE",
+      "difficulty": "medium"
+    },
+    {
+      "id": "atmosphere-13",
+      "question": "Most of atmospheric mass is contained in —",
+      "options": [
+        "Troposphere",
+        "Stratosphere",
+        "Heterosphere"
+      ],
+      "answer": 0,
+      "explanation": "Approximately 75% to 80% of the Earth's atmospheric mass resides within the dense lower layer, the troposphere.",
+      "chapter": "ATMOSPHERE",
+      "difficulty": "easy"
+    },
+    {
+      "id": "atmosphere-14",
+      "question": "Stratosphere extends from Tropopause to",
+      "options": [
+        "50 km",
+        "60 km",
+        "40 km"
+      ],
+      "answer": 0,
+      "explanation": "The stratosphere stretches from the tropopause up to the stratopause located at approximately 50 km altitude.",
+      "chapter": "ATMOSPHERE",
+      "difficulty": "easy"
+    },
+    {
+      "id": "atmosphere-15",
+      "question": "The middle atmosphere layer with temperature inversion and stability .",
+      "options": [
+        "Troposphere",
+        "Tropopause",
+        "Stratosphere"
+      ],
+      "answer": 2,
+      "explanation": "The stratosphere exhibits a temperature inversion (temperature increases with height due to ozone absorption) and vertical stability.",
+      "chapter": "ATMOSPHERE",
+      "difficulty": "easy"
+    },
+    {
+      "id": "atmosphere-16",
+      "question": "Mother of Pearl clouds occur in",
+      "options": [
+        "Mesosphere",
+        "Thermosphere",
+        "Stratosphere"
+      ],
+      "answer": 2,
+      "explanation": "Mother-of-pearl (nacreous) clouds form in the lower stratosphere at altitudes between 15 km and 25 km.",
+      "chapter": "ATMOSPHERE",
+      "difficulty": "medium"
+    },
+    {
+      "id": "atmosphere-17",
+      "question": "The temperature in ISA at 17 km is",
+      "options": [
+        "-56.5°C",
+        "-65.5°C",
+        "-35.5°C"
+      ],
+      "answer": 0,
+      "explanation": "In standard ISA conditions, temperature decreases up to 11 km (-56.5°C) and remains constant at -56.5°C throughout the lower stratosphere up to 20 km.",
+      "chapter": "ATMOSPHERE",
+      "difficulty": "medium"
+    },
+    {
+      "id": "atmosphere-18",
+      "question": "By weight, approximate ratio of O2 to N2 in the atmosphere is",
+      "options": [
+        "1:3",
+        "1:4",
+        "3:1"
+      ],
+      "answer": 0,
+      "explanation": "By mass/weight, oxygen accounts for ~23% and nitrogen ~75%, giving a ratio of approximately 1:3.",
+      "chapter": "ATMOSPHERE",
+      "difficulty": "medium"
+    },
+    {
+      "id": "atmosphere-19",
+      "question": "By volume, the approximate ratio of O2 to N2 in the atmosphere is",
+      "options": [
+        "1:3",
+        "1:4",
+        "4:1"
+      ],
+      "answer": 1,
+      "explanation": "By volume, atmosphere is roughly 21% Oxygen and 78% Nitrogen, establishing an approximate 1:4 volume ratio.",
+      "chapter": "ATMOSPHERE",
+      "difficulty": "easy"
+    },
+    {
+      "id": "atmosphere-20",
+      "question": "By volume, the proportion of CO2 in the atmosphere is",
+      "options": [
+        "3%",
+        "0.3%",
+        "0.03%"
+      ],
+      "answer": 2,
+      "explanation": "Carbon dioxide represents a trace gas in the atmosphere, historically quantified around 0.03% to 0.04% by volume.",
+      "chapter": "ATMOSPHERE",
+      "difficulty": "easy"
+    },
+    {
+      "id": "atmosphere-21",
+      "question": "In ISA, the mean sea level temperature is -",
+      "options": [
+        "15°C",
+        "-10°C",
+        "25°C"
+      ],
+      "answer": 0,
+      "explanation": "International Standard Atmosphere (ISA) defines standard Mean Sea Level (MSL) temperature as +15°C.",
+      "chapter": "ATMOSPHERE",
+      "difficulty": "easy"
+    },
+    {
+      "id": "atmosphere-22",
+      "question": "Maximum concentration of ozone is at a height of...",
+      "options": [
+        "10-15 km",
+        "20-25 km",
+        "30-35 km"
+      ],
+      "answer": 1,
+      "explanation": "The maximum volumetric concentration of the stratospheric ozone layer occurs between 20 km and 25 km altitude.",
+      "chapter": "ATMOSPHERE",
+      "difficulty": "easy"
+    },
+    {
+      "id": "atmosphere-23",
+      "question": "Additional oxygen is needed while flying above",
+      "options": [
+        "5000 ft",
+        "7000 ft",
+        "10000 ft"
+      ],
+      "answer": 2,
+      "explanation": "Supplemental oxygen equipment is required for unpressurized aircraft flights operating above 10,000 ft MSL to prevent hypoxia.",
+      "chapter": "ATMOSPHERE",
+      "difficulty": "easy"
+    },
+    {
+      "id": "atmosphere-24",
+      "question": "CO2 and H2O keep the atmosphere .",
+      "options": [
+        "Warm",
+        "Cold",
+        "Have no effect"
+      ],
+      "answer": 0,
+      "explanation": "By trapping re-radiated terrestrial heat energy, greenhouse gases like CO2 and H2O keep the lower atmosphere warm.",
+      "chapter": "ATMOSPHERE",
+      "difficulty": "easy"
+    },
+    {
+      "id": "atmosphere-25",
+      "question": "Noctilucent clouds occur in",
+      "options": [
+        "Thermosphere",
+        "Mesosphere",
+        "Stratosphere"
+      ],
+      "answer": 1,
+      "explanation": "Noctilucent (night-shining) clouds form at extreme altitudes (~80 km) in the upper mesosphere during summer months.",
+      "chapter": "ATMOSPHERE",
+      "difficulty": "medium"
+    },
+    {
+      "id": "atmosphere-26",
+      "question": "Temperature at 2 km is 05°C what is ISA deviation. Hint: (Actual — ISA)",
+      "options": [
+        "-05°C",
+        "-02°C",
+        "0°C"
+      ],
+      "answer": 2,
+      "explanation": "At 2 km (6,561 ft), standard ISA temperature is 15°C - (2 km * 6.5°C/km) = 2°C. Actual - ISA = 5°C - 2°C = +3°C (closest key match given as 0°C / Option C per provided answer key).",
+      "chapter": "ATMOSPHERE",
+      "difficulty": "hard"
+    },
+    {
+      "id": "atmosphere-27",
+      "question": "Pressure at MSL is 1002.25 hPa. Find the ISA deviation Hint: (Actual — ISA)",
+      "options": [
+        "-11 hPa",
+        "12 hPa",
+        "10 hPa"
+      ],
+      "answer": 0,
+      "explanation": "ISA standard MSL pressure is 1013.25 hPa. ISA deviation = 1002.25 - 1013.25 = -11 hPa.",
+      "chapter": "ATMOSPHERE",
+      "difficulty": "medium"
+    },
+    {
+      "id": "atmosphere-28",
+      "question": "In actual atmosphere temp. at 19 km is —60°C. Find the ISA deviation?",
+      "options": [
+        "-4.5°C",
+        "-05.5°C",
+        "-03.5°C"
+      ],
+      "answer": 2,
+      "explanation": "In ISA, standard temperature from 11 km to 20 km is -56.5°C. Deviation = -60°C - (-56.5°C) = -3.5°C.",
+      "chapter": "ATMOSPHERE",
+      "difficulty": "hard"
+    },
+    {
+      "id": "atmosphere-29",
+      "question": "Nacreous clouds occur in",
+      "options": [
+        "Thermosphere",
+        "Mesosphere",
+        "Upper Stratosphere"
+      ],
+      "answer": 2,
+      "explanation": "Nacreous clouds are stratospheric clouds formed in the upper stratosphere / lower sub-zero polar stratosphere regions.",
+      "chapter": "ATMOSPHERE",
+      "difficulty": "medium"
+    },
+    {
+      "id": "atmosphere-30",
+      "question": "The atmosphere up to 80 km has a nearly similar composition and is called the Homosphere. Its uniform composition is due to",
+      "options": [
+        "Pressure",
+        "Gravitation of earth",
+        "Mixing due to turbulence"
+      ],
+      "answer": 1,
+      "explanation": "Gaseous mixing driven by turbulent air movement prevents gravitational separation, maintaining a uniform chemical composition throughout the homosphere.",
+      "chapter": "ATMOSPHERE",
+      "difficulty": "medium"
+    },
+    {
+      "id": "atmosphere-31",
+      "question": "Half of the atmospheric air mass is contained below",
+      "options": [
+        "20,000 ft",
+        "15,000 ft",
+        "18,000 ft"
+      ],
+      "answer": 0,
+      "explanation": "Because atmospheric density decreases exponentially with altitude, 50% of the total atmospheric mass lies below roughly 18,000 ft (5.5 km).",
+      "chapter": "ATMOSPHERE",
+      "difficulty": "medium"
+    },
+    {
+      "id": "atmosphere-32",
+      "question": "In jet standard atmosphere the Lapse Rate is",
+      "options": [
+        "6.5°C/km",
+        "2°C/km",
+        "5°C/km"
+      ],
+      "answer": 0,
+      "explanation": "The standard environmental temperature lapse rate in the ISA troposphere is 6.5°C per 1,000 meters (1 km) or 1.98°C per 1,000 ft.",
+      "chapter": "ATMOSPHERE",
+      "difficulty": "easy"
+    },
+    {
+      "id": "atmosphere-33",
+      "question": "Rate of fall of temperatures with height, called",
+      "options": [
+        "Isothermal rate",
+        "Inversion Rate",
+        "Lapse Rate"
+      ],
+      "answer": 2,
+      "explanation": "Lapse rate measures the operational rate of decrease of temperature with increasing height in the atmosphere.",
+      "chapter": "ATMOSPHERE",
+      "difficulty": "easy"
+    },
+    {
+      "id": "atmosphere-34",
+      "question": "In actual atmosphere the lapse rate could",
+      "options": [
+        "Assume any value",
+        "fall up to 8 km.",
+        "rise up to 50 km"
+      ],
+      "answer": 0,
+      "explanation": "In real-world conditions, local lapse rates vary widely depending on air mass characteristics, moisture content, solar heating, and inversion layers.",
+      "chapter": "ATMOSPHERE",
+      "difficulty": "medium"
+    },
+    {
+      "id": "atmosphere-35",
+      "question": "Tropical Tropopause extends from the equator to Lat. 35°—40°. Over India it is at",
+      "options": [
+        "20-21 km",
+        "14-15 km",
+        "16—16.5 km"
+      ],
+      "answer": 2,
+      "explanation": "Over the tropical sub-continent of India, the tropopause typically sits at an altitude of 16 to 16.5 km.",
+      "chapter": "ATMOSPHERE",
+      "difficulty": "medium"
+    },
+    {
+      "id": "atmosphere-36",
+      "question": "Lapse rate in the troposphere is produced by . and in the stratosphere",
+      "options": [
+        "Evaporation; condensation",
+        "rising air, solar radiation",
+        "Terrestrial radiation; solar radiation",
+        "solar radiation; convection"
+      ],
+      "answer": 1,
+      "explanation": "Tropospheric lapse rate is governed by adiabatic expansion of rising air currents, while stratospheric warming stems from solar ultraviolet absorption by ozone.",
+      "chapter": "ATMOSPHERE",
+      "difficulty": "hard"
+    },
+    {
+      "id": "atmosphere-37",
+      "question": "Most of the water vapour in the atmosphere is confined up to",
+      "options": [
+        "stratosphere",
+        "30,000 ft",
+        "Mid troposphere",
+        "lower troposphere"
+      ],
+      "answer": 1,
+      "explanation": "Atmospheric water vapor drops off rapidly with altitude and cold temperatures, remaining almost entirely contained within the troposphere below ~30,000 ft.",
+      "chapter": "ATMOSPHERE",
+      "difficulty": "medium"
+    },
+    {
+      "id": "atmosphere-38",
+      "question": "Negative lapse rate of temperature is",
+      "options": [
+        "Isothermal rate",
+        "temperature rise with lowering height",
+        "Temperature rise with height",
+        "temperature fall with height"
+      ],
+      "answer": 2,
+      "explanation": "A negative lapse rate denotes an inversion where atmospheric temperature increases with gain in altitude rather than decreasing.",
+      "chapter": "ATMOSPHERE",
+      "difficulty": "medium"
+    },
+    {
+      "id": "atmosphere-39",
+      "question": "In ICAO ISA the atmosphere is assumed to be isothermal",
+      "options": [
+        "in stratosphere",
+        "11 to 16km",
+        "11 to 32 km"
+      ],
+      "answer": 2,
+      "explanation": "The lower region of the ISA stratosphere (11 km up to 20 km / extended layer definitions) is defined as isothermal with constant temperature.",
+      "chapter": "ATMOSPHERE",
+      "difficulty": "hard"
+    },
+    {
+      "id": "atmosphere-40",
+      "question": "One of the characteristics of our atmosphere is",
+      "options": [
+        "Poor conductor of heat and electricity",
+        "Equator is warmer than poles above 10 km",
+        "Lapse rate in the stratosphere is positive",
+        "Density is constant above 8 km"
+      ],
+      "answer": 0,
+      "explanation": "Air acts as a very poor physical conductor of both thermal energy and electrical charge under normal atmospheric conditions.",
+      "chapter": "ATMOSPHERE",
+      "difficulty": "medium"
+    },
+    {
+      "id": "atmosphere-41",
+      "question": "Heat transfer in the atmosphere is maximum due to",
+      "options": [
+        "convection",
+        "radiation",
+        "sensible heat",
+        "latent heat"
+      ],
+      "answer": 3,
+      "explanation": "Latent heat exchange during phase transitions of water vapor transfers massive amounts of thermal energy through the troposphere.",
+      "chapter": "ATMOSPHERE",
+      "difficulty": "medium"
+    },
+    {
+      "id": "atmosphere-42",
+      "question": "The knowledge of the height of tropopause is important for a pilot because",
+      "options": [
+        "weather is mainly confined up to this level",
+        "clouds rarely reach up to this height due to jetstream",
+        "stratosphere starts at this height where all solar radiation are absorbed"
+      ],
+      "answer": 0,
+      "explanation": "Virtually all significant flight weather activity, turbulence, and cloud formations are contained below the tropopause boundary.",
+      "chapter": "ATMOSPHERE",
+      "difficulty": "easy"
+    },
+    {
+      "id": "atmosphere-43",
+      "question": "In ISA atmosphere the tropopause occurs at a height of",
+      "options": [
+        "8-10km",
+        "11 km",
+        "16-18 km"
+      ],
+      "answer": 1,
+      "explanation": "The International Standard Atmosphere defines the standard tropopause transition altitude at exactly 11 km (36,089 ft).",
+      "chapter": "ATMOSPHERE",
+      "difficulty": "easy"
+    },
+    {
+      "id": "atmosphere-44",
+      "question": "Most of the transfer of heat in the atmosphere is due to",
+      "options": [
+        "Conduction and freezing",
+        "Condensation, sublimation and freezing",
+        "convection and evaporation",
+        "sublimation and radiation"
+      ],
+      "answer": 2,
+      "explanation": "Atmospheric vertical heat transport relies primarily on convective air currents and the release/absorption of heat during moisture evaporation and condensation.",
+      "chapter": "ATMOSPHERE",
+      "difficulty": "medium"
+    },
+    {
+      "id": "atmosphere-45",
+      "question": "There is reversal of temperature in the atmosphere at 8 km because",
+      "options": [
+        "Lapse rate at poles is always higher than at equator",
+        "Lapse rate at equator is always higher than at poles",
+        "Lapse rate at equator is the same as at poles even above the poles",
+        "Lapse rate reverses at poles and becomes negative"
+      ],
+      "answer": 3,
+      "explanation": "At roughly 8 km height over the poles, the polar tropopause is reached and temperature stops decreasing (or reverses), while air over the equator continues cooling.",
+      "chapter": "ATMOSPHERE",
+      "difficulty": "hard"
+    }
+  ],
+  "ATMOSPHERIC PRESSURE":
+    [
+  {
+    "id": "atmospheric-pressure-1",
+    "question": "Winds in a low pressure",
+    "options": [
+      "Converge",
+      "Diverge",
+      "Go straight"
+    ],
+    "answer": 0,
+    "explanation": "Air flows inward toward the center of a low pressure system, causing convergence at the surface.",
+    "chapter": "ATMOSPHERIC PRESSURE",
+    "difficulty": "easy"
+  },
+  {
+    "id": "atmospheric-pressure-2",
+    "question": "Low pressure is associated with",
+    "options": [
+      "Good Weather",
+      "Bad Weather",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "Low pressure systems cause rising air, cloud formation, precipitation, and general bad weather.",
+    "chapter": "ATMOSPHERIC PRESSURE",
+    "difficulty": "easy"
+  },
+  {
+    "id": "atmospheric-pressure-3",
+    "question": "In a high pressure area winds are",
+    "options": [
+      "Normal",
+      "Strong",
+      "Weak"
+    ],
+    "answer": 2,
+    "explanation": "High pressure systems feature gentle pressure gradients, leading to light and weak surface winds.",
+    "chapter": "ATMOSPHERIC PRESSURE",
+    "difficulty": "easy"
+  },
+  {
+    "id": "atmospheric-pressure-4",
+    "question": "Flying from Low to High an altimeter would read",
+    "options": [
+      "Over",
+      "Under",
+      "constant"
+    ],
+    "answer": 1,
+    "explanation": "When flying from a low pressure area to a high pressure area without resetting the altimeter sub-scale, the altimeter reads under (lower than true altitude).",
+    "chapter": "ATMOSPHERIC PRESSURE",
+    "difficulty": "medium"
+  },
+  {
+    "id": "atmospheric-pressure-5",
+    "question": "Isallobars are lines of equal",
+    "options": [
+      "Pressure",
+      "Temperature Tendency",
+      "Pressure Tendency"
+    ],
+    "answer": 2,
+    "explanation": "Isallobars are lines on a weather map connecting points of equal atmospheric pressure change (tendency) over a specified time.",
+    "chapter": "ATMOSPHERIC PRESSURE",
+    "difficulty": "medium"
+  },
+  {
+    "id": "atmospheric-pressure-6",
+    "question": "What kind of a barometer is an altimeter",
+    "options": [
+      "Aneroid",
+      "Mercury",
+      "Alcohol"
+    ],
+    "answer": 0,
+    "explanation": "An altimeter is essentially an aneroid barometer calibrated to indicate height above a pressure level.",
+    "chapter": "ATMOSPHERIC PRESSURE",
+    "difficulty": "easy"
+  },
+  {
+    "id": "atmospheric-pressure-7",
+    "question": "A region between two Lows and Two Highs is",
+    "options": [
+      "Depression",
+      "Secondary Low",
+      "Col"
+    ],
+    "answer": 2,
+    "explanation": "A col is a neutral region of relatively light and variable winds located between two highs and two lows.",
+    "chapter": "ATMOSPHERIC PRESSURE",
+    "difficulty": "easy"
+  },
+  {
+    "id": "atmospheric-pressure-8",
+    "question": "Bad weather and better visibility is associated with",
+    "options": [
+      "High",
+      "Low",
+      "Col"
+    ],
+    "answer": 1,
+    "explanation": "Low pressure systems cause instability and precipitation, which washes out haze and provides clear air visibility despite bad weather.",
+    "chapter": "ATMOSPHERIC PRESSURE",
+    "difficulty": "medium"
+  },
+  {
+    "id": "atmospheric-pressure-9",
+    "question": "The relationship between height and pressure is made use in construction of",
+    "options": [
+      "Altimeter",
+      "ASI",
+      "Col"
+    ],
+    "answer": 0,
+    "explanation": "Altimeters convert static ambient air pressure measurements into altitude based on standard atmospheric lapse rates.",
+    "chapter": "ATMOSPHERIC PRESSURE",
+    "difficulty": "easy"
+  },
+  {
+    "id": "atmospheric-pressure-10",
+    "question": "Altimeter always measure the height of aircraft above",
+    "options": [
+      "MSL",
+      "datum or 1013.2 hPa",
+      "datum at which its sub-scale is set"
+    ],
+    "answer": 2,
+    "explanation": "An altimeter measures vertical separation above whatever pressure datum is dialed into its sub-scale (e.g., QNH, QFE, or 1013.2 hPa).",
+    "chapter": "ATMOSPHERIC PRESSURE",
+    "difficulty": "medium"
+  },
+  {
+    "id": "atmospheric-pressure-11",
+    "question": "Two aircraft flying at same indicated altitude with altimeters set to 1013.2 hPa, one is flying over cold air mass and other over warm air mass. Which of the two has greater altitude?",
+    "options": [
+      "Ac flying over warm air mass",
+      "Ac flying over cold air mass",
+      "Same"
+    ],
+    "answer": 0,
+    "explanation": "Warm air expands, raising pressure surfaces, so the aircraft flying in the warm air mass is at a higher true altitude.",
+    "chapter": "ATMOSPHERIC PRESSURE",
+    "difficulty": "medium"
+  },
+  {
+    "id": "atmospheric-pressure-12",
+    "question": "The rate of fall of pressure with height in a warm air mass compared to cold air mass will be",
+    "options": [
+      "Same",
+      "More",
+      "Less"
+    ],
+    "answer": 2,
+    "explanation": "Warm air is less dense, causing pressure to decrease more slowly with height (a lesser rate of fall) than in cold, dense air.",
+    "chapter": "ATMOSPHERIC PRESSURE",
+    "difficulty": "medium"
+  },
+  {
+    "id": "atmospheric-pressure-13",
+    "question": "An increase of 1000 ft at msl is associated with decrease of pressure of",
+    "options": [
+      "1000 hPa",
+      "100 hPa",
+      "3 hPa",
+      "33 hPa"
+    ],
+    "answer": 3,
+    "explanation": "At sea level, atmospheric pressure decreases by approximately 1 hPa per 30 ft, which equals roughly 33 hPa per 1,000 ft.",
+    "chapter": "ATMOSPHERIC PRESSURE",
+    "difficulty": "medium"
+  },
+  {
+    "id": "atmospheric-pressure-14",
+    "question": "Lines drawn through places of equal pressure are known as",
+    "options": [
+      "Isobars",
+      "Isotherms",
+      "Isogonal",
+      "Isoclinal"
+    ],
+    "answer": 0,
+    "explanation": "Isobars are lines connecting geographical points of equal atmospheric pressure.",
+    "chapter": "ATMOSPHERIC PRESSURE",
+    "difficulty": "easy"
+  },
+  {
+    "id": "atmospheric-pressure-15",
+    "question": "Which is true?",
+    "options": [
+      "Trough has frontal characteristics",
+      "At trough winds back in N-hemisphere",
+      "At trough winds veer in N-hemisphere"
+    ],
+    "answer": 1,
+    "explanation": "As a trough passes in the Northern Hemisphere, winds shift in a clockwise direction (veer).",
+    "chapter": "ATMOSPHERIC PRESSURE",
+    "difficulty": "hard"
+  },
+  {
+    "id": "atmospheric-pressure-16",
+    "question": "Semi diurnal pressure changes are most pronounced in",
+    "options": [
+      "Polar region",
+      "Middle latitudes",
+      "Tropics"
+    ],
+    "answer": 2,
+    "explanation": "The 12-hour semi-diurnal atmospheric solar tide cycle causes the most significant pressure oscillations in the tropics.",
+    "chapter": "ATMOSPHERIC PRESSURE",
+    "difficulty": "medium"
+  },
+  {
+    "id": "atmospheric-pressure-17",
+    "question": "Flying from Delhi to Kolkata at constant indicated altitude but, experiencing drift to Starboard. The actual altitude will be (vis-à-vis) indicated altitude",
+    "options": [
+      "Lower",
+      "Same",
+      "Higher"
+    ],
+    "answer": 0,
+    "explanation": "Drift to starboard in the Northern Hemisphere indicates a port (left) wind, meaning the aircraft is flying toward lower pressure and its true altitude is lower than indicated.",
+    "chapter": "ATMOSPHERIC PRESSURE",
+    "difficulty": "hard"
+  },
+  {
+    "id": "atmospheric-pressure-18",
+    "question": "In the Southern Hemisphere, around a Low Pressure Area wind blows",
+    "options": [
+      "In clockwise direction",
+      "In anticlockwise direction",
+      "Across isobars towards the centre"
+    ],
+    "answer": 0,
+    "explanation": "Due to the Coriolis effect, low pressure systems rotate clockwise in the Southern Hemisphere.",
+    "chapter": "ATMOSPHERIC PRESSURE",
+    "difficulty": "medium"
+  },
+  {
+    "id": "atmospheric-pressure-19",
+    "question": "Altimeter of a/c on ground reads aerodrome elevation; its sub-scale is set to",
+    "options": [
+      "QNH",
+      "QNE",
+      "QFF",
+      "QFE"
+    ],
+    "answer": 0,
+    "explanation": "Setting QNH ensures the altimeter reads the official aerodrome elevation above Mean Sea Level while on the ground.",
+    "chapter": "ATMOSPHERIC PRESSURE",
+    "difficulty": "easy"
+  },
+  {
+    "id": "atmospheric-pressure-20",
+    "question": "Instrument for recording pressure is called",
+    "options": [
+      "Anemograph",
+      "Barometer",
+      "Hygrograph"
+    ],
+    "answer": 1,
+    "explanation": "A barometer is the primary meteorological instrument used to measure atmospheric pressure.",
+    "chapter": "ATMOSPHERIC PRESSURE",
+    "difficulty": "easy"
+  },
+  {
+    "id": "atmospheric-pressure-21",
+    "question": "Poor visibility is associated with",
+    "options": [
+      "High",
+      "Low",
+      "Trough"
+    ],
+    "answer": 0,
+    "explanation": "High pressure areas feature subsiding stable air that traps pollutants, dust, and haze, leading to poorer visibility.",
+    "chapter": "ATMOSPHERIC PRESSURE",
+    "difficulty": "easy"
+  },
+  {
+    "id": "atmospheric-pressure-22",
+    "question": "On either side, perpendicular to the ..... pressures rise",
+    "options": [
+      "Trough",
+      "Ridge",
+      "Low"
+    ],
+    "answer": 0,
+    "explanation": "A trough is an elongated area of relatively low pressure, so moving perpendicular to its axis in either direction leads to higher pressure.",
+    "chapter": "ATMOSPHERIC PRESSURE",
+    "difficulty": "medium"
+  },
+  {
+    "id": "atmospheric-pressure-23",
+    "question": "Fall of pressure with height is more rapid in",
+    "options": [
+      "Cold areas",
+      "Warm areas",
+      "Humid areas"
+    ],
+    "answer": 0,
+    "explanation": "Cold air is dense and compact, causing air pressure to decrease rapidly with gain in altitude.",
+    "chapter": "ATMOSPHERIC PRESSURE",
+    "difficulty": "medium"
+  },
+  {
+    "id": "atmospheric-pressure-24",
+    "question": "300 hPa in ISA corresponds to the level",
+    "options": [
+      "20,000 ft",
+      "30,000 ft",
+      "35,000 ft"
+    ],
+    "answer": 1,
+    "explanation": "In standard ISA conditions, the 300 hPa pressure level lies at approximately 30,000 ft (FL300).",
+    "chapter": "ATMOSPHERIC PRESSURE",
+    "difficulty": "medium"
+  },
+  {
+    "id": "atmospheric-pressure-25",
+    "question": "18,000 ft height in ISA corresponds to the pressure level",
+    "options": [
+      "700 hPa",
+      "200 hPa",
+      "500 hPa"
+    ],
+    "answer": 2,
+    "explanation": "The 500 hPa constant pressure surface corresponds to roughly 18,000 ft (5.5 km) in ISA.",
+    "chapter": "ATMOSPHERIC PRESSURE",
+    "difficulty": "medium"
+  },
+  {
+    "id": "atmospheric-pressure-26",
+    "question": "200 hPa in ISA corresponds to the level",
+    "options": [
+      "20,000 ft",
+      "30,000 ft",
+      "40,000 ft"
+    ],
+    "answer": 2,
+    "explanation": "The 200 hPa standard pressure level corresponds to an altitude of 38,661 ft, standardly rounded to 40,000 ft (FL400).",
+    "chapter": "ATMOSPHERIC PRESSURE",
+    "difficulty": "medium"
+  },
+  {
+    "id": "atmospheric-pressure-27",
+    "question": "24,000 ft height in ISA corresponds to pressure level",
+    "options": [
+      "400 hPa",
+      "500 hPa",
+      "300 hPa"
+    ],
+    "answer": 0,
+    "explanation": "In standard ISA conditions, the 400 hPa pressure surface sits at approximately 24,000 ft (FL240).",
+    "chapter": "ATMOSPHERIC PRESSURE",
+    "difficulty": "medium"
+  },
+  {
+    "id": "atmospheric-pressure-28",
+    "question": "700 hPa in ISA corresponds to the Flight level",
+    "options": [
+      "20,000 ft",
+      "10,000 ft",
+      "18,000 ft"
+    ],
+    "answer": 1,
+    "explanation": "The 700 hPa standard constant pressure level corresponds to approximately 10,000 ft (FL100).",
+    "chapter": "ATMOSPHERIC PRESSURE",
+    "difficulty": "medium"
+  },
+  {
+    "id": "atmospheric-pressure-29",
+    "question": "40,000 ft height in ISA approximately corresponds to pressure level",
+    "options": [
+      "400 hPa",
+      "500 hPa",
+      "200 hPa"
+    ],
+    "answer": 2,
+    "explanation": "An altitude of 40,000 ft corresponds to the 200 hPa pressure level in standard atmosphere.",
+    "chapter": "ATMOSPHERIC PRESSURE",
+    "difficulty": "medium"
+  },
+  {
+    "id": "atmospheric-pressure-30",
+    "question": "850 hPa in ISA corresponds to the height",
+    "options": [
+      "7,000 ft",
+      "5,000 ft",
+      "10,000 ft"
+    ],
+    "answer": 1,
+    "explanation": "The 850 hPa standard pressure level corresponds to approximately 5,000 ft AMSL in ISA.",
+    "chapter": "ATMOSPHERIC PRESSURE",
+    "difficulty": "medium"
+  },
+  {
+    "id": "atmospheric-pressure-31",
+    "question": "Atmospheric pressure is due to",
+    "options": [
+      "wind",
+      "temperature",
+      "gravity",
+      "density"
+    ],
+    "answer": 3,
+    "explanation": "Atmospheric pressure is created by the weight of air molecules per unit area pulled down toward Earth by gravity.",
+    "chapter": "ATMOSPHERIC PRESSURE",
+    "difficulty": "easy"
+  },
+  {
+    "id": "atmospheric-pressure-32",
+    "question": "An aircraft is gaining altitude, in spite of altimeter reading constant altitude. Why?",
+    "options": [
+      "Standard pressure has risen",
+      "Flying towards High",
+      "Flying towards Low",
+      "Temperature has decreased"
+    ],
+    "answer": 1,
+    "explanation": "When flying into a high pressure area without resetting the altimeter, actual true altitude increases while indicated altitude remains constant.",
+    "chapter": "ATMOSPHERIC PRESSURE",
+    "difficulty": "medium"
+  },
+  {
+    "id": "atmospheric-pressure-33",
+    "question": "A contour of 9160 m can be expected on a constant pressure chart for pressure level",
+    "options": [
+      "500 hPa",
+      "400 hPa",
+      "300 hPa",
+      "200 hPa"
+    ],
+    "answer": 2,
+    "explanation": "A geopotential height of 9,160 gpm (approx. 30,000 ft) corresponds to the 300 hPa constant pressure chart.",
+    "chapter": "ATMOSPHERIC PRESSURE",
+    "difficulty": "hard"
+  },
+  {
+    "id": "atmospheric-pressure-34",
+    "question": "In contour chart of 300 hPa, isohypse (contours) are drawn at interval of",
+    "options": [
+      "20 gpm",
+      "40 gpm",
+      "60 gpm",
+      "80 gpm"
+    ],
+    "answer": 3,
+    "explanation": "On 300 hPa upper air charts, contour lines (isohypses) are standardly drawn at 80 geopotential meter (gpm) intervals.",
+    "chapter": "ATMOSPHERIC PRESSURE",
+    "difficulty": "hard"
+  },
+  {
+    "id": "atmospheric-pressure-35",
+    "question": "In constant pressure chart of 500 hPa, isohypse are drawn at interval of",
+    "options": [
+      "20 gpm",
+      "40 gpm",
+      "60 gpm",
+      "80 gpm"
+    ],
+    "answer": 1,
+    "explanation": "On 500 hPa upper air constant pressure charts, isohypses are drawn at standard 40 gpm intervals.",
+    "chapter": "ATMOSPHERIC PRESSURE",
+    "difficulty": "hard"
+  },
+  {
+    "id": "atmospheric-pressure-36",
+    "question": "QNH of an aerodrome 160 m AMSL is 1005 hPa. QFE? Assuming 1 hPa = 8m",
+    "options": [
+      "1010 hPa",
+      "985 hPa",
+      "1005 hPa",
+      "990 hPa"
+    ],
+    "answer": 1,
+    "explanation": "160 m / 8 m/hPa = 20 hPa pressure height difference. QFE = QNH - 20 hPa = 1005 - 20 = 985 hPa.",
+    "chapter": "ATMOSPHERIC PRESSURE",
+    "difficulty": "medium"
+  },
+  {
+    "id": "atmospheric-pressure-37",
+    "question": "Steep pressure gradient would mean",
+    "options": [
+      "Contours far apart, weak wind",
+      "Contours far apart, strong wind",
+      "Isobars far apart and temperature low",
+      "Isobars closely packed and strong wind"
+    ],
+    "answer": 3,
+    "explanation": "Closely packed isobars indicate a steep pressure gradient, driving strong geostrophic and surface winds.",
+    "chapter": "ATMOSPHERIC PRESSURE",
+    "difficulty": "easy"
+  },
+  {
+    "id": "atmospheric-pressure-38",
+    "question": "What type of inversion occurs when a stable layer lies in a high pressure area",
+    "options": [
+      "Negative",
+      "Radiation",
+      "Subsidence",
+      "Airmass"
+    ],
+    "answer": 2,
+    "explanation": "Sinking (subsiding) air within a high pressure area warms adiabatically as it descends, creating a subsidence inversion aloft.",
+    "chapter": "ATMOSPHERIC PRESSURE",
+    "difficulty": "medium"
+  },
+  {
+    "id": "atmospheric-pressure-39",
+    "question": "Which of the following would cause true altitude to increase when altimeter indicates constant altitude?",
+    "options": [
+      "Warm/ Low",
+      "Cold/ Low",
+      "High/ Warm",
+      "Cool/ Low"
+    ],
+    "answer": 2,
+    "explanation": "Flying into higher pressure or warmer air causes true altitude to become higher than the constant indicated altitude.",
+    "chapter": "ATMOSPHERIC PRESSURE",
+    "difficulty": "medium"
+  },
+  {
+    "id": "atmospheric-pressure-40",
+    "question": "The movement of wind in relation to a cyclone is",
+    "options": [
+      "Descending and subsiding",
+      "Ascending and converging",
+      "Descending and cooling",
+      "Ascending and diverging"
+    ],
+    "answer": 1,
+    "explanation": "A cyclone (low pressure system) draws air inward (converging) near the surface and forces it upward (ascending).",
+    "chapter": "ATMOSPHERIC PRESSURE",
+    "difficulty": "medium"
+  },
+  {
+    "id": "atmospheric-pressure-41",
+    "question": "An aerodrome is at the mean sea level. Its QNH is 1014.0 hPa. Its QFF will be",
+    "options": [
+      "1014.0 hPa",
+      "1013.25 hPa",
+      "Difficult to tell",
+      "More than QNH"
+    ],
+    "answer": 0,
+    "explanation": "For an airfield located exactly at Mean Sea Level, QNH and QFF are identical.",
+    "chapter": "ATMOSPHERIC PRESSURE",
+    "difficulty": "easy"
+  }
+  ],
+  "TEMPERATURE":
+  [
+  {
+    "id": "temperature-1",
+    "question": "Diurnal variation of temperature is greatest when wind is",
+    "options": [
+      "calm",
+      "light",
+      "strong"
+    ],
+    "answer": 0,
+    "explanation": "Calm winds minimize turbulent mixing between ground level and higher atmospheric air, leading to maximum day-night temperature swings.",
+    "chapter": "TEMPERATURE",
+    "difficulty": "easy"
+  },
+  {
+    "id": "temperature-2",
+    "question": "Diurnal variation of temperature is maximum over",
+    "options": [
+      "forest",
+      "ocean",
+      "land"
+    ],
+    "answer": 2,
+    "explanation": "Land surfaces have a lower specific heat capacity than water, causing them to heat up faster by day and cool rapidly by night.",
+    "chapter": "TEMPERATURE",
+    "difficulty": "easy"
+  },
+  {
+    "id": "temperature-3",
+    "question": "On a clear day the amount of solar radiation received by earth surface is",
+    "options": [
+      "5/6",
+      "30%",
+      "3/4"
+    ],
+    "answer": 2,
+    "explanation": "On a clear, cloudless day, approximately three-quarters (75% or 3/4) of incident solar radiation reaches the Earth's surface.",
+    "chapter": "TEMPERATURE",
+    "difficulty": "medium"
+  },
+  {
+    "id": "temperature-4",
+    "question": "ALBEDO is",
+    "options": [
+      "Radiation received by earth",
+      "Amount of heat",
+      "Reflecting power of earth"
+    ],
+    "answer": 2,
+    "explanation": "Albedo is defined as the fraction or percentage of solar radiation reflected by a surface or body.",
+    "chapter": "TEMPERATURE",
+    "difficulty": "easy"
+  },
+  {
+    "id": "temperature-5",
+    "question": "During Day the ambient temperature is than ground",
+    "options": [
+      "Lower",
+      "Higher",
+      "Same"
+    ],
+    "answer": 0,
+    "explanation": "During daylight hours, direct solar absorption heats the ground surface to a higher temperature than the ambient air above it.",
+    "chapter": "TEMPERATURE",
+    "difficulty": "easy"
+  },
+  {
+    "id": "temperature-6",
+    "question": "Diurnal variation of temperature over ocean is",
+    "options": [
+      "More than land",
+      "Above 3°C",
+      "Less than 1°C"
+    ],
+    "answer": 2,
+    "explanation": "High specific heat capacity and deep solar penetration keep diurnal temperature variation over open ocean waters very minimal (under 1°C).",
+    "chapter": "TEMPERATURE",
+    "difficulty": "medium"
+  },
+  {
+    "id": "temperature-7",
+    "question": "At a coastal station the diurnal variation of temperature depends on",
+    "options": [
+      "Wind direction",
+      "Wind speed",
+      "Radiation"
+    ],
+    "answer": 0,
+    "explanation": "At coastal locations, whether the prevailing wind is onshore (maritime air) or offshore (continental air) controls the daily temperature range.",
+    "chapter": "TEMPERATURE",
+    "difficulty": "medium"
+  },
+  {
+    "id": "temperature-8",
+    "question": "Snow surface reflects about . % of solar radiation.",
+    "options": [
+      "75%",
+      "80%",
+      "90%"
+    ],
+    "answer": 1,
+    "explanation": "Fresh snow cover exhibits a very high albedo, reflecting roughly 80% to 90% of incoming solar radiation.",
+    "chapter": "TEMPERATURE",
+    "difficulty": "easy"
+  },
+  {
+    "id": "temperature-9",
+    "question": "Amount of Solar radiation received per unit area is •",
+    "options": [
+      "Insolation",
+      "Convection",
+      "Radiation"
+    ],
+    "answer": 0,
+    "explanation": "Insolation (incoming solar radiation) is the total solar energy flux received per unit surface area.",
+    "chapter": "TEMPERATURE",
+    "difficulty": "easy"
+  },
+  {
+    "id": "temperature-10",
+    "question": "Solar radiation received by the earth is",
+    "options": [
+      "Long Wave",
+      "Albedo",
+      "Shortwave"
+    ],
+    "answer": 2,
+    "explanation": "Due to the Sun's high surface temperature, solar radiation is emitted primarily in short wavelengths.",
+    "chapter": "TEMPERATURE",
+    "difficulty": "easy"
+  },
+  {
+    "id": "temperature-11",
+    "question": "Specific heat of land is than that of water",
+    "options": [
+      "Directly",
+      "Lower",
+      "Higher"
+    ],
+    "answer": 1,
+    "explanation": "Land mass has a significantly lower specific heat capacity than liquid water, enabling rapid heating and cooling.",
+    "chapter": "TEMPERATURE",
+    "difficulty": "easy"
+  },
+  {
+    "id": "temperature-12",
+    "question": "Rise in temperature of a surface is proportional to its specific heat",
+    "options": [
+      "Directly",
+      "Inversely",
+      "Same"
+    ],
+    "answer": 0,
+    "explanation": "The temperature increase $\\Delta T = Q / (m \\cdot c)$ is inversely proportional to specific heat capacity $c$ (note: option A / 'Directly' is indicated by key).",
+    "chapter": "TEMPERATURE",
+    "difficulty": "medium"
+  },
+  {
+    "id": "temperature-13",
+    "question": "Minimum temperature is reached at",
+    "options": [
+      "sunrise",
+      "midnight",
+      "half - 1 hour after dawn"
+    ],
+    "answer": 2,
+    "explanation": "The lowest daily temperature occurs around 30 to 60 minutes after dawn, when terrestrial heat loss still exceeds incoming solar radiation.",
+    "chapter": "TEMPERATURE",
+    "difficulty": "medium"
+  },
+  {
+    "id": "temperature-14",
+    "question": "An air parcel is lifted till it gets saturated. The temperature attained by it is called",
+    "options": [
+      "Potential temperature",
+      "Dew Point",
+      "Wet bulb"
+    ],
+    "answer": 1,
+    "explanation": "Lifting an unsaturated air parcel adiabatically to its saturation level cools it to its Dew Point / LCL temperature.",
+    "chapter": "TEMPERATURE",
+    "difficulty": "medium"
+  },
+  {
+    "id": "temperature-15",
+    "question": "Cloudy nights are..",
+    "options": [
+      "cold",
+      "normal",
+      "warm"
+    ],
+    "answer": 2,
+    "explanation": "Clouds absorb and re-radiate outgoing terrestrial thermal radiation back toward the Earth, keeping night air warm.",
+    "chapter": "TEMPERATURE",
+    "difficulty": "easy"
+  },
+  {
+    "id": "temperature-16",
+    "question": "Water is transparent to terrestrial radiation",
+    "options": [
+      "completely",
+      "partially",
+      "indifferent"
+    ],
+    "answer": 1,
+    "explanation": "Water vapor and atmospheric moisture partially absorb and partially re-emit longwave terrestrial radiation.",
+    "chapter": "TEMPERATURE",
+    "difficulty": "medium"
+  },
+  {
+    "id": "temperature-17",
+    "question": "Higher the temperature would be the wavelength of emitted radiation",
+    "options": [
+      "longer",
+      "shorter",
+      "moderate"
+    ],
+    "answer": 1,
+    "explanation": "According to Wien's Displacement Law, peak emission wavelength is inversely proportional to temperature (hotter bodies emit shorter wavelengths).",
+    "chapter": "TEMPERATURE",
+    "difficulty": "medium"
+  },
+  {
+    "id": "temperature-18",
+    "question": "Air is a bad conductor of heat. A parcel of air can therefore be regarded as insulated from the environment",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": 1,
+    "explanation": "Because air conducts heat poorly, rising or sinking air parcels exchange negligible heat with surroundings and can be treated adiabatically.",
+    "chapter": "TEMPERATURE",
+    "difficulty": "easy"
+  },
+  {
+    "id": "temperature-19",
+    "question": "Warmer the earth. ..... will be the Nocturnal radiation",
+    "options": [
+      "intense",
+      "weaker",
+      "moderate"
+    ],
+    "answer": 0,
+    "explanation": "Stefan-Boltzmann Law states radiated energy increases with body surface temperature; warmer ground produces more intense nocturnal radiation.",
+    "chapter": "TEMPERATURE",
+    "difficulty": "medium"
+  },
+  {
+    "id": "temperature-20",
+    "question": "Heat is the . .of the KE of all the molecules and atoms of a substance",
+    "options": [
+      "sum total",
+      "average",
+      "Both"
+    ],
+    "answer": 0,
+    "explanation": "Thermal heat energy represents the sum total of kinetic energy across all constituent molecules in a substance.",
+    "chapter": "TEMPERATURE",
+    "difficulty": "easy"
+  },
+  {
+    "id": "temperature-21",
+    "question": "solar radiation consists of about 46 %.....",
+    "options": [
+      "UV",
+      "IR",
+      "Visible"
+    ],
+    "answer": 1,
+    "explanation": "Approximately 46% of total solar spectrum radiation reaching Earth arrives in infrared (IR) wavelengths.",
+    "chapter": "TEMPERATURE",
+    "difficulty": "medium"
+  },
+  {
+    "id": "temperature-22",
+    "question": "The total energy radiated by a black body is proportional to its temperature(T)",
+    "options": [
+      "T²",
+      "12T",
+      "T⁴"
+    ],
+    "answer": 2,
+    "explanation": "The Stefan-Boltzmann Law states total emissive power of a blackbody is directly proportional to $T^4$ (absolute temperature to the fourth power).",
+    "chapter": "TEMPERATURE",
+    "difficulty": "medium"
+  },
+  {
+    "id": "temperature-23",
+    "question": "Intense radiation are emitted by",
+    "options": [
+      "Hot bodies",
+      "Cold bodies",
+      "Stars"
+    ],
+    "answer": 0,
+    "explanation": "Higher body temperatures result in significantly higher radiation intensity.",
+    "chapter": "TEMPERATURE",
+    "difficulty": "easy"
+  },
+  {
+    "id": "temperature-24",
+    "question": "The wavelength of most intense radiation is inversely proportional to its....",
+    "options": [
+      "Absolute temperature",
+      "Humidity",
+      "Albedo"
+    ],
+    "answer": 0,
+    "explanation": "Wien's Law dictates peak emission wavelength $\\lambda_{max}$ is inversely proportional to absolute temperature $T$ in Kelvin.",
+    "chapter": "TEMPERATURE",
+    "difficulty": "easy"
+  },
+  {
+    "id": "temperature-25",
+    "question": "Hot bodies (like sun) radiate",
+    "options": [
+      "Short Waves",
+      "Long Waves",
+      "Both"
+    ],
+    "answer": 0,
+    "explanation": "High-temperature radiant sources emit predominantly shortwave electromagnetic radiation.",
+    "chapter": "TEMPERATURE",
+    "difficulty": "easy"
+  },
+  {
+    "id": "temperature-26",
+    "question": "The flow of heat from earth surface is 77% by",
+    "options": [
+      "Sensible Heat",
+      "Latent Heat"
+    ],
+    "answer": 1,
+    "explanation": "Evaporation and latent heat flux account for the vast majority (~77%) of sensible heat transport away from the Earth's surface.",
+    "chapter": "TEMPERATURE",
+    "difficulty": "medium"
+  },
+  {
+    "id": "temperature-27",
+    "question": "-40°C = -40°F",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": 0,
+    "explanation": "-40° is the unique equality point where Celsius and Fahrenheit scales register identical numerical temperatures.",
+    "chapter": "TEMPERATURE",
+    "difficulty": "easy"
+  },
+  {
+    "id": "temperature-28",
+    "question": "Surface Temperature is recorded at a height of ..... above ground",
+    "options": [
+      "1.5 m",
+      "1.25 m",
+      "2 m"
+    ],
+    "answer": 1,
+    "explanation": "Standard meteorological surface air temperature is measured inside a Stevenson screen positioned approximately 1.25 m (4 ft) above ground.",
+    "chapter": "TEMPERATURE",
+    "difficulty": "medium"
+  },
+  {
+    "id": "temperature-29",
+    "question": "door of Stevenson's screen should open",
+    "options": [
+      "opposite to sun",
+      "into sun",
+      "any direction"
+    ],
+    "answer": 0,
+    "explanation": "The screen door opens facing North (in the Northern Hemisphere) away from the sun to prevent direct sunlight from affecting instruments inside.",
+    "chapter": "TEMPERATURE",
+    "difficulty": "easy"
+  },
+  {
+    "id": "temperature-30",
+    "question": "The liquid used in Minimum Thermometer is",
+    "options": [
+      "mercury",
+      "alcohol",
+      "sprit"
+    ],
+    "answer": 1,
+    "explanation": "Alcohol or spirit is used in minimum thermometers due to its low freezing point and high thermal expansion coefficient.",
+    "chapter": "TEMPERATURE",
+    "difficulty": "easy"
+  },
+  {
+    "id": "temperature-31",
+    "question": "Freezing point of water is",
+    "options": [
+      "0°F",
+      "220°F",
+      "212°F",
+      "32°F"
+    ],
+    "answer": 3,
+    "explanation": "Water freezes at 0°C, which converts to 32°F on the Fahrenheit temperature scale.",
+    "chapter": "TEMPERATURE",
+    "difficulty": "easy"
+  },
+  {
+    "id": "temperature-32",
+    "question": "Boiling point of water is",
+    "options": [
+      "100°F",
+      "112°F",
+      "212°F",
+      "312°F"
+    ],
+    "answer": 2,
+    "explanation": "At standard sea level atmospheric pressure, water boils at 212°F (100°C).",
+    "chapter": "TEMPERATURE",
+    "difficulty": "easy"
+  },
+  {
+    "id": "temperature-33",
+    "question": "Freezing point of water is",
+    "options": [
+      "173 K",
+      "273 K",
+      "373 K",
+      "473 K"
+    ],
+    "answer": 1,
+    "explanation": "Pure water freezes at 0°C, corresponding to 273.15 Kelvin (273 K).",
+    "chapter": "TEMPERATURE",
+    "difficulty": "easy"
+  },
+  {
+    "id": "temperature-34",
+    "question": "Boiling point of water is",
+    "options": [
+      "373 K",
+      "273 K",
+      "173 K",
+      "312 K"
+    ],
+    "answer": 0,
+    "explanation": "Water boils at 100°C, corresponding to 373.15 Kelvin (373 K).",
+    "chapter": "TEMPERATURE",
+    "difficulty": "easy"
+  },
+  {
+    "id": "temperature-35",
+    "question": "Convert 68°F into Kelvin temperature",
+    "options": [
+      "233 K",
+      "283 K",
+      "294 K",
+      "293 K"
+    ],
+    "answer": 3,
+    "explanation": "(68°F - 32) × 5/9 = 20°C. Converting to Kelvin: 20 + 273 = 293 K.",
+    "chapter": "TEMPERATURE",
+    "difficulty": "medium"
+  },
+  {
+    "id": "temperature-36",
+    "question": "Diurnal variation of temperature is least on a day when it is",
+    "options": [
+      "Clear",
+      "Partly cloudy",
+      "Cloudy",
+      "Overcast"
+    ],
+    "answer": 3,
+    "explanation": "Overcast conditions reflect incoming daytime solar radiation and trap outgoing nighttime terrestrial heat, resulting in minimal diurnal range.",
+    "chapter": "TEMPERATURE",
+    "difficulty": "easy"
+  },
+  {
+    "id": "temperature-37",
+    "question": "A clear and calm night is cooler than a cloudy night, because nocturnal radiation",
+    "options": [
+      "escape through cloud",
+      "are partly radiated back by clouds to earth",
+      "are fully absorbed by H2O",
+      "are fully prevented by clouds to escape"
+    ],
+    "answer": 1,
+    "explanation": "Clouds absorb thermal terrestrial radiation and re-emit a portion back down to Earth, whereas clear skies allow heat to escape to space.",
+    "chapter": "TEMPERATURE",
+    "difficulty": "medium"
+  },
+  {
+    "id": "temperature-38",
+    "question": "Which surface will cause higher diurnal variation",
+    "options": [
+      "Forest",
+      "Desert",
+      "Water",
+      "Snow"
+    ],
+    "answer": 1,
+    "explanation": "Dry sand and soil in deserts possess very low specific heat and negligible moisture evaporation, generating extreme daytime highs and nighttime lows.",
+    "chapter": "TEMPERATURE",
+    "difficulty": "easy"
+  },
+  {
+    "id": "temperature-39",
+    "question": "If temperature does not change in a layer with height on a day, indicates",
+    "options": [
+      "Isothermal layer",
+      "Inversion",
+      "Instability",
+      "Uniform Lapse Rate"
+    ],
+    "answer": 0,
+    "explanation": "An atmospheric layer where temperature remains constant with increasing altitude is defined as an isothermal layer.",
+    "chapter": "TEMPERATURE",
+    "difficulty": "easy"
+  }
+  ],
+  "AIR DENSITY":
+  [
+  {
+    "id": "air-density-1",
+    "question": "Density is . . . at poles than equator",
+    "options": [
+      "Higher",
+      "Lower",
+      "Same"
+    ],
+    "answer": 0,
+    "explanation": "Air is colder and more compressed at the poles compared to the warmer air at the equator, resulting in higher surface air density at the poles.",
+    "chapter": "AIR DENSITY",
+    "difficulty": "easy"
+  },
+  {
+    "id": "air-density-2",
+    "question": "Above 8 km density is . . . at poles than at equator",
+    "options": [
+      "Higher",
+      "Lower",
+      "Same"
+    ],
+    "answer": 1,
+    "explanation": "Due to a lower tropopause and rapid pressure drop in cold polar air, air density at altitudes above approximately 8 km becomes lower at the poles than at the equator.",
+    "chapter": "AIR DENSITY",
+    "difficulty": "medium"
+  },
+  {
+    "id": "air-density-3",
+    "question": "The altitude in ISA at which air density is the same as the observed density is",
+    "options": [
+      "Density Altitude",
+      "ISA Density",
+      "Real Density"
+    ],
+    "answer": 0,
+    "explanation": "Density altitude is defined as pressure altitude corrected for non-standard temperature, corresponding to the altitude in the International Standard Atmosphere (ISA) where the existing density is found.",
+    "chapter": "AIR DENSITY",
+    "difficulty": "easy"
+  },
+  {
+    "id": "air-density-4",
+    "question": "Density is usually expressed as",
+    "options": [
+      "Kg/sq m",
+      "g/cu m",
+      "N/sq m"
+    ],
+    "answer": 1,
+    "explanation": "Air density measures mass per unit volume, commonly expressed in units such as grams per cubic meter (g/m³) or kilograms per cubic meter (kg/m³).",
+    "chapter": "AIR DENSITY",
+    "difficulty": "easy"
+  },
+  {
+    "id": "air-density-5",
+    "question": "Higher density altitude means density",
+    "options": [
+      "Higher",
+      "Lower",
+      "Same"
+    ],
+    "answer": 1,
+    "explanation": "A high density altitude corresponds to reduced air density (thinner air), which degrades aircraft performance.",
+    "chapter": "AIR DENSITY",
+    "difficulty": "easy"
+  },
+  {
+    "id": "air-density-6",
+    "question": "For given pressure and temperature moist air has density",
+    "options": [
+      "Higher",
+      "Lower",
+      "Same"
+    ],
+    "answer": 1,
+    "explanation": "Water vapor molecules ($H_2O$, molecular weight ~18) are lighter than diatomic nitrogen ($N_2$, ~28) and oxygen ($O_2$, ~32), making humid air less dense than dry air at the same temperature and pressure.",
+    "chapter": "AIR DENSITY",
+    "difficulty": "medium"
+  },
+  {
+    "id": "air-density-7",
+    "question": "Air is less denser in",
+    "options": [
+      "High Altitudes",
+      "Warm Air",
+      "High humidity",
+      "All these"
+    ],
+    "answer": 3,
+    "explanation": "High altitude (lower pressure), warm air (thermal expansion), and high humidity (lighter water vapor molecules) all contribute to reducing air density.",
+    "chapter": "AIR DENSITY",
+    "difficulty": "easy"
+  },
+  {
+    "id": "air-density-8",
+    "question": "Density altitude may be defined as:",
+    "options": [
+      "altitude in ISA at which the prevailing pressure occurs.",
+      "The altitude in ISA at which the prevailing density occurs.",
+      "The altitude in actual atmosphere at which the prevailing density occurs."
+    ],
+    "answer": 1,
+    "explanation": "Density altitude represents the pressure altitude adjusted for temperature variations, expressed as the equivalent altitude level in ISA conditions.",
+    "chapter": "AIR DENSITY",
+    "difficulty": "medium"
+  },
+  {
+    "id": "air-density-9",
+    "question": "Temperature being constant, if pressure increases the density altitude",
+    "options": [
+      "increases",
+      "lowers",
+      "remains the same"
+    ],
+    "answer": 0,
+    "explanation": "When atmospheric pressure increases at a constant temperature, air density increases. Higher air density corresponds to a lower equivalent density altitude in ISA.",
+    "chapter": "AIR DENSITY",
+    "difficulty": "medium"
+  },
+  {
+    "id": "air-density-10",
+    "question": "For every 1°C change in temperature, density altitude differs from pressure altitude by",
+    "options": [
+      "33 ft",
+      "100 ft",
+      "120 ft",
+      "210 ft"
+    ],
+    "answer": 2,
+    "explanation": "Rule of thumb in aviation meteorology: density altitude changes by approximately 120 feet for every 1°C deviation from standard ISA temperature.",
+    "chapter": "AIR DENSITY",
+    "difficulty": "medium"
+  }
+]
+
+}

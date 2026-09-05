@@ -1,0 +1,5058 @@
+{
+  "GENERAL":[{
+    "question_number": 1,
+    "question": "The Q code on which height is based on airport elevation:",
+    "options": {
+      "a": "QNH",
+      "b": "QFF",
+      "c": "QFE",
+      "d": "QUJ"
+    },
+    "answer": "c"
+  },
+  {
+    "question_number": 2,
+    "question": "When asking for a repeat of a message, you should say:",
+    "options": {
+      "a": "WORDS TWICE",
+      "b": "REPEAT MESSAGE",
+      "c": "SPEAK SLOWER",
+      "d": "SAY AGAIN"
+    },
+    "answer": "d"
+  },
+  {
+    "question_number": 3,
+    "question": "The message \"CHECK\" to an aircraft means that you should:",
+    "options": {
+      "a": "Confirm that you received and understood the last message",
+      "b": "Pass the required information to ATC",
+      "c": "Stay where you are",
+      "d": "Examine a system or procedure"
+    },
+    "answer": "d"
+  },
+  {
+    "question_number": 4,
+    "question": "The term \"CORRECTION\" is used when:",
+    "options": {
+      "a": "The readback of a message is incorrect",
+      "b": "The readback of a message is correct",
+      "c": "The message has to be deleted",
+      "d": "An error has been made in the transmission and the correct version is....."
+    },
+    "answer": "d"
+  },
+  {
+    "question_number": 5,
+    "question": "Your action in response to the instruction from ATC to \"RESET SQUAWK\" is to:",
+    "options": {
+      "a": "Set the numbers to 7000",
+      "b": "Reselect the numbers on the control unit",
+      "c": "Switch to standby and back to ON",
+      "d": "Press the IDENT button"
+    },
+    "answer": "b"
+  },
+  {
+    "question_number": 6,
+    "question": "Readability 2 means that your transmission is:",
+    "options": {
+      "a": "Readable but with difficulty",
+      "b": "Readable",
+      "c": "Readable now and then",
+      "d": "Two way communications have been established"
+    },
+    "answer": "c"
+  },
+  {
+    "question_number": 7,
+    "question": "If you are unable to contact a station on a designated frequency you should:",
+    "options": {
+      "a": "Try another appropriate frequency",
+      "b": "Start transmitting blind",
+      "c": "Land at the nearest suitable aerodrome",
+      "d": "Transmit words twice"
+    },
+    "answer": "a"
+  },
+  {
+    "question_number": 8,
+    "question": "The definition of the instruction \"MONITOR...\" is:",
+    "options": {
+      "a": "Listen out on frequency",
+      "b": "Establish communications on frequency",
+      "c": "Watch out for visual signals on frequency",
+      "d": "You are being watched"
+    },
+    "answer": "a"
+  },
+  {
+    "question_number": 9,
+    "question": "Your reply to the message \"REPORT FLIGHT CONDITIONS\" should be:",
+    "options": {
+      "a": "VFR/IFR",
+      "b": "SMOOTH/TURBULENT",
+      "c": "NOT BAD/SO SO",
+      "d": "VMC/IMC"
+    },
+    "answer": "d"
+  },
+  {
+    "question_number": 10,
+    "question": "An example of a general call is:",
+    "options": {
+      "a": "STOP IMMEDIATELY I SAY AGAIN STOP IMMEDAITELY",
+      "b": "BRAKING ACTION UNRELIABLE",
+      "c": "ALL STATIONS",
+      "d": "GOOD DAY"
+    },
+    "answer": "c"
+  },
+  {
+    "question_number": 11,
+    "question": "The instruction \"ORBIT\" from ATC means that the aircraft should:",
+    "options": {
+      "a": "Carry out a go around",
+      "b": "Continue with 360 degree turns",
+      "c": "Carry out one 360 degree turn only",
+      "d": "Reverse the direction of the turn"
+    },
+    "answer": "b"
+  },
+  {
+    "question_number": 12,
+    "question": "The full range of VHF frequencies used for communications is:",
+    "options": {
+      "a": "3 to 30 MHz",
+      "b": "88 to 108 MHz",
+      "c": "108.0 to 139.95 MHz",
+      "d": "117.95 to 135.195 MHz"
+    },
+    "answer": "d"
+  },
+  {
+    "question_number": 13,
+    "question": "The ATC message \"DISTRESS TRAFFIC ENDED\" signifies that:",
+    "options": {
+      "a": "All traffic are to end their transmissions",
+      "b": "All aircraft on the frequency are to change to another frequency",
+      "c": "Normal ATC is resumed after an emergency",
+      "d": "ATC is shutting shop"
+    },
+    "answer": "c"
+  },
+  {
+    "question_number": 14,
+    "question": "The phrase to use when you want to say \"yes\" is:",
+    "options": {
+      "a": "ROGER",
+      "b": "WILCO",
+      "c": "NEGATIVE",
+      "d": "AFFIRMATIVE"
+    },
+    "answer": "d"
+  },
+  {
+    "question_number": 15,
+    "question": "The term \"RECLEARED\" means that:",
+    "options": {
+      "a": "Your last clearance is confirmed",
+      "b": "Your last clearance has been cancelled",
+      "c": "You may proceed as you please",
+      "d": "A change has been made to your last clearance and this new clearance supersedes your previous clearance"
+    },
+    "answer": "d"
+  },
+  {
+    "question_number": 16,
+    "question": "The definition of the phrase \"STANDBY\" is:",
+    "options": {
+      "a": "Consider the transmission as not sent",
+      "b": "Proceed with your message",
+      "c": "Wait and I will call you",
+      "d": "Hold your present position"
+    },
+    "answer": "c"
+  },
+  {
+    "question_number": 17,
+    "question": "The term \"DISREGARD\" means:",
+    "options": {
+      "a": "Ignore",
+      "b": "Cancel the last clearance",
+      "c": "You have not been cleared",
+      "d": "Pay no attention to what I say"
+    },
+    "answer": "d"
+  },
+  {
+    "question_number": 18,
+    "question": "The instruction from ATC to an aircraft to abandon its take-off includes the phrase:",
+    "options": {
+      "a": "CANCEL TAKE-OFF",
+      "b": "ABORT",
+      "c": "STOP IMMEDIATELY",
+      "d": "YOU WON'T LIKE THIS"
+    },
+    "answer": "c"
+  },
+  {
+    "question_number": 19,
+    "question": "The frequency on which ATIS can be found is:",
+    "options": {
+      "a": "Discrete VHF or VOR frequency",
+      "b": "Discrete VHF only",
+      "c": "VOR frequency only",
+      "d": "Any ATC frequency"
+    },
+    "answer": "a"
+  },
+  {
+    "question_number": 20,
+    "question": "When making a blind transmission you should:",
+    "options": {
+      "a": "Transmit each word twice",
+      "b": "Repeat the message on 121.5 Mhz",
+      "c": "Transmit the message twice",
+      "d": "Wait for visual signals"
+    },
+    "answer": "c"
+  },
+  {
+    "question_number": 21,
+    "question": "The selection of the code 7600 on a transponder indicates:",
+    "options": {
+      "a": "Loss of communications",
+      "b": "Distress",
+      "c": "Urgency",
+      "d": "Hijacking"
+    },
+    "answer": "a"
+  },
+  {
+    "question_number": 22,
+    "question": "An altitude of 13,500 feet would be spoken as:",
+    "options": {
+      "a": "THIRTEEN THOUSAND FIVE HUNDRED FEET",
+      "b": "ONE THREE THOUSAND FIVE ZERO ZERO FEET",
+      "c": "ONE THREE THOUSAND FIVE HUNDRED FEET",
+      "d": "ANGELS THIRTEED POINT FIVE"
+    },
+    "answer": "c"
+  },
+  {
+    "question_number": 23,
+    "question": "Your action in response to the instruction from ATC to \"RESET SQUAWK\" is:",
+    "options": {
+      "a": "Set the numbers to 7000",
+      "b": "Reselect the numbers on the control unit",
+      "c": "Switch to standby and back to ON",
+      "d": "Press the IDENT button"
+    },
+    "answer": "b"
+  },
+  {
+    "question_number": 24,
+    "question": "What cannot be left out from a position report?",
+    "options": {
+      "a": "Callsign, Flight Level and Time",
+      "b": "Callsign, Position and Time",
+      "c": "Position, Time, Flight Level, Next position and ETA",
+      "d": "Your signature"
+    },
+    "answer": "c"
+  },
+  {
+    "question_number": 25,
+    "question": "The phrase \"BRAKING CO-EFFICIENT .20\" from ATC means that braking action:",
+    "options": {
+      "a": "Poor",
+      "b": "Medium to poor",
+      "c": "Medium",
+      "d": "Slippery"
+    },
+    "answer": "a"
+  },
+  {
+    "question_number": 26,
+    "question": "The condition that describes the state of an aircraft in serious and/or imminent danger and requiring immediate assistance is:",
+    "options": {
+      "a": "Urgency",
+      "b": "Flight safety",
+      "c": "Hopeless",
+      "d": "Distress"
+    },
+    "answer": "d"
+  },
+  {
+    "question_number": 27,
+    "question": "The phrase used to separate portions of a message is:",
+    "options": {
+      "a": "BREAK BREAK",
+      "b": "I SAY AGAIN",
+      "c": "BREAK",
+      "d": "UMM"
+    },
+    "answer": "c"
+  },
+  {
+    "question_number": 28,
+    "question": "If a transponder is unserviceable before an IFR departure, then the pilot:",
+    "options": {
+      "a": "Has to cancel the flight",
+      "b": "May proceed with the flight with ATC permission",
+      "c": "Has to fly low level only",
+      "d": "Should fly for another company"
+    },
+    "answer": "b"
+  },
+  {
+    "question_number": 29,
+    "question": "The condition that defines the state of an aircraft in imminent danger is:",
+    "options": {
+      "a": "Mayday",
+      "b": "Distress",
+      "c": "Pan Pan",
+      "d": "Urgency"
+    },
+    "answer": "b"
+  },
+  {
+    "question_number": 30,
+    "question": "The time given in aeronautical communications is:",
+    "options": {
+      "a": "Local mean time",
+      "b": "In minutes only",
+      "c": "UTC",
+      "d": "Daylight saving time"
+    },
+    "answer": "c"
+  },
+  {
+    "question_number": 31,
+    "question": "What is the internationally recognized Distress signal?",
+    "options": {
+      "a": "PAN-PAN (spoken three times)",
+      "b": "SECURITE (spoken three times)",
+      "c": "MAYDAY (spoken three times)",
+      "d": "EMERGENCY (spoken once)"
+    },
+    "answer": "c"
+  },
+  {
+    "question_number": 32,
+    "question": "What is the internationally recognized Urgency signal?",
+    "options": {
+      "a": "PAN-PAN (spoken three times)",
+      "b": "MAYDAY (spoken three times)",
+      "c": "EMERGENCY (spoken three times)",
+      "d": "SECURITE (spoken once)"
+    },
+    "answer": "a"
+  },
+  {
+    "question_number": 33,
+    "question": "The meaning of the abbreviation QNH is:",
+    "options": {
+      "a": "Altimeter setting to read height above the aerodrome.",
+      "b": "Altimeter setting to read height above Mean Sea Level (MSL).",
+      "c": "The standard pressure of 1013.2 hPa.",
+      "d": "Pressure at the station elevation."
+    },
+    "answer": "b"
+  },
+  {
+    "question_number": 34,
+    "question": "The meaning of the abbreviation QFE is:",
+    "options": {
+      "a": "Altimeter setting to read height above MSL.",
+      "b": "Standard atmospheric pressure setting.",
+      "c": "Altimeter setting to read aerodrome elevation when on the ground.",
+      "d": "Expected time en route."
+    },
+    "answer": "c"
+  },
+  {
+    "question_number": 35,
+    "question": "What altimeter setting must be used when operating at or above the Transition Level (TL)?",
+    "options": {
+      "a": "QFE",
+      "b": "QNH of the destination aerodrome",
+      "c": "The standard pressure setting (1013.2 hPa)",
+      "d": "The lowest QNH along the route"
+    },
+    "answer": "c"
+  },
+  {
+    "question_number": 36,
+    "question": "Which of the following is NOT an essential piece of information for a standard Position Report?",
+    "options": {
+      "a": "Time over the reporting point.",
+      "b": "Position/Identification of the reporting point.",
+      "c": "Fuel on board in gallons.",
+      "d": "Next significant point and time estimate."
+    },
+    "answer": "c"
+  },
+  {
+    "question_number": 37,
+    "question": "What action must an aircraft take immediately upon hearing the signal 'MAYDAY' on a frequency it is monitoring?",
+    "options": {
+      "a": "Reply to the distressed aircraft to offer assistance.",
+      "b": "Cease all transmissions immediately and maintain a listening watch.",
+      "c": "Transmit \"SEELONCE FEENEE\" to clear the frequency.",
+      "d": "Change frequency to avoid congestion."
+    },
+    "answer": "b"
+  },
+  {
+    "question_number": 38,
+    "question": "Define the term Readability Code 3.",
+    "options": {
+      "a": "Unreadable",
+      "b": "Readable now and then",
+      "c": "Readable, but with difficulty",
+      "d": "Perfectly readable"
+    },
+    "answer": "c"
+  },
+  {
+    "question_number": 39,
+    "question": "How must the number '12,500' be spoken in radiotelephony?",
+    "options": {
+      "a": "ONE TWO FIVE ZERO ZERO",
+      "b": "ONE TWO THOUSAND FIVE HUNDRED",
+      "c": "TWELVE THOUSAND FIVE HUNDRED",
+      "d": "ONE TWO DECIMAL FIVE ZERO ZERO"
+    },
+    "answer": "b"
+  },
+  {
+    "question_number": 40,
+    "question": "Which instruction from ATC must be read back by the pilot?",
+    "options": {
+      "a": "Weather conditions (METAR).",
+      "b": "ATC route clearances.",
+      "c": "Advisory information.",
+      "d": "Wind speed and direction."
+    },
+    "answer": "b"
+  },
+  {
+    "question_number": 41,
+    "question": "What is the full phraseology for cancelling an urgent message if the situation has improved?",
+    "options": {
+      "a": "PAN-PAN TERMINATED",
+      "b": "CANCELLING URGENCY",
+      "c": "PAN-PAN OVER",
+      "d": "SECURITE ENDED"
+    },
+    "answer": "a"
+  },
+  {
+    "question_number": 42,
+    "question": "Under what condition is an aircraft permitted to use a shortened callsign?",
+    "options": {
+      "a": "The aircraft initiates the shortening after the first successful contact.",
+      "b": "When the pilot deems the radio channel to be non-congested.",
+      "c": "After the ground station (ATC) has initiated the use of the shortened callsign.",
+      "d": "Never, as ICAO prohibits abbreviated callsigns."
+    },
+    "answer": "c"
+  },
+  {
+    "question_number": 43,
+    "question": "What is the standard VHF Emergency Frequency?",
+    "options": {
+      "a": "121.5 MHz",
+      "b": "123.45 MHz",
+      "c": "118.0 MHz",
+      "d": "122.8 MHz"
+    },
+    "answer": "a"
+  },
+  {
+    "question_number": 44,
+    "question": "Which are the two highest priority messages after Distress and Urgency calls?",
+    "options": {
+      "a": "Movement and Safety.",
+      "b": "Meteorological and Regularity.",
+      "c": "Safety and Regularity.",
+      "d": "Positioning and Administrative."
+    },
+    "answer": "c"
+  },
+  {
+    "question_number": 45,
+    "question": "If a message is classified as a Safety message, what does it primarily concern?",
+    "options": {
+      "a": "The safety of the destination runway.",
+      "b": "The safety of navigation or the significant weather warnings.",
+      "c": "The regular operational movements of the aircraft.",
+      "d": "Administrative communication between ground stations."
+    },
+    "answer": "b"
+  },
+  {
+    "question_number": 46,
+    "question": "What is the meaning of the phrase \"SQUAWK 7700\"?",
+    "options": {
+      "a": "Radio Communication Failure",
+      "b": "Unlawful Interference",
+      "c": "General Emergency",
+      "d": "VFR flight below 10,000 feet"
+    },
+    "answer": "c"
+  },
+  {
+    "question_number": 47,
+    "question": "What is the meaning of the phrase \"SQUAWK 7600\"?",
+    "options": {
+      "a": "General Emergency",
+      "b": "Unlawful Interference",
+      "c": "Radio Communication Failure",
+      "d": "Low fuel status"
+    },
+    "answer": "c"
+  },
+  {
+    "question_number": 48,
+    "question": "What is the correct phraseology for requesting permission to change frequency?",
+    "options": {
+      "a": "REQUEST CHANGE TO [frequency/station].",
+      "b": "CLEARED TO CHANGE FREQUENCY.",
+      "c": "ROGER CHANGE FREQUENCY.",
+      "d": "Switching to [frequency/station] now."
+    },
+    "answer": "a"
+  },
+  {
+    "question_number": 49,
+    "question": "What is the primary purpose of Selective Calling (SELCAL)?",
+    "options": {
+      "a": "To automatically select the best radio channel.",
+      "b": "To provide an alternate communication means during RCF.",
+      "c": "To alert a specific aircraft crew to an incoming radio call.",
+      "d": "To encrypt radio communication for security."
+    },
+    "answer": "c"
+  },
+  {
+    "question_number": 50,
+    "question": "What is the full form of the abbreviation METAR and what information does it contain?",
+    "options": {
+      "a": "Medium Terminal Advisory Report; forecast weather.",
+      "b": "Aviation Routine Weather Report; actual weather observation.",
+      "c": "Meteorological Terminal Area Report; general climate info.",
+      "d": "Maximum Estimated Time and Altitude Required; flight path data."
+    },
+    "answer": "b"
+  },
+  {
+    "question_number": 51,
+    "question": "What must an aircraft do if it experiences a complete Radio Communication Failure (RCF) under IFR in VMC?",
+    "options": {
+      "a": "Climb to the highest minimum safe altitude.",
+      "b": "Continue the flight in VMC, land at the nearest suitable aerodrome, and report by phone.",
+      "c": "Proceed according to the last received clearance under IFR rules.",
+      "d": "Squawk 7700 and hold over the nearest VOR."
+    },
+    "answer": "b"
+  },
+  {
+    "question_number": 52,
+    "question": "If experiencing RCF in IMC, the pilot should immediately set the transponder to which code?",
+    "options": {
+      "a": "7700",
+      "b": "7600",
+      "c": "7500",
+      "d": "2000"
+    },
+    "answer": "b"
+  },
+  {
+    "question_number": 53,
+    "question": "Which radio wave property allows HF to travel long distances?",
+    "options": {
+      "a": "Line-of-sight propagation.",
+      "b": "Skywave reflection off the Ionosphere.",
+      "c": "Ground wave following the Earth's curvature.",
+      "d": "Ducting caused by temperature inversions."
+    },
+    "answer": "b"
+  },
+  {
+    "question_number": 54,
+    "question": "Why is VHF communication primarily line-of-sight?",
+    "options": {
+      "a": "The transmitter power is very low.",
+      "b": "VHF waves do not bend significantly around the Earth's curvature or reflect off the ionosphere.",
+      "c": "The frequency is too low.",
+      "d": "VHF is reserved for short-range ground movements."
+    },
+    "answer": "b"
+  },
+  {
+    "question_number": 55,
+    "question": "What does the term 'Simplex' operation mean in radiotelephony?",
+    "options": {
+      "a": "Two frequencies used simultaneously for both transmission and reception.",
+      "b": "A single frequency used for both transmission and reception, but only one station transmits at a time.",
+      "c": "The ability to transmit and receive simultaneously on a single frequency.",
+      "d": "Communication that requires a repeater station."
+    },
+    "answer": "b"
+  },
+  {
+    "question_number": 56,
+    "question": "What type of modulation is used for standard VHF voice communication in aviation?",
+    "options": {
+      "a": "Amplitude Modulation (AM).",
+      "b": "Frequency Modulation (FM).",
+      "c": "Single Sideband (SSB).",
+      "d": "Pulse Code Modulation (PCM)."
+    },
+    "answer": "a"
+  },
+  {
+    "question_number": 57,
+    "question": "What is the function of the Squelch circuit in a radio receiver?",
+    "options": {
+      "a": "To increase the volume of weak signals.",
+      "b": "To tune the receiver to the exact frequency.",
+      "c": "To suppress background receiver noise when no signal is present.",
+      "d": "To automatically select the best antenna."
+    },
+    "answer": "c"
+  },
+  {
+    "question_number": 58,
+    "question": "The relationship between Wavelength (λ) and Frequency (f) is defined by:",
+    "options": {
+      "a": "λ = f / c",
+      "b": "λ = f × c",
+      "c": "λ = c - f",
+      "d": "λ = c / f"
+    },
+    "answer": "d"
+  },
+  {
+    "question_number": 59,
+    "question": "What is the primary advantage of using the Single Sideband (SSB) technique in HF communication?",
+    "options": {
+      "a": "Superior clarity and audio fidelity.",
+      "b": "Elimination of all static and noise.",
+      "c": "Increased range and efficiency by reducing bandwidth and wasted power.",
+      "d": "Easier setup and tuning compared to AM."
+    },
+    "answer": "c"
+  },
+  {
+    "question_number": 60,
+    "question": "What is the function of the Transponder in air traffic control?",
+    "options": {
+      "a": "To transmit radio messages to ATC.",
+      "b": "To reply to ground radar interrogation with a code and altitude information.",
+      "c": "To receive all ATC instructions and display them digitally.",
+      "d": "To automatically record all radio transmissions."
+    },
+    "answer": "b"
+  },
+  {
+    "question_number": 61,
+    "question": "When setting up a radio, what step must be taken before speaking into the microphone?",
+    "options": {
+      "a": "Key the microphone briefly before speaking.",
+      "b": "Wait 5 seconds after keying to allow the transmitter to stabilize.",
+      "c": "Check the volume level.",
+      "d": "Ensure the squelch is turned off."
+    },
+    "answer": "c"
+  },
+  {
+    "question_number": 62,
+    "question": "The process of separating the voice signal from the carrier wave in the receiver is called:",
+    "options": {
+      "a": "Modulation",
+      "b": "Demodulation",
+      "c": "Rectification",
+      "d": "Amplification"
+    },
+    "answer": "b"
+  },
+  {
+    "question_number": 63,
+    "question": "The most common radio wave propagation mode for VHF is:",
+    "options": {
+      "a": "Skywave.",
+      "b": "Surface wave.",
+      "c": "Direct/Line-of-sight.",
+      "d": "Ionospheric scatter."
+    },
+    "answer": "c"
+  },
+  {
+    "question_number": 64,
+    "question": "The term 'Dead Zone' is a problem primarily associated with which frequency band?",
+    "options": {
+      "a": "VHF",
+      "b": "UHF",
+      "c": "HF",
+      "d": "SHF"
+    },
+    "answer": "c"
+  },
+  {
+    "question_number": 65,
+    "question": "What is the recommended maximum duration for a single transmission on the air?",
+    "options": {
+      "a": "No more than 60 seconds.",
+      "b": "No more than 30 seconds.",
+      "c": "Only enough time to say the critical information.",
+      "d": "The pilot can transmit as long as necessary."
+    },
+    "answer": "b"
+  },
+  {
+    "question_number": 66,
+    "question": "The speed of a radio wave in a vacuum is approximately:",
+    "options": {
+      "a": "300 meters per second",
+      "b": "300 kilometers per second",
+      "c": "300,000 kilometers per second",
+      "d": "30,000 kilometers per hour"
+    },
+    "answer": "c"
+  },
+  {
+    "question_number": 67,
+    "question": "What is the primary limitation of VHF (Very High Frequency) radio for long-distance communication?",
+    "options": {
+      "a": "Susceptibility to sunspot activity.",
+      "b": "Limited frequency bandwidth.",
+      "c": "Line-of-sight propagation.",
+      "d": "High power consumption."
+    },
+    "answer": "c"
+  },
+  {
+    "question_number": 68,
+    "question": "The process of modifying a high-frequency carrier wave with a low-frequency signal (voice) is called:",
+    "options": {
+      "a": "Demodulation",
+      "b": "Coupling",
+      "c": "Modulation",
+      "d": "Rectification"
+    },
+    "answer": "c"
+  },
+  {
+    "question_number": 69,
+    "question": "Which band of frequencies is most affected by the changes in the Ionosphere between day and night?",
+    "options": {
+      "a": "VHF",
+      "b": "UHF",
+      "c": "HF",
+      "d": "SHF"
+    },
+    "answer": "c"
+  },
+  {
+    "question_number": 70,
+    "question": "What is a Transceiver?",
+    "options": {
+      "a": "A device that only transmits radio signals.",
+      "b": "A device that only receives radio signals.",
+      "c": "A unit combining a transmitter and a receiver.",
+      "d": "A navigation aid that transmits continuously."
+    },
+    "answer": "c"
+  },
+  {
+    "question_number": 71,
+    "question": "In the formula for wavelength (λ) and frequency (f), λ = c / f, what does 'c' represent?",
+    "options": {
+      "a": "Capacitance",
+      "b": "Speed of the aircraft",
+      "c": "Speed of sound",
+      "d": "Speed of light (radio wave)"
+    },
+    "answer": "d"
+  },
+  {
+    "question_number": 72,
+    "question": "The term 'Dead Zone' or 'Skip Zone' is associated with which type of radio wave propagation?",
+    "options": {
+      "a": "Ground wave",
+      "b": "Line-of-sight",
+      "c": "Skywave (HF)",
+      "d": "Tropospheric scatter"
+    },
+    "answer": "c"
+  },
+  {
+    "question_number": 73,
+    "question": "Which type of antenna is commonly used for VHF communication on aircraft?",
+    "options": {
+      "a": "Long wire antenna",
+      "b": "Blade or whip antenna",
+      "c": "Loop antenna",
+      "d": "Dish antenna"
+    },
+    "answer": "b"
+  },
+  {
+    "question_number": 74,
+    "question": "What is the standard audio frequency range for human speech transmitted in radiotelephony?",
+    "options": {
+      "a": "100 kHz to 300 kHz",
+      "b": "300 Hz to 3400 Hz",
+      "c": "10 kHz to 20 kHz",
+      "d": "1 MHz to 5 MHz"
+    },
+    "answer": "b"
+  },
+  {
+    "question_number": 75,
+    "question": "What does AM stand for in the context of radio modulation?",
+    "options": {
+      "a": "Antenna Modulation",
+      "b": "Amplitude Modulation",
+      "c": "Analog Modulation",
+      "d": "Airborne Modulation"
+    },
+    "answer": "b"
+  },
+  {
+    "question_number": 76,
+    "question": "The main advantage of using HF SSB (Single Sideband) for long-range communication over traditional AM is:",
+    "options": {
+      "a": "Lower bandwidth and higher range for the same power.",
+      "b": "Higher fidelity and clearer audio.",
+      "c": "It is immune to lightning and atmospheric static.",
+      "d": "It only requires a small loop antenna."
+    },
+    "answer": "a"
+  },
+  {
+    "question_number": 77,
+    "question": "When two stations use two different frequencies for simultaneous two-way communication, this is known as:",
+    "options": {
+      "a": "Simplex",
+      "b": "Half Duplex",
+      "c": "Full Duplex",
+      "d": "Triplex"
+    },
+    "answer": "c"
+  },
+  {
+    "question_number": 78,
+    "question": "In an aircraft's VHF radio system, the inter-communication system used for communication between the cockpit and the cabin is called the:",
+    "options": {
+      "a": "ATC Radio",
+      "b": "Interphone or Cabin Announcing System",
+      "c": "HF Radio",
+      "d": "Transponder"
+    },
+    "answer": "b"
+  },
+  {
+    "question_number": 79,
+    "question": "The electrical unit for measuring the rate of flow of current is the:",
+    "options": {
+      "a": "Volt",
+      "b": "Ohm",
+      "c": "Watt",
+      "d": "Ampere"
+    },
+    "answer": "d"
+  },
+  {
+    "question_number": 80,
+    "question": "What is the main purpose of an Automatic Voice Announcing System (AVAS) at an aerodrome?",
+    "options": {
+      "a": "To automatically provide ATC clearances to pilots.",
+      "b": "To broadcast the ATIS (Automatic Terminal Information Service) message.",
+      "c": "To automatically acknowledge all pilot transmissions.",
+      "d": "To provide ground crew with weather updates."
+    },
+    "answer": "b"
+  },
+  {
+    "question_number": 81,
+    "question": "What is the maximum penalty for unauthorized use of radio communication equipment, as per the Indian Telegraph Act, 1885?",
+    "options": {
+      "a": "Fine up to $1,000",
+      "b": "Imprisonment for up to 6 months or fine, or both.",
+      "c": "Imprisonment for up to 3 years or fine, or both.",
+      "d": "Suspension of the pilot's license only."
+    },
+    "answer": "c"
+  },
+  {
+    "question_number": 82,
+    "question": "What is the full pronunciation for the number 5 when transmitting a series of digits in aeronautical mobile service communications?",
+    "options": {
+      "a": "FIVE",
+      "b": "FIFE",
+      "c": "FIV",
+      "d": "FIVVE"
+    },
+    "answer": "b"
+  },
+  {
+    "question_number": 83,
+    "question": "The time transmitted in the aeronautical mobile service should be given to the nearest:",
+    "options": {
+      "a": "Hour",
+      "b": "10 minutes",
+      "c": "Minute",
+      "d": "Second"
+    },
+    "answer": "c"
+  },
+  {
+    "question_number": 84,
+    "question": "The call sign of the ground station should normally appear at which point in a routine communication initiated by the aircraft?",
+    "options": {
+      "a": "It is stated only at the end of the transmission.",
+      "b": "It is stated immediately following the aircraft's own call sign.",
+      "c": "It is stated first, before the aircraft's own call sign.",
+      "d": "It is stated only if the ground station is requested to respond."
+    },
+    "answer": "c"
+  },
+  {
+    "question_number": 85,
+    "question": "Which of the following is the standard phraseology for saying 'Yes' or 'That is correct'?",
+    "options": {
+      "a": "ROGER",
+      "b": "CONFIRM",
+      "c": "AFFIRM",
+      "d": "ACKNOWLEDGE"
+    },
+    "answer": "c"
+  },
+  {
+    "question_number": 86,
+    "question": "The distress signal 'MAYDAY' must be preceded by which alerting call?",
+    "options": {
+      "a": "PAN-PAN (three times)",
+      "b": "MAYDAY RELAY (three times)",
+      "c": "SECURITÉ (three times)",
+      "d": "MAYDAY (three times)"
+    },
+    "answer": "d"
+  },
+  {
+    "question_number": 87,
+    "question": "What is the ICAO standard pronunciation for the digit 9?",
+    "options": {
+      "a": "NINE",
+      "b": "NINER",
+      "c": "NINAH",
+      "d": "NIGHT"
+    },
+    "answer": "b"
+  },
+  {
+    "question_number": 88,
+    "question": "A clearance given by an ATC unit should normally be read back in full by the pilot, except for which type of clearance?",
+    "options": {
+      "a": "Frequency change instructions.",
+      "b": "Taxi instructions.",
+      "c": "Standard instrument departure (SID) name.",
+      "d": "Altitude and flight level instructions are always mandatory readback items."
+    },
+    "answer": "d"
+  },
+  {
+    "question_number": 89,
+    "question": "Which Q-code is used by the ground station to ask the aircraft: 'What is my true bearing from you?'",
+    "options": {
+      "a": "QDM",
+      "b": "QTE",
+      "c": "QDR",
+      "d": "QUJ"
+    },
+    "answer": "b"
+  },
+  {
+    "question_number": 90,
+    "question": "What is the primary action required by a pilot who hears an urgency call (PAN-PAN) on the frequency?",
+    "options": {
+      "a": "Immediately change frequency to clear the channel.",
+      "b": "Continue routine transmission, as it is only an urgency call.",
+      "c": "Acknowledge the call immediately.",
+      "d": "Cease any transmission likely to interfere with the urgency communication."
+    },
+    "answer": "d"
+  },
+  {
+    "question_number": 91,
+    "question": "In the event of a total communication failure (radio failure) on an IFR flight, the pilot should first set the transponder to which emergency code?",
+    "options": {
+      "a": "7500",
+      "b": "7600",
+      "c": "7700",
+      "d": "2000"
+    },
+    "answer": "b"
+  },
+  {
+    "question_number": 92,
+    "question": "What is the recommended range of speech rate (words per minute) for routine radio communication?",
+    "options": {
+      "a": "50 to 80 words per minute",
+      "b": "80 to 120 words per minute",
+      "c": "120 to 150 words per minute",
+      "d": "As fast as possible to minimize channel occupancy."
+    },
+    "answer": "b"
+  },
+  {
+    "question_number": 93,
+    "question": "What is the correct way to express the time 0930 Coordinated Universal Time (UTC) to a ground station?",
+    "options": {
+      "a": "ZERO NINER THREE ZERO ZULU",
+      "b": "ZERO NINER THREE ZERO HOURS",
+      "c": "TIME ZERO NINER THREE ZERO",
+      "d": "NINER THIRTY ZULU"
+    },
+    "answer": "c"
+  },
+  {
+    "question_number": 94,
+    "question": "Which frequency band is primarily used for long-distance, high-frequency (HF) aeronautical communications?",
+    "options": {
+      "a": "VHF (Very High Frequency)",
+      "b": "UHF (Ultra High Frequency)",
+      "c": "HF (High Frequency)",
+      "d": "MF (Medium Frequency)"
+    },
+    "answer": "c"
+  },
+  {
+    "question_number": 95,
+    "question": "What is the correct phraseology for requesting the magnetic heading to be flown to reach the station?",
+    "options": {
+      "a": "REQUEST QDR",
+      "b": "REQUEST QDM",
+      "c": "REQUEST QNH",
+      "d": "REQUEST HEADING"
+    },
+    "answer": "b"
+  },
+  {
+    "question_number": 96,
+    "question": "When an aircraft's assigned altitude or flight level is not to be read back, what phraseology should the controller use?",
+    "options": {
+      "a": "ROGER",
+      "b": "READBACK NOT REQUIRED",
+      "c": "CONFIRM RECEIPT ONLY",
+      "d": "Altitude and flight level instructions are always mandatory readback items."
+    },
+    "answer": "d"
+  },
+  {
+    "question_number": 97,
+    "question": "The transmission of the distress message (MAYDAY message) should contain which three mandatory pieces of information, immediately after the distress signal?",
+    "options": {
+      "a": "Aircraft color, number of people on board, and destination.",
+      "b": "Position, nature of distress, and pilot's name.",
+      "c": "Aircraft call sign, position, and nature of distress.",
+      "d": "Fuel remaining, intentions, and nearest airport."
+    },
+    "answer": "c"
+  },
+  {
+    "question_number": 98,
+    "question": "What is the standard ICAO phonetic word for the letter 'X'?",
+    "options": {
+      "a": "Xavier",
+      "b": "X-ray",
+      "c": "Xylophone",
+      "d": "Extra"
+    },
+    "answer": "b"
+  },
+  {
+    "question_number": 99,
+    "question": "The procedural word (proword) used by an ATC unit to indicate a mistake has been made in the transmission and that the corrected version will follow immediately is:",
+    "options": {
+      "a": "NEGAT",
+      "b": "CORRECTION",
+      "c": "ERROR",
+      "d": "DISREGARD"
+    },
+    "answer": "b"
+  },
+  {
+    "question_number": 100,
+    "question": "What is the maximum effective communication range of standard VHF (Very High Frequency) air-ground communication, which is essentially line-of-sight?",
+    "options": {
+      "a": "50 nautical miles (NM)",
+      "b": "Approximately 200 nautical miles (NM) at high altitudes.",
+      "c": "2,000 nautical miles (NM)",
+      "d": "Limited to 5 nautical miles regardless of altitude."
+    },
+    "answer": "b"
+  },
+  {
+    "question_number": 101,
+    "question": "Which procedural word is used to request permission for the intended action?",
+    "options": {
+      "a": "REQUEST",
+      "b": "CLEARED",
+      "c": "PERMIT",
+      "d": "PROCEED"
+    },
+    "answer": "d"
+  },
+  {
+    "question_number": 102,
+    "question": "The proword 'I SAY AGAIN' should be used when:",
+    "options": {
+      "a": "The message being sent is extremely important.",
+      "b": "The sender is repeating a specific part of the message for clarity.",
+      "c": "The receiving station requested a repeat using 'SAY AGAIN'.",
+      "d": "The aircraft is changing from VFR to IFR."
+    },
+    "answer": "b"
+  },
+  {
+    "question_number": 103,
+    "question": "What is the standard phraseology for expressing visibility of 10 kilometers or more?",
+    "options": {
+      "a": "VISIBILITY ONE ZERO KILOMETRES",
+      "b": "VISIBILITY ONE ZERO PLUS",
+      "c": "VISIBILITY ONE ZERO",
+      "d": "VISIBILITY TEN KILOMETRES OR MORE or VISIBILITY MORE THAN NINE KILOMETRES"
+    },
+    "answer": "d"
+  },
+  {
+    "question_number": 104,
+    "question": "Which of the following is the correct radiotelephony procedure for establishing initial contact with an ATC unit?",
+    "options": {
+      "a": "Aircraft call sign, followed by the ground station call sign and current altitude.",
+      "b": "Ground station call sign, followed by the aircraft call sign, then position, time, and level/altitude.",
+      "c": "Aircraft call sign only, followed by 'CHECKING IN'.",
+      "d": "Ground station call sign, followed by the aircraft's type and a request for service."
+    },
+    "answer": "b"
+  },
+  {
+    "question_number": 105,
+    "question": "The Q-code QFE is used for setting the altimeter to read:",
+    "options": {
+      "a": "Altitude above Mean Sea Level (MSL).",
+      "b": "Pressure altitude (standard pressure 1013.2 hPa).",
+      "c": "Height above the aerodrome elevation (Zero on the ground at the field reference point).",
+      "d": "True air speed."
+    },
+    "answer": "c"
+  },
+  {
+    "question_number": 106,
+    "question": "If an ATC unit transmits 'PASS YOUR MESSAGE', what does this request imply?",
+    "options": {
+      "a": "The aircraft should now change frequency.",
+      "b": "The controller is ready to receive the full content of the previous transmission.",
+      "c": "The aircraft should stand by and wait for instructions.",
+      "d": "The aircraft should pass a message to another aircraft."
+    },
+    "answer": "b"
+  },
+  {
+    "question_number": 107,
+    "question": "The safety signal SECURITÉ (spoken three times) has priority over which other class of message?",
+    "options": {
+      "a": "Distress messages (MAYDAY)",
+      "b": "Urgency messages (PAN-PAN)",
+      "c": "All other communications except distress and urgency.",
+      "d": "All other transmissions on the channel."
+    },
+    "answer": "c"
+  },
+  {
+    "question_number": 108,
+    "question": "What is the standard ICAO phonetic word for the number 3?",
+    "options": {
+      "a": "THREE",
+      "b": "TREE",
+      "c": "THREE-E",
+      "d": "TREE"
+    },
+    "answer": "d"
+  },
+  {
+    "question_number": 109,
+    "question": "If a pilot has been instructed to 'REPORT PASSING [FIX]', what is the primary purpose of this instruction?",
+    "options": {
+      "a": "To notify the controller that the aircraft is performing a holding procedure.",
+      "b": "To request permission to proceed to the next waypoint.",
+      "c": "To allow the controller to confirm the aircraft's position and verify the navigation performance.",
+      "d": "To request a change in the flight path."
+    },
+    "answer": "c"
+  },
+  {
+    "question_number": 110,
+    "question": "Which procedural word (proword) is used by a ground station to indicate that the aircraft is authorized to proceed under the conditions specified?",
+    "options": {
+      "a": "STANDBY",
+      "b": "PROCEED",
+      "c": "ROGER",
+      "d": "AFFIRM"
+    },
+    "answer": "b"
+  },
+  {
+    "question_number": 111,
+    "question": "What is the correct phraseology a pilot should use to request to change frequency from the current controlling agency to another?",
+    "options": {
+      "a": "CHANGE TO NEW FREQUENCY",
+      "b": "REQUEST CONTACT",
+      "c": "SWITCH TO [FREQUENCY]",
+      "d": "CONTACT [CONTROL UNIT] [FREQUENCY]"
+    },
+    "answer": "d"
+  },
+  {
+    "question_number": 112,
+    "question": "The phonetic spelling for the letter 'V' in the ICAO phonetic alphabet is:",
+    "options": {
+      "a": "Vessel",
+      "b": "Volta",
+      "c": "Very",
+      "d": "Victor"
+    },
+    "answer": "d"
+  },
+  {
+    "question_number": 113,
+    "question": "What is the proper phraseology for transmitting the number '10,000' feet in a standard radio communication?",
+    "options": {
+      "a": "TEN THOUSAND",
+      "b": "ONE ZERO ZERO ZERO ZERO FEET",
+      "c": "ONE ZERO THOUSAND FEET",
+      "d": "ONE ZERO THOUSAND"
+    },
+    "answer": "d"
+  },
+  {
+    "question_number": 114,
+    "question": "When a radiotelephone operator is told to 'STANDBY', what is the expected action?",
+    "options": {
+      "a": "Immediately change frequency as instructed.",
+      "b": "End the transmission with 'OUT' and await further instructions.",
+      "c": "Wait for a short but unspecified period for a reply.",
+      "d": "Repeat the last transmission for confirmation."
+    },
+    "answer": "c"
+  },
+  {
+    "question_number": 115,
+    "question": "What is the minimum required signal strength (readability) for a successful two-way radiotelephone communication in the aeronautical mobile service?",
+    "options": {
+      "a": "Readability 1 (Unreadable)",
+      "b": "Readability 2 (Readable now and then)",
+      "c": "Readability 3 (Readable, but with difficulty)",
+      "d": "Readability 5 (Perfectly readable)"
+    },
+    "answer": "c"
+  },
+  {
+    "question_number": 116,
+    "question": "What Q-code is used to request the magnetic bearing from the station to the aircraft?",
+    "options": {
+      "a": "QDM",
+      "b": "QDR",
+      "c": "QTE",
+      "d": "QFU"
+    },
+    "answer": "b"
+  },
+  {
+    "question_number": 117,
+    "question": "In a situation involving a fire onboard the aircraft that is NOT immediately life-threatening but requires urgent action, which signal should the pilot transmit before the message?",
+    "options": {
+      "a": "MAYDAY",
+      "b": "EMERGENCY",
+      "c": "PAN-PAN",
+      "d": "SECURITÉ"
+    },
+    "answer": "c"
+  },
+  {
+    "question_number": 118,
+    "question": "How are flight levels (FLs) above the Transition Altitude normally transmitted by radio?",
+    "options": {
+      "a": "In feet above mean sea level (MSL).",
+      "b": "As the full number followed by 'THOUSAND FEET'.",
+      "c": "In metres above mean sea level (MSL).",
+      "d": "As the number of hundreds of feet, spoken as individual digits, followed by the word 'FLIGHT LEVEL'."
+    },
+    "answer": "d"
+  },
+  {
+    "question_number": 119,
+    "question": "If a ground station sends a message and receives no reply, what is the maximum number of times it may repeat the call sign of the station called, before giving the message 'TO ALL STATIONS'?",
+    "options": {
+      "a": "Once",
+      "b": "Twice",
+      "c": "Three times",
+      "d": "Four times"
+    },
+    "answer": "c"
+  },
+  {
+    "question_number": 120,
+    "question": "When an Air Traffic Control (ATC) unit needs to cancel a previously issued clearance, which proword should they use to introduce the cancellation?",
+    "options": {
+      "a": "DISREGARD",
+      "b": "CANCEL",
+      "c": "NEGATIVE",
+      "d": "CORRECTION"
+    },
+    "answer": "b"
+  },
+  {
+    "question_number": 121,
+    "question": "What is the correct phraseology to indicate that the entire last message has been received and understood, and the instruction contained therein will be executed.",
+    "options": {
+      "a": "ROGER",
+      "b": "AFFIRM",
+      "c": "WILCO",
+      "d": "OUT"
+    },
+    "answer": "c"
+  },
+  {
+    "question_number": 122,
+    "question": "The distress signal MAYDAY, when spoken three times, indicates what level of urgency for the aircraft and its occupants?",
+    "options": {
+      "a": "An urgent situation concerning the safety of an aircraft or other vehicle, or of some person on board or in sight.",
+      "b": "The aircraft is experiencing a minor technical fault that requires attention but is not immediately life-threatening.",
+      "c": "The aircraft is threatened by grave and imminent danger and requires immediate assistance.",
+      "d": "An aircraft is initiating a practice emergency procedure for training purposes."
+    },
+    "answer": "c"
+  },
+  {
+    "question_number": 123,
+    "question": "What is the correct meaning of the Q-code QNH?",
+    "options": {
+      "a": "The atmospheric pressure at aerodrome elevation.",
+      "b": "The atmospheric pressure at mean sea level (MSL) used for setting the altimeter to indicate elevation above MSL.",
+      "c": "The magnetic bearing from the station to the aircraft.",
+      "d": "The true bearing from the aircraft to the station."
+    },
+    "answer": "b"
+  },
+  {
+    "question_number": 124,
+    "question": "According to the standard readability scale used in aeronautical radio communication, which rating signifies 'Readability poor'?",
+    "options": {
+      "a": "Readability 1",
+      "b": "Readability 2",
+      "c": "Readability 3",
+      "d": "Readability 4"
+    },
+    "answer": "c"
+  },
+  {
+    "question_number": 125,
+    "question": "What time standard is mandatory for use in all aeronautical mobile service communications?",
+    "options": {
+      "a": "Local Time, specified by the controlling station.",
+      "b": "Coordinated Universal Time (UTC), often referred to as 'Zulu' time.",
+      "c": "Greenwich Mean Time (GMT).",
+      "d": "Daylight Saving Time (DST) of the departure aerodrome."
+    },
+    "answer": "b"
+  },
+  {
+    "question_number": 126,
+    "question": "Which procedural word (proword) is used by a radiotelephone operator to indicate that a separation is made between portions of a message?",
+    "options": {
+      "a": "OVER",
+      "b": "BREAK",
+      "c": "STANDBY",
+      "d": "SAY AGAIN"
+    },
+    "answer": "b"
+  },
+  {
+    "question_number": 127,
+    "question": "What is the highest precedence category for a message transmitted in the aeronautical mobile service?",
+    "options": {
+      "a": "Urgency messages, such as those concerning serious technical difficulties.",
+      "b": "Safety messages, such as those relating to important flight conditions.",
+      "c": "Distress messages, indicated by MAYDAY.",
+      "d": "Flight safety messages, such as Air Traffic Control clearances."
+    },
+    "answer": "c"
+  },
+  {
+    "question_number": 128,
+    "question": "If an ATC unit transmits 'SAY AGAIN', what is the pilot being requested to do?",
+    "options": {
+      "a": "Change the transmitting frequency.",
+      "b": "Repeat all or part of the message.",
+      "c": "Speak slower and more clearly.",
+      "d": "Wait for a short period before transmitting again."
+    },
+    "answer": "b"
+  },
+  {
+    "question_number": 129,
+    "question": "What is the primary characteristic of the spoken word 'ALL STATIONS' when preceding a transmission from an Air Traffic Control (ATC) unit?",
+    "options": {
+      "a": "The message is of a confidential nature and only authorized personnel should listen.",
+      "b": "The message is directed to all aircraft stations within the receiving range of the transmitting station.",
+      "c": "It is a request for a radio check from every aircraft on the frequency.",
+      "d": "It signals the end of the ATC unit's operational duty for the period."
+    },
+    "answer": "b"
+  },
+  {
+    "question_number": 130,
+    "question": "What is the standard phraseology used by a mobile station to request the atmospheric pressure setting that will cause the altimeter to indicate elevation above the aerodrome reference point?",
+    "options": {
+      "a": "REQUEST QNH",
+      "b": "REQUEST QFE",
+      "c": "REQUEST ELEVATION",
+      "d": "REQUEST ALTIMETER SETTING"
+    },
+    "answer": "b"
+  },
+  {
+    "question_number": 131,
+    "question": "How to overcome Fading?",
+    "options": {
+      "1": "By using AVC (Automatic Volume Control)",
+      "2": "By using BFO (Beat Frequency Oscillator)",
+      "3": "By Squelching"
+    },
+    "answer": "1"
+  },
+  {
+    "question_number": 132,
+    "question": "Which of the following equipments does not work on UHF",
+    "options": {
+      "1": "ILS Glidepath",
+      "2": "ILS Localizer",
+      "3": "DME"
+    },
+    "answer": "2"
+  },
+  {
+    "question_number": 133,
+    "question": "If an aircrafts MCTOM is 140000kgs, in which wake turbulence category will it come?",
+    "options": {
+      "1": "Medium",
+      "2": "Heavy",
+      "3": "Super Heavy"
+    },
+    "answer": "2"
+  },
+  {
+    "question_number": 134,
+    "question": "Which one of the following is not a condition that needs to be fulfilled for start up clearance?",
+    "options": {
+      "1": "Security Check of all persons.",
+      "2": "Pre flight check of aircraft.",
+      "3": "Removal of aero bridge/stairs/ramp."
+    },
+    "answer": "1"
+  },
+  {
+    "question_number": 135,
+    "question": "Why do we dump fuel?",
+    "options": {
+      "1": "Fuel quality is not good.",
+      "2": "Fuel available is more than required.",
+      "3": "Aircraft's weight is more than maximum landing weight."
+    },
+    "answer": "3"
+  },
+  {
+    "question_number": 136,
+    "question": "Select the nationality and registration mark that can be used.",
+    "options": {
+      "1": "VT-TTT",
+      "2": "VT-XXX",
+      "3": "VT-SOS"
+    },
+    "answer": "1"
+  },
+  {
+    "question_number": 137,
+    "question": "If runway surface is damp it means",
+    "options": {
+      "1": "Surface is not affected by water, slush, snow or ice.",
+      "2": "Significant patches of standing water are visible.",
+      "3": "Surface shows a change of colour due to moisture."
+    },
+    "answer": "3"
+  },
+  {
+    "question_number": 138,
+    "question": "Routes L, M, N, P are:",
+    "options": {
+      "1": "International RNAV routes.",
+      "2": "Domestic RNAV routes.",
+      "3": "International Non- RNAV routes."
+    },
+    "answer": "1"
+  },
+  {
+    "question_number": 139,
+    "question": "Which of the following is an example of simplex mode of communication",
+    "options": {
+      "1": "Mobile",
+      "2": "Fax",
+      "3": "Landline"
+    },
+    "answer": "2"
+  },
+  {
+    "question_number": 140,
+    "question": "ELT stands for",
+    "options": {
+      "1": "Emergency Location Transmitter",
+      "2": "Emergency Locator Transmitter",
+      "3": "Emergency Location Transmission"
+    },
+    "answer": "2"
+  },
+  {
+    "question_number": 141,
+    "question": "Emergency phase INCERFA means",
+    "options": {
+      "1": "Situation wherein there is a reasonable certainty that aircraft & its occupants are threatened by grave & imminent danger and require immediate assistance.",
+      "2": "When there is apprehend on the safety of aircraft or its occupants. Eg: aircraft fails to land within 5 mins of expected landing time.",
+      "3": "When there is uncertainty about the safety of aircraft or its occupants."
+    },
+    "answer": "3"
+  },
+  {
+    "question_number": 142,
+    "question": "If you exp RCF and ATC is giving light gun signals of Green Flashing light, it means",
+    "options": {
+      "1": "Cleared to land",
+      "2": "Return for landing and await landing clearance",
+      "3": "Clear to divert to alternate"
+    },
+    "answer": "2"
+  },
+  {
+    "question_number": 143,
+    "question": "Select the correct morse code for distress",
+    "options": {
+      "1": "(...---...)",
+      "2": "(...--...)",
+      "3": "(-.-.-.)"
+    },
+    "answer": "1"
+  },
+  {
+    "question_number": 144,
+    "question": "In SVFR visibility should not be less than",
+    "options": {
+      "1": "1500m",
+      "2": "3000m",
+      "3": "4000m"
+    },
+    "answer": "1"
+  },
+  {
+    "question_number": 145,
+    "question": "The routine wx report of an aerodrome issued every half an hour is called",
+    "options": {
+      "1": "SIGMET",
+      "2": "SPECI",
+      "3": "METAR"
+    },
+    "answer": "3"
+  },
+  {
+    "question_number": 146,
+    "question": "Select the correct option regarding SAR (Search & Rescue)",
+    "options": {
+      "1": "India is divided into 5 search and Rescue areas.",
+      "2": "The Sub center of SAR is in Kochi.",
+      "3": "SAR doesn't come under SARCC."
+    },
+    "answer": "2"
+  },
+  {
+    "question_number": 147,
+    "question": "QTF refers to",
+    "options": {
+      "1": "True Bearing from the station",
+      "2": "TAS",
+      "3": "Position of station according to bearings taken by direction finder station."
+    },
+    "answer": "3"
+  },
+  {
+    "question_number": 148,
+    "question": "Which one of the following is not a prohibited area",
+    "options": {
+      "1": "Tirupati Tirumala, Andhra Pradesh",
+      "2": "Bhabha Atomic Research center",
+      "3": "Red Fort Delhi"
+    },
+    "answer": "1"
+  },
+  {
+    "question_number": 149,
+    "question": "Which of the following is true regarding SSR",
+    "options": {
+      "1": "Not Affected by Wx.",
+      "2": "Tx & Rx both are on ground.",
+      "3": "Frequency is constant throughout."
+    },
+    "answer": "1"
+  },
+  {
+    "question_number": 150,
+    "question": "Select the correct Combination of Marker Beacons",
+    "options": {
+      "1": "OM | Cockpit Light: White | Frequency: 3000Hz | Pitch: High",
+      "2": "OM | Cockpit Light: Blue | Frequency: 400Hz | Pitch: Low",
+      "3": "MM | Cockpit Light: Amber | Frequency: 1300Hz | Pitch: Low"
+    },
+    "answer": "2"
+  },
+  {
+    "question_number": 151,
+    "question": "If you are flying North of VIDP in uncontrolled airspace you will contact",
+    "options": {
+      "1": "ALL STATIONS on 121.5",
+      "2": "Alpha Control",
+      "3": "Delhi Info."
+    },
+    "answer": "3"
+  },
+  {
+    "question_number": 152,
+    "question": "The phrase \"I SAY AGAIN\" means",
+    "options": {
+      "1": "I repeat for clarity",
+      "2": "Repeat all or following part of your transmission",
+      "3": "An error has been made in the last transmission"
+    },
+    "answer": "1"
+  },
+  {
+    "question_number": 153,
+    "question": "If we experience RCF in SID in a radar environment",
+    "options": {
+      "1": "We will maintain last cleared limit for 7 mins",
+      "2": "We will maintain MEL/MEA for 7 mins",
+      "3": "We will maintain whichever is higher between the above two for 7 mins."
+    },
+    "answer": "3"
+  },
+  {
+    "question_number": 154,
+    "question": "If your TAS is 300kts what will you mention in your flight plan in item no. 15",
+    "options": {
+      "1": "K300",
+      "2": "N300",
+      "3": "N0300"
+    },
+    "answer": "3"
+  },
+  {
+    "question_number": 155,
+    "question": "The call sign of the ATC unit Direction Finding Station is",
+    "options": {
+      "1": "Finder",
+      "2": "Homer",
+      "3": "Radar"
+    },
+    "answer": "2"
+  },
+  {
+    "question_number": 156,
+    "question": "\"IT\" is the IATA code of which airline ?",
+    "options": {
+      "1": "Kingfisher Airlines",
+      "2": "Jet Lite",
+      "3": "Indigo Airlines"
+    },
+    "answer": "1"
+  },
+  {
+    "question_number": 157,
+    "question": "In Non- RVSM airspace FL390 will be",
+    "options": {
+      "1": "An Easterly track",
+      "2": "A Westerly track",
+      "3": "Could be any of the above"
+    },
+    "answer": "1"
+  },
+  {
+    "question_number": 158,
+    "question": "What does the Watch Hrs \"HN\" means",
+    "options": {
+      "1": "No specified working hours.",
+      "2": "Station is working sunset to sunrise.",
+      "3": "Station is working sunrise to sunset."
+    },
+    "answer": "2"
+  },
+  {
+    "question_number": 159,
+    "question": "Errors caused by the effect of Coastal refraction are maximum when the NDB is:",
+    "options": {
+      "1": "Inland & the bearing crosses the coast at an acute angle.",
+      "2": "Near the coast and the bearing crosses the coast at right angle.",
+      "3": "Inland & the bearing crosses the coast at right angles."
+    },
+    "answer": "1"
+  },
+  {
+    "question_number": 160,
+    "question": "Decision Altitude is the Altitude",
+    "options": {
+      "1": "In a non-precision approach below which we can't descend.",
+      "2": "In a precision approach where a Missed Approach must be initiated if runway is not visible.",
+      "3": "Where we decide what type of approach are we going to do."
+    },
+    "answer": "2"
+  },
+  {
+    "question_number": 161,
+    "question": "What is the volume 4 of Annexure 10",
+    "options": {
+      "1": "Aeronautical Radio Frequency Spectrum Utilization.",
+      "2": "Communication Procedures.",
+      "3": "Surveillance Radar & Collision Avoidance Systems."
+    },
+    "answer": "3"
+  },
+  {
+    "question_number": 162,
+    "question": "NOTAM Colour code yellow means",
+    "options": {
+      "1": "Warning",
+      "2": "ATC facilities",
+      "3": "Communication & Navigation"
+    },
+    "answer": "2"
+  },
+  {
+    "question_number": 163,
+    "question": "NOTAM information required by domestic flights only will come in",
+    "options": {
+      "1": "Series G",
+      "2": "Series C",
+      "3": "Series A"
+    },
+    "answer": "2"
+  },
+  {
+    "question_number": 164,
+    "question": "Annexure 15 stands for",
+    "options": {
+      "1": "Air Traffic Services",
+      "2": "Aerodromes",
+      "3": "Aeronautical Information Services"
+    },
+    "answer": "3"
+  },
+  {
+    "question_number": 165,
+    "question": "AIC (Aeronautical Information Circular) is issued by:",
+    "options": {
+      "1": "DGCA",
+      "2": "MOCA",
+      "3": "ICAO"
+    },
+    "answer": "1"
+  },
+  {
+    "question_number": 166,
+    "question": "RT phrase \"RE-CLEARED\" means",
+    "options": {
+      "1": "Permission for proposed action granted.",
+      "2": "Authorized to proceed under conditions specified.",
+      "3": "A change has been made to your last clearance and this new clearance supersedes your previous clearance or part thereof."
+    },
+    "answer": "3"
+  },
+  {
+    "question_number": 167,
+    "question": "ATIS is",
+    "options": {
+      "1": "Automated Terminal Information Service",
+      "2": "Automatic Terminal Information Service",
+      "3": "Automatic Terminal Information System"
+    },
+    "answer": "2"
+  },
+  {
+    "question_number": 168,
+    "question": "VIR 156",
+    "options": {
+      "1": "Is a prohibited area in Delhi FIR",
+      "2": "Is a restricted area in Delhi FIR",
+      "3": "Is a restricted area in Mumbai FIR"
+    },
+    "answer": "2"
+  },
+  {
+    "question_number": 169,
+    "question": "If you are flying at FL350 and your Mode c fails",
+    "options": {
+      "1": "Will request descend to FL290",
+      "2": "Will request descend to FL270",
+      "3": "Will fly offset until it bcomes operational."
+    },
+    "answer": "1"
+  },
+  {
+    "question_number": 170,
+    "question": "If Hydraulic pressure is low it is",
+    "options": {
+      "1": "A case of RVSM suspension",
+      "2": "A Distress Situation",
+      "3": "An Urgency Situation"
+    },
+    "answer": "3"
+  },
+  {
+    "question_number": 171,
+    "question": "If an Aircraft has crossed at your level at about 7NM you will use the phrase",
+    "options": {
+      "1": "AIRPROX RISK OF COLLISION",
+      "2": "AIRPROX SAFETY NOT ASSURED",
+      "3": "AIRPROX RISK NOT DETERMINED"
+    },
+    "answer": "2"
+  },
+  {
+    "question_number": 172,
+    "question": "If you experience a Wind Shear on Take off path you will give",
+    "options": {
+      "1": "A MAYDAY call",
+      "2": "A PAN PAN call",
+      "3": "A Wind Shear Report"
+    },
+    "answer": "3"
+  },
+  {
+    "question_number": 173,
+    "question": "If after departure your aircraft gets hit by a flock of birds resulting in structural damage",
+    "options": {
+      "1": "Will ask ATC to divert to nearest aerodrome",
+      "2": "Will give a MAYDAY call",
+      "3": "Will give a PAN PAN call"
+    },
+    "answer": "3"
+  },
+  {
+    "question_number": 174,
+    "question": "The IATA code of Jet Lite Airlines is",
+    "options": {
+      "1": "9W",
+      "2": "2T",
+      "3": "S2"
+    },
+    "answer": "3"
+  },
+  {
+    "question_number": 175,
+    "question": "Battery of ELT lasts for",
+    "options": {
+      "1": "24hrs",
+      "2": "48hrs",
+      "3": "50hrs"
+    },
+    "answer": "2"
+  },
+  {
+    "question_number": 176,
+    "question": "Which of the following is not a part of AIS (Aeronautical Information Service)",
+    "options": {
+      "1": "Annexures",
+      "2": "AIRAC (Aeronautical Info Regulation & Control)",
+      "3": "PIB (Pre flight Info. Bulletin)"
+    },
+    "answer": "1"
+  },
+  {
+    "question_number": 177,
+    "question": "Skip distance is",
+    "options": {
+      "1": "The distance between Tx & Rx.",
+      "2": "The distance between Tx and the point on the surface where the first sky wave returns.",
+      "3": "The area between the limit of surface wave & point of reception of first sky wave."
+    },
+    "answer": "2"
+  },
+  {
+    "question_number": 178,
+    "question": "The speed of Radio wave in NM/sec is:",
+    "options": {
+      "1": "300,000",
+      "2": "161,842",
+      "3": "163,842"
+    },
+    "answer": "2"
+  },
+  {
+    "question_number": 179,
+    "question": "In which Frequency Band does Airborne Weather Radar operates",
+    "options": {
+      "1": "SHF",
+      "2": "UHF",
+      "3": "VHF"
+    },
+    "answer": "1"
+  },
+  {
+    "question_number": 180,
+    "question": "Radio waves traveling from sea to land",
+    "options": {
+      "1": "Bends towards normal",
+      "2": "Bends away from normal",
+      "3": "Does not bend at all"
+    },
+    "answer": "1"
+  },
+  {
+    "question_number": 181,
+    "question": "What does the abbreviation \"FIR\" mean?",
+    "options": {
+      "A": "Flight information region",
+      "B": "Flight information required",
+      "C": "Flow information received",
+      "D": "Flight information radar"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 182,
+    "question": "The signal that is used to identify an urgency call is:",
+    "options": {
+      "A": "PAN PAN PAN",
+      "B": "URGENCY URGENCY URGENCY",
+      "C": "MAYDAY MAYDAY MAYDAY",
+      "D": "PAN PAN PAN PAN PAN PAN"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 183,
+    "question": "UTC stands for?",
+    "options": {
+      "A": "Universal time Co-ordinate",
+      "B": "Co-ordinated Universal time",
+      "C": "United time Co-ordinate",
+      "D": "Universal Co-ordinated time"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 184,
+    "question": "Which abbreviation is used for the term \"control zone\"?",
+    "options": {
+      "A": "CTR",
+      "B": "CTZ",
+      "C": "CTA",
+      "D": "CZ"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 185,
+    "question": "The abbreviation RVR stands for:",
+    "options": {
+      "A": "Radio Vertical Range.",
+      "B": "Runway Visual Range.",
+      "C": "Restricted Visual Rules.",
+      "D": "Runway Vertical Range."
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 186,
+    "question": "PAPI stands for:",
+    "options": {
+      "A": "Precision approach indicators.",
+      "B": "Pitch attitude prime instrument.",
+      "C": "Precision approach path indicators",
+      "D": "Propeller and power indicator."
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 187,
+    "question": "ITU stands for?",
+    "options": {
+      "A": "International Telecommunication Unit",
+      "B": "International Telecommunication Union",
+      "C": "International Telecommunicating Union",
+      "D": "International Telecommunicating Unit"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 188,
+    "question": "How do you pronounce the letter 'Z' in aviation phonetics",
+    "options": {
+      "A": "Zee",
+      "B": "Zulu",
+      "C": "Zed",
+      "D": "Zoom"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 189,
+    "question": "When an aircraft lands with QNH set the altimeter will read:",
+    "options": {
+      "A": "QFE and is the same as QNH.",
+      "B": "Airfield elevation.",
+      "C": "Flight Level.",
+      "D": "Zero."
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 190,
+    "question": "A message concerning an aircraft being threatened by grave and imminent danger, requiring immediate assistance is called:",
+    "options": {
+      "A": "Distress message",
+      "B": "Class B message",
+      "C": "Urgency message",
+      "D": "Flight safety message"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 191,
+    "question": "Time difference in UTC and IST is",
+    "options": {
+      "A": "3 hours 30 mins",
+      "B": "4 hours",
+      "C": "5 hours 30 mins",
+      "D": "6 hours"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 192,
+    "question": "How do we pronounce letter 'L' in aviation",
+    "options": {
+      "A": "LEEMA",
+      "B": "LIMMAH",
+      "C": "LIMA",
+      "D": "LEE MAH"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 193,
+    "question": "Full form of VMC is",
+    "options": {
+      "A": "VFR minimum criteria",
+      "B": "Visibility minima conditions",
+      "C": "Visual meteorological conditions",
+      "D": "Visual flight meteorological conditions"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 194,
+    "question": "Which word or phrase shall be used if you want to say: \"Wait and I will call you\"?",
+    "options": {
+      "A": "Standby",
+      "B": "Roger",
+      "C": "Go ahead",
+      "D": "Wilco"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 195,
+    "question": "Which phrase shall be used if you want to say: \"I understand your message and will comply with it\":",
+    "options": {
+      "A": "OK, will do it",
+      "B": "Will comply with your instruction",
+      "C": "Roger",
+      "D": "Wilco"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 196,
+    "question": "The phrase used to separate portions of a message is:",
+    "options": {
+      "A": "BREAK",
+      "B": "REPEAT",
+      "C": "BREAK BREAK",
+      "D": "I SAY AGAIN"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 197,
+    "question": "Full form of AFTN is",
+    "options": {
+      "A": "Aircraft fixed terminal number",
+      "B": "Aeronautical fixed telecommunication network",
+      "C": "Aeronautical fixed service routing area",
+      "D": "airframe flight time number"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 198,
+    "question": "Which is the maximum distance at which you might expect solid VHF contact over flat terrain at flight level 100:",
+    "options": {
+      "A": "About 30 NM.",
+      "B": "About 120 NM.",
+      "C": "About 12 NM.",
+      "D": "About 300 NM."
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 199,
+    "question": "What is meant by the phrase READIBILITY 4?",
+    "options": {
+      "A": "Readable.",
+      "B": "Readable but with difficulty.",
+      "C": "Readable now and then.",
+      "D": "Perfectly readable."
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 200,
+    "question": "A aircraft is squawking 7600. This indicates:",
+    "options": {
+      "A": "It is unable to establish communication due to radio equipment failure",
+      "B": "It is about to make a forced landing",
+      "C": "It is requesting immediate level change",
+      "D": "It is diverting to the alternate aerodrome"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 201,
+    "question": "How do you pronounce Number 9 in aviation phonetics",
+    "options": {
+      "A": "Niner",
+      "B": "Nine",
+      "C": "NIN-er",
+      "D": "Nin"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 202,
+    "question": "When the term \"Broken\" is used in an aviation routine weather report (METAR), the amount of clouds covering the sky is:",
+    "options": {
+      "A": "8 octas below 10000 feet",
+      "B": "1 to 4 octas",
+      "C": "5 to 7 octas",
+      "D": "No clouds below 5000 feet"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 203,
+    "question": "What is the location indicator for Mumbai",
+    "options": {
+      "A": "VAMM",
+      "B": "VABB",
+      "C": "VABO",
+      "D": "VIBB"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 204,
+    "question": "What is the transponder code for radio communication failure:",
+    "options": {
+      "A": "6700",
+      "B": "7500",
+      "C": "7700",
+      "D": "7600"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 205,
+    "question": "An aircraft in distress shall send the following signal by radiotelephony:",
+    "options": {
+      "A": "MAYDAY, MAYDAY, MAYDAY",
+      "B": "PANPAN, PANPAN, PANPAN",
+      "C": "URGENCY, URGENCY, URGENCY",
+      "D": "DETRESFA, DETRESFA, DETRESFA"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 206,
+    "question": "The distress message shall contain as many as possible of the following elements/details:",
+    "options": {
+      "A": "Aircraft call sign, route of flight, destination airport",
+      "B": "Aircraft call sign, present position, assistance required",
+      "C": "Aircraft call sign, aerodrome of departure, position and level",
+      "D": "Aircraft call sign, nature of distress, pilot's intention, present position, level and heading"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 207,
+    "question": "A PAN message is defined as follows:",
+    "options": {
+      "A": "Medical assistance only is required immediately after the aircraft lands.",
+      "B": "A condition concerning the safety of an aircraft or other vehicle, or of some person on board or within sight, but does not require immediate assistance.",
+      "C": "PAN is no longer used in aircraft telecommunications.",
+      "d": "A condition of being threatened by serious and/or imminent danger and of requiring immediate assistance."
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 208,
+    "question": "What is the Annex 10 of ICAO",
+    "options": {
+      "A": "Personnel licensing",
+      "B": "Rules of the air",
+      "C": "Aeronautical Telecommunication",
+      "D": "Aeronautical information publication"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 209,
+    "question": "Which is the frequency band containing frequencies of the Aeronautical Mobile Service",
+    "options": {
+      "A": "11650-13200 KHz",
+      "B": "118.000-136.975 MHz",
+      "C": "108.000-117.975 MHz",
+      "D": "1810-2850 KHz"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 210,
+    "question": "DME stands for",
+    "options": {
+      "A": "Distance measuring equipment",
+      "B": "Drift measuring equipment",
+      "C": "Distance measured en-route",
+      "D": "None of the above"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 211,
+    "question": "Expand ELT",
+    "options": {
+      "A": "Extremely light traffic",
+      "B": "Emergency location transmitter",
+      "C": "Emergency locator transmitter",
+      "D": "Effective Locator transmitter"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 212,
+    "question": "What is the operating range of VOR",
+    "options": {
+      "A": "108-117.975 Khz",
+      "B": "108-117.975 Mhz",
+      "C": "108-117.975 Hz",
+      "D": "108-117.975 Ghz"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 213,
+    "question": "What does the term WILCO mean?",
+    "options": {
+      "A": "I have understood your message",
+      "B": "I have received your message",
+      "C": "I understand your message and will comply with it",
+      "D": "I will comply with your message"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 214,
+    "question": "What does the abbreviation \"SSR\" mean?",
+    "options": {
+      "A": "Secondary surveillance radar",
+      "B": "Search and surveillance radar",
+      "C": "Standard snow report",
+      "D": "Surface strength of runway"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 215,
+    "question": "Which word or phrase shall be used if you want to say: \"Reduce your rate of speech\"?",
+    "options": {
+      "A": "Say again",
+      "B": "Repeat",
+      "C": "Words twice",
+      "D": "Speak slower"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 216,
+    "question": "DME works on?",
+    "options": {
+      "A": "HF band",
+      "B": "VHF band",
+      "C": "UHF band",
+      "D": "None of the above"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 217,
+    "question": "Which of these phrases is used if you want to communicate that a message: CONSIDER THAT TRANSMISSION AS NOT SENT:",
+    "options": {
+      "A": "Disregard.",
+      "B": "Cancel my last message.",
+      "C": "Forget it.",
+      "D": "My last transmission is cancelled."
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 218,
+    "question": "In order to request for a readability check in flight you should use the phrase:",
+    "options": {
+      "A": "HOW ME",
+      "B": "REQUEST READABILITY CHECK",
+      "C": "RADIO CHECK",
+      "D": "HOW DO YOU READ"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 219,
+    "question": "An aircraft is instructed to hold short of the runway-in-use. What is the correct phraseology to indicate it will follow this instruction?",
+    "options": {
+      "A": "Holding short",
+      "B": "Roger",
+      "C": "Will stop before",
+      "d": "Wilco"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 220,
+    "question": "When the term \"Cavok\" is used in an aviation routine weather report (METAR), the values of visibility and clouds are:",
+    "options": {
+      "A": "Visibility 10 km or more, no clouds below 5000 feet/GND",
+      "B": "Visibility 10 km or more, no clouds below 1500 feet/GND",
+      "C": "Visibility more than 8 km, no clouds below 3000 feet/GND",
+      "D": "Visibility more than 5000 m, no clouds below 1500 feet/GND"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 221,
+    "question": "NOTAM stands for",
+    "options": {
+      "A": "Notice to aircraft",
+      "B": "Notice to Airmen",
+      "C": "Notice to aviator",
+      "D": "Notice to air missions"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 222,
+    "question": "What does the abbreviation \"INS\" mean?",
+    "options": {
+      "A": "International navigation service",
+      "B": "Instrument navigation system",
+      "C": "International NOTAM system",
+      "D": "Inertial navigation system"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 223,
+    "question": "What is the location indicator for Jalgaon",
+    "options": {
+      "A": "VIJL",
+      "B": "VAJL",
+      "C": "VOJL",
+      "D": "VEJL"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 224,
+    "question": "The frequency 121.500 MHz is designated as:",
+    "options": {
+      "A": "A regional UHF frequency",
+      "B": "An airline operation frequency",
+      "C": "A frequency for air-to-air communication",
+      "D": "An international emergency frequency"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 225,
+    "question": "SSR operates on",
+    "options": {
+      "A": "10khz to 14khz",
+      "B": "118 Mhz to 137 Mhz",
+      "C": "2Mhz to 22Mhz",
+      "D": "1030Mhz and 1090 Mhz"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 226,
+    "question": "How does ATC report RVR?",
+    "options": {
+      "A": "In kilometres along the final approach.",
+      "B": "In metres at touchdown, mid-point and stop-end of runway.",
+      "C": "In feet and inches.",
+      "D": "In nautical miles along with runway."
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 227,
+    "question": "Which phrase shall be used if you want to say: \"I should like to know...\" or \"I wish to obtain...\"?",
+    "options": {
+      "A": "Acknowledge",
+      "B": "Report",
+      "C": "Confirm",
+      "D": "Request"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 228,
+    "question": "What does the instruction \"Orbit right\" mean?",
+    "options": {
+      "A": "Make 360 turns to the right",
+      "B": "keep turning right Advised",
+      "C": "Leave the runway to the right",
+      "D": "Right-hand circuits are in use"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 229,
+    "question": "What does the phrase READ BACK mean:",
+    "options": {
+      "A": "Check and confirm with originator.",
+      "B": "Did you correctly receive this message?",
+      "C": "Repeat all, or the specified part, of this message back to me exactly as received.",
+      "D": "Let me know that you have received and understood this message."
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 230,
+    "question": "What does QDR mean?",
+    "options": {
+      "A": "Magnetic heading to the station (no wind)",
+      "B": "True bearing from the station",
+      "C": "Magnetic bearing from the station"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 231,
+    "question": "If you are requested to report your height, to which Q-code-setting would you refer?",
+    "options": {
+      "A": "QFE",
+      "B": "QNH",
+      "C": "QBI"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 232,
+    "question": "Which Q-code is used to report altitude?",
+    "options": {
+      "A": "QFF",
+      "B": "QNJ",
+      "C": "QNH"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 233,
+    "question": "What does ATIS mean?",
+    "options": {
+      "A": "Automated Termination Information Service",
+      "B": "Automatic Traffic Information Service",
+      "C": "Automatic Terminal Information Service"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 234,
+    "question": "What is the Q-code for \"magnetic heading to the station (no wind)\"?",
+    "options": {
+      "A": "QDM",
+      "B": "QNE",
+      "C": "QTE"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 235,
+    "question": "What does CTR mean?",
+    "options": {
+      "A": "CONTROL REGION",
+      "B": "CONTROL ZONE",
+      "C": "CONTROL AREA"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 236,
+    "question": "What is the Q-code for \"true bearing from the station\"?",
+    "options": {
+      "A": "QTE",
+      "B": "QDR",
+      "C": "QDM"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 237,
+    "question": "What is the Q-code for \"magnetic bearing from the station\"?",
+    "options": {
+      "A": "QDM",
+      "B": "QTE",
+      "C": "QDR"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 238,
+    "question": "QNH is the Q-code to indicate:",
+    "options": {
+      "A": "The atmospheric pressure referred to the highest obstacle located on the surface of an aerodrome.",
+      "B": "The atmospheric pressure measured at the aerodrome reference point (ARP).",
+      "C": "The altimeter sub-scale setting to obtain elevation when on the ground."
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 239,
+    "question": "What does QDL mean?",
+    "options": {
+      "A": "I intend to ask you for a series of bearings.",
+      "B": "True heading to the station (no wind).",
+      "C": "True bearing from the station."
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 240,
+    "question": "What does QNE mean?",
+    "options": {
+      "A": "What indication will my altimeter give on landing at ... (place) at ... hours, my sub-scale being set to 1013.2 millibars (29.92 inches)?",
+      "B": "What should I set on the subscale of my altimeter so that the instrument would indicate its height above the reference elevation being used?",
+      "C": "What should I set on the subscale of my altimeter so that the instrument would indicate its elevation if my aircraft were on the ground at your station?"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 241,
+    "question": "A radio direction finding station will use the following Q code to pass a true heading (no wind) to an aircraft to head for that station:",
+    "options": {
+      "A": "QUJ.",
+      "B": "QGE.",
+      "C": "QDM."
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 242,
+    "question": "The order of priority of the following messages in the aeronautical mobile service is:",
+    "options": {
+      "A": "Meteorological message, direction finding message, flight regularity message",
+      "B": "Distress message, flight safety message, urgency message",
+      "C": "Distress message, urgency message, direction finding message"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 243,
+    "question": "What is the correct way of transmitting the number 3500 when indicating an altitude or an height?",
+    "options": {
+      "A": "Three thousand five hundred",
+      "B": "Three five zero zero",
+      "C": "Three five double zero"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 244,
+    "question": "During the transmission of numbers containing a decimal point:",
+    "options": {
+      "A": "The term Decimal must always be transmitted",
+      "B": "The term Decimal can be omitted if no chance of misunderstandings exists",
+      "C": "The term Decimal must be spoken only if followed by three digits"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 245,
+    "question": "The time is 9:20A.M. What is the correct way of transmitting this time if there is no possibility of confusion about the hour?",
+    "options": {
+      "A": "Nine twenty A.M.",
+      "B": "Two zero",
+      "C": "Twenty"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 246,
+    "question": "Which phrase shall be used if you want to say: AN ERROR HAS BEEN MADE IN THIS TRANSMISSION (or message indicated). THE CORRECT VERSION IS:",
+    "options": {
+      "A": "QNH 1017, negative QNH 1016",
+      "B": "QNH 1017, correction QNH 1016",
+      "C": "QNH 1017, negative I say again 1016"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 247,
+    "question": "A message preceded by the phrase TRANSMITTING BLIND DUE RECEIVER FAILURE shall be transmitted:",
+    "options": {
+      "A": "On the regional guard frequency.",
+      "B": "On the international emergency frequency.",
+      "C": "On the frequency presently in use."
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 248,
+    "question": "Which phraseology is to be used to ask the control tower for permission to taxi on a runway in the direction opposite to that in use?",
+    "options": {
+      "A": "\"To enter back runway\"",
+      "B": "\"Backtrack clearance\"",
+      "C": "\"Request backtrack on runway\""
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 249,
+    "question": "Which phrase shall be used if you want to say: \"Yes\":",
+    "options": {
+      "A": "Affirm",
+      "B": "Affirmative",
+      "C": "Roger"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 250,
+    "question": "The phrase used by ATC to instruct you to listen out on a frequency is:",
+    "options": {
+      "A": "MONITOR",
+      "B": "REPORT",
+      "C": "LISTEN"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 251,
+    "question": "What is the radiotelephony call sign for the aeronautical station providing surface movement control of aircraft on the manoeuvring area:",
+    "options": {
+      "A": "TOWER",
+      "B": "GROUND",
+      "C": "CONTROL"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 252,
+    "question": "What is the radiotelephony call sign for the aeronautical station providing approach control radar departures:",
+    "options": {
+      "A": "RADAR APPROACH",
+      "B": "APPROACH",
+      "C": "APPROACH RADAR"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 253,
+    "question": "The initial call from an aircraft, callsign AIR INDIA 285 weighing more than than 136 tonnes would be:",
+    "options": {
+      "A": "AIR INDIA 285 HEAVY",
+      "B": "HEAVY AIR INDIA 285",
+      "C": "AIR INDIA 285"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 254,
+    "question": "On the readability scale what does \"Readability 3\" mean:",
+    "options": {
+      "A": "Readable but with difficulty",
+      "B": "Loud and clear",
+      "C": "No problem to understand"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 255,
+    "question": "A test call shall not continue for more than:",
+    "options": {
+      "A": "8 seconds.",
+      "B": "12 seconds.",
+      "C": "10 seconds."
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 256,
+    "question": "King air VT-ABC receives the following instruction: \"V-BC climb straight ahead until 2500feet before turning right, wind 270 degrees 6 knots, cleared for take-off\". What is the correct read back:",
+    "options": {
+      "A": "Straight ahead, 2500 feet right turn, wind west 6 knots, cleared for take-off, V-BC",
+      "B": "Straight ahead, at 2500 feet right turn, cleared for take-off, V-BC",
+      "C": "Wilco, cleared for take-off, V-BC"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 257,
+    "question": "Which elements of instructions or information shall always be read back?",
+    "options": {
+      "A": "Runway in use, altimeter settings, SSR codes, level instructions, heading and speed instructions",
+      "B": "Runway-in-use, visibility, surface wind, heading instructions, altimeter settings",
+      "C": "Time check, runway in use, altimeter settings, level instructions, SSR codes"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 258,
+    "question": "When the term \"Overcast\" is used in an aviation routine weather report (METAR), the amount of clouds covering the sky is:",
+    "options": {
+      "A": "100%",
+      "B": "8 octas",
+      "C": "50% or more"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 259,
+    "question": "What is the correct way of expressing visibility?",
+    "options": {
+      "A": "Visibility 1.2 nautical miles",
+      "B": "Visibility 1200 feet",
+      "C": "Visibility 1200 metres"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 260,
+    "question": "When the term \"Cavok\" is used in an aviation routine weather report (METAR), the values of visibility and clouds are:",
+    "options": {
+      "A": "Visibility 10 km or more, no clouds below 5000 feet/GND",
+      "B": "Visibility more than 8 km, no clouds below 3000 feet/GND",
+      "C": "Visibility 10 km or more, no clouds below 1500 feet/GND"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 261,
+    "question": "When the term \"Broken\" is used in an aviation routine weather report (METAR), the amount of clouds covering the sky is:",
+    "options": {
+      "A": "5 to 7 octas",
+      "B": "8 octas below 10000 feet",
+      "C": "No clouds below 5000 feet"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 262,
+    "question": "When the term \"Scattered\" is used in an aviation routine weather report (METAR), the amount of clouds covering the sky is:",
+    "options": {
+      "A": "No clouds below 5000 feet",
+      "B": "Half or less than half (3 or 4 octas)",
+      "C": "More than half but less than overcast (5 to 7 octas)"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 263,
+    "question": "An aircraft station fails to establish radio contact with an aeronautical station on the designated frequency. What action is required by the pilot:",
+    "options": {
+      "A": "Return to the airport of departure",
+      "B": "Land at the nearest airport without an ATC unit",
+      "C": "Attempt to establish contact with the station on an alternative frequency"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 264,
+    "question": "In the event that a pilot is required to make a blind transmission, this should be made:",
+    "options": {
+      "A": "During VFR flights only",
+      "B": "Twice on the designated frequency",
+      "C": "Only once on the designated frequency"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 265,
+    "question": "Distress is defined as:",
+    "options": {
+      "A": "A condition concerning the attitude of an aircraft when intercepting the localizer during an ILS approach",
+      "B": "A condition concerning the safety of a person on board or within sight and requiring immediate assistance",
+      "C": "A condition of being threatened by serious and/or imminent danger and requiring immediate assistance"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 266,
+    "question": "Under which of the following circumstances shall an aircraft squawk 7700?",
+    "options": {
+      "A": "In distress",
+      "B": "When following a SID",
+      "C": "When passing the transition level"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 267,
+    "question": "An aircraft in distress shall send the following signal by radiotelephony:",
+    "options": {
+      "A": "URGENCY, URGENCY, URGENCY",
+      "B": "DETRESFA, DETRESFA, DETRESFA",
+      "C": "MAYDAY, MAYDAY, MAYDAY"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 268,
+    "question": "The frequency used for the transmission of a \"MAYDAY\" call shall be:",
+    "options": {
+      "A": "The frequency currently in use",
+      "B": "Any frequency at pilot's discretion",
+      "C": "The distress frequency 121.5 MHz"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 269,
+    "question": "An urgency call content is to be as follows:",
+    "options": {
+      "A": "PAN PAN PAN, aircraft identification, the intention of the person in command, heading, height, position.",
+      "B": "PAN PAN PAN (on 121.5 MHz), present position, heading aircraft identification, the intention of the person in command, the identification of the station being called.",
+      "C": "PAN PAN PAN (on the frequency in use), name of station addressed, the nature of the urgency condition, the intention of the person in command."
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 270,
+    "question": "An \"Automatic Terminal Information Service\" provides:",
+    "options": {
+      "A": "Information concerning en-route weather phenomena which may effect the safety of aircraft operation",
+      "B": "Routine information to arriving and departing aircraft by means of continuous and repetitive broadcast",
+      "C": "Weather reports relating a specific number of aerodromes located within a flight information region (FIR)"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 271,
+    "question": "When flying on a SW heading at 3500 feet you would report your heading and level as:",
+    "options": {
+      "A": "HEADING 225 AT THREE THOUSAND FIVE HUNDRED",
+      "B": "SOUTHWEST AT THREE FIVE ZERO ZERO",
+      "C": "HEADING 045 AT THREE THOUSAND FIVE HUNDRED"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 272,
+    "question": "What is the radiotelephony call sign for the aeronautical station indicating area control centre (no radar):",
+    "options": {
+      "A": "...CENTRE",
+      "B": "...CONTROL",
+      "C": "...APPROACH"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 273,
+    "question": "What is the radiotelephony call sign for the aeronautical station indicating approach control radar arrivals:",
+    "options": {
+      "A": "...ARRIVAL",
+      "B": "...RADAR",
+      "C": "...APPROACH"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 274,
+    "question": "A BLIND TRANSMISSION is a transmission:",
+    "options": {
+      "A": "Where the transmitter is unable to see the receiver.",
+      "B": "The transmitter of the called station is not functioning.",
+      "C": "From one station to another when there is no communication but where it is believed that the caller station is able to receive the transmission."
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 275,
+    "question": "To indicate that he is no longer occupying the active runway a pilot shall report to the controller:",
+    "options": {
+      "A": "Runway free",
+      "B": "Clear of runway",
+      "C": "Runway vacated"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 276,
+    "question": "An aircraft encountering radio communication failure on an IFR flight in IMC is assumed to:",
+    "options": {
+      "A": "Execute a VMC approach at the nearest suitable aerodrome",
+      "B": "Proceed in accordance with the current flight plan to the designated navigation aid serving the destination aerodrome",
+      "C": "Divert to the most suitable aerodrome according to the route of flight"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 277,
+    "question": "An aircraft encountering radio communication failure on an IFR flight in IMC has to commence descent over the designated navigation aid serving the destination aerodrome (no EAT received):",
+    "options": {
+      "A": "5 minutes after the last expected approach time acknowledged",
+      "B": "At, or as close to, the ETA resulting from the current flight plan",
+      "c": "After 3 minutes, if an expected approach time is not acknowledged"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 278,
+    "question": "A protected medical transport is identified by the prefix:",
+    "options": {
+      "A": "PAN PAN PAN PAN PAN PAN",
+      "B": "AIR AMBULANCE",
+      "C": "PAN PAN MEDICAL"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 279,
+    "question": "Which of the following statements is correct?",
+    "options": {
+      "A": "The urgency communications have priority over all the other communications",
+      "B": "The urgency communications have priority over all the other communications, except distress",
+      "C": "ATC clearances have the same priority as urgency communications"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 280,
+    "question": "The VOLMET broadcasts include information about:",
+    "options": {
+      "A": "METARS for selected airfields.",
+      "B": "Arrival and departure details for selected airfields.",
+      "C": "TAFs for selected airfields."
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 281,
+    "question": "What is the correct way of transmitting the number 13500?",
+    "options": {
+      "A": "One three five zero zero",
+      "B": "One three five hundred",
+      "C": "One three thousand five hundred"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 282,
+    "question": "What, if any, is the abbreviated call sign of Air India 5345?",
+    "options": {
+      "A": "Air India 345",
+      "B": "Air India 45",
+      "C": "No abbreviated form"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 283,
+    "question": "The maximum theoretical range at which an aircraft at FL80 can obtain bearings from a ground VHF facility sited at 325ft above MSL is:",
+    "options": {
+      "A": "107NM",
+      "B": "134NM",
+      "C": "158NM"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 284,
+    "question": "A frequency of 295 KHz would be described as:",
+    "options": {
+      "A": "HF.",
+      "B": "short wave.",
+      "C": "LF."
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 285,
+    "question": "In radio terms, frequency means:",
+    "options": {
+      "A": "The number of complete waveforms passing a spot in one second.",
+      "B": "The number of waveforms in one hour.",
+      "C": "The length of a complete waveform in metres."
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 286,
+    "question": "The wavelength of HF is?",
+    "options": {
+      "A": "Centimetric",
+      "B": "Decemetric.",
+      "C": "Metric."
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 287,
+    "question": "Weather radar is?",
+    "options": {
+      "A": "Centimetric",
+      "B": "Decimetric",
+      "C": "Metric."
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 288,
+    "question": "What is the wavelength and waveband of a radio aid that uses a frequency of 19 cm.",
+    "options": {
+      "A": "15.79 Hz, ELF.",
+      "B": "1.579 Ghz, UHF",
+      "C": "1.579 Mhz, VHF"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 289,
+    "question": "You observe thunderstorms with out hail on your route. On radiotelephony you shall report the phenomenon as:",
+    "options": {
+      "A": "Thunderstorms, no hail.",
+      "B": "Thunderstorms.",
+      "C": "Thunderstorms, hail not observed."
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 290,
+    "question": "SATVOICE is:",
+    "options": {
+      "A": "A valid Long-Range Communication System (LRCS).",
+      "B": "Not a valid Long-Range Communication System (LRCS) as yet.",
+      "C": "Another name for SATCOM."
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 291,
+    "question": "All effects of electricity take place because of the existence of a tiny particle called the:",
+    "options": {
+      "a": "electric",
+      "b": "proton",
+      "c": "neutron",
+      "d": "electron"
+    },
+    "answer": "d"
+  },
+  {
+    "question_number": 292,
+    "question": "The nucleus of an atom is:",
+    "options": {
+      "a": "positively charged",
+      "b": "negatively charged",
+      "c": "statically charged",
+      "d": "of zero potential"
+    },
+    "answer": "a"
+  },
+  {
+    "question_number": 293,
+    "question": "An atom is electrically balanced when:",
+    "options": {
+      "a": "its protons and electrons balance each other",
+      "b": "the protons outnumber the electrons",
+      "c": "the electrons outnumber the protons",
+      "d": "the electric and static charges are balanced"
+    },
+    "answer": "a"
+  },
+  {
+    "question_number": 294,
+    "question": "The electrons of an atom are:",
+    "options": {
+      "a": "positively charged",
+      "b": "neutral",
+      "c": "negatively charged",
+      "d": "of zero potential"
+    },
+    "answer": "c"
+  },
+  {
+    "question_number": 295,
+    "question": "A material with a deficiency of electrons becomes:",
+    "options": {
+      "a": "positively charged",
+      "b": "negatively charged",
+      "c": "isolated",
+      "d": "overheated"
+    },
+    "answer": "a"
+  },
+  {
+    "question_number": 296,
+    "question": "A material with a surplus of electrons becomes:",
+    "options": {
+      "a": "positively charged",
+      "b": "negatively charged",
+      "c": "over charged",
+      "d": "saturated"
+    },
+    "answer": "b"
+  },
+  {
+    "question_number": 297,
+    "question": "Heat produces an electric charge when:",
+    "options": {
+      "a": "like poles are joined",
+      "b": "a hard and soft glass is heated",
+      "c": "the junction of two unlike metals is heated",
+      "d": "hard and soft material are rubbed together"
+    },
+    "answer": "c"
+  },
+  {
+    "question_number": 298,
+    "question": "Friction causes:",
+    "options": {
+      "a": "mobile electricity",
+      "b": "basic electricity",
+      "c": "static electricity",
+      "d": "wild electricity"
+    },
+    "answer": "c"
+  },
+  {
+    "question_number": 299,
+    "question": "Chemical action produces electricity in:",
+    "options": {
+      "a": "a light meter",
+      "b": "a generator",
+      "c": "a primary cell",
+      "d": "starter generator"
+    },
+    "answer": "c"
+  },
+  {
+    "question_number": 300,
+    "question": "A photo electric cell produces electricity when:",
+    "options": {
+      "a": "two metals are heated",
+      "b": "exposed to a light source",
+      "c": "a light source is removed",
+      "d": "exposed to the heat of the sun"
+    },
+    "answer": "b"
+  },
+  {
+    "question_number": 301,
+    "question": "The difference in electric potential is measured in:",
+    "options": {
+      "a": "KVARS",
+      "b": "watts",
+      "c": "amps",
+      "d": "volts"
+    },
+    "answer": "d"
+  },
+  {
+    "question_number": 302,
+    "question": "Electrical power is measured in:",
+    "options": {
+      "a": "watts",
+      "b": "amperes",
+      "c": "ohms",
+      "d": "volts"
+    },
+    "answer": "a"
+  },
+  {
+    "question_number": 303,
+    "question": "The unit measurement of electrical resistance is:",
+    "options": {
+      "a": "the volt",
+      "b": "the watt",
+      "c": "the ohm",
+      "d": "the ampere"
+    },
+    "answer": "c"
+  },
+  {
+    "question_number": 304,
+    "question": "An ammeter measures:",
+    "options": {
+      "a": "current",
+      "b": "power dissipation",
+      "c": "differences of electrical potential",
+      "d": "heat energy"
+    },
+    "answer": "a"
+  },
+  {
+    "question_number": 305,
+    "question": "Materials containing 'free electrons' are called:",
+    "options": {
+      "a": "insulators",
+      "b": "resistors",
+      "c": "collectors",
+      "d": "conductors"
+    },
+    "answer": "d"
+  },
+  {
+    "question_number": 306,
+    "question": "The unit used for measuring the EMF of electricity is:",
+    "options": {
+      "a": "the ohm",
+      "b": "the ampere",
+      "c": "the volt",
+      "d": "the watt"
+    },
+    "answer": "c"
+  },
+  {
+    "question_number": 307,
+    "question": "The unit used for measuring:",
+    "options": {
+      "a": "current - is the volt",
+      "b": "resistance is the ohm",
+      "c": "electric power - is the capacitor",
+      "d": "EMF - is the amp"
+    },
+    "answer": "b"
+  },
+  {
+    "question_number": 308,
+    "question": "Three resistors of 60 ohms each in parallel give a total resistance of:",
+    "options": {
+      "a": "180 ohms",
+      "b": "40 ohms",
+      "c": "30 ohms",
+      "d": "20 ohms"
+    },
+    "answer": "d"
+  },
+  {
+    "question_number": 309,
+    "question": "A voltmeter measures:",
+    "options": {
+      "a": "electromotive force",
+      "b": "the heat loss in a series circuit",
+      "c": "the current flow in a circuit",
+      "d": "the resistance provided by the trimming devices"
+    },
+    "answer": "a"
+  },
+  {
+    "question_number": 310,
+    "question": "Watts =",
+    "options": {
+      "a": "resistance squared x amps",
+      "b": "volts x ohms",
+      "c": "ohms x amps",
+      "d": "volts x amps"
+    },
+    "answer": "d"
+  },
+  {
+    "question_number": 311,
+    "question": "The total resistance of a number of power consumer devices connected in series is:",
+    "options": {
+      "a": "the addition of the individual resistances",
+      "b": "the addition of the reciprocals of the individual resistance",
+      "c": "the reciprocal of the total",
+      "d": "twice the reciprocal of the individual resistances"
+    },
+    "answer": "a"
+  },
+  {
+    "question_number": 312,
+    "question": "The total resistance of a number of resistances connected in parallel is:",
+    "options": {
+      "a": "R = R1 + R2 + R3 + R4",
+      "b": "1/RT = 1/R1 + 1/R2 + 1/R3 + 1/R4",
+      "c": "1/RT = R1 + R2 + R3 + R4",
+      "d": "R/T1 = 1/R + R2/1 + 1/R + R4/1"
+    },
+    "answer": "b"
+  },
+  {
+    "question_number": 313,
+    "question": "Ohm's Law states:",
+    "options": {
+      "a": "Current in amps = Resistance in ohms / Electromotive force in volts",
+      "b": "Resistance in ohms = Current in amps / Electromotive force in volts",
+      "c": "Current in amps = Electromotive force in volts / Resistance in ohms"
+    },
+    "answer": "c"
+  },
+  {
+    "question_number": 314,
+    "question": "A device consuming 80 watts at 8 amps would have a voltage supply of:",
+    "options": {
+      "a": "640 volts",
+      "b": "12 volts",
+      "c": "10 volts",
+      "d": "8 volts"
+    },
+    "answer": "c"
+  },
+  {
+    "question_number": 315,
+    "question": "In a simple electrical circuit, if the resistors are in parallel, the total current consumed is equal to:",
+    "options": {
+      "a": "the sum of the currents taken by the resistors divided by the number of resistors",
+      "b": "the sum of the currents taken by the resistors",
+      "c": "the average current taken by the resistors times the number of the resistors",
+      "d": "the sum of the reciprocals of the currents taken by the resistors"
+    },
+    "answer": "b"
+  },
+  {
+    "question_number": 316,
+    "question": "The symbol for volts is:",
+    "options": {
+      "a": "E or W",
+      "b": "V or E",
+      "c": "I or V",
+      "d": "R or W"
+    },
+    "answer": "b"
+  },
+  {
+    "question_number": 317,
+    "question": "Electrical potential is measured in:",
+    "options": {
+      "a": "watts",
+      "b": "bars",
+      "c": "volts",
+      "d": "ohms"
+    },
+    "answer": "c"
+  },
+  {
+    "question_number": 318,
+    "question": "If a number of electrical consuming devices were connected in parallel, the reciprocal of the total resistance would be:",
+    "options": {
+      "a": "the sum of the currents",
+      "b": "the sum of the reciprocals of the individual resistances",
+      "c": "the sum of their resistances",
+      "d": "volts divided by the sum of the resistances"
+    },
+    "answer": "b"
+  },
+  {
+    "question_number": 319,
+    "question": "The current flowing in an electrical circuit is measured in:",
+    "options": {
+      "a": "volts",
+      "b": "ohms",
+      "c": "inductance",
+      "d": "amps"
+    },
+    "answer": "d"
+  },
+  {
+    "question_number": 320,
+    "question": "Electromotive force is measured in:",
+    "options": {
+      "a": "amps x volts",
+      "b": "watts",
+      "c": "ohms",
+      "d": "volts"
+    },
+    "answer": "d"
+  },
+  {
+    "question_number": 321,
+    "question": "Ohm's Law is given by the formula:",
+    "options": {
+      "a": "I = R / V",
+      "b": "V = R / I",
+      "c": "I = V / R",
+      "d": "R = V * I"
+    },
+    "answer": "c"
+  },
+  {
+    "question_number": 322,
+    "question": "The current flowing in a circuit is:",
+    "options": {
+      "a": "directly proportional to resistance, indirectly proportional to voltage",
+      "b": "directly proportional to temperature, inversely proportional to resistance",
+      "c": "inversely proportional to resistance, directly proportional to voltage",
+      "d": "inversely proportional to applied voltage, directly proportional to temperature"
+    },
+    "answer": "c"
+  },
+  {
+    "question_number": 323,
+    "question": "The unit of EMF is the:",
+    "options": {
+      "a": "ampere",
+      "b": "volt",
+      "c": "watt",
+      "d": "ohm"
+    },
+    "answer": "b"
+  },
+  {
+    "question_number": 324,
+    "question": "Potential difference is measured in:",
+    "options": {
+      "a": "amps",
+      "b": "volts",
+      "c": "watts",
+      "d": "ohms"
+    },
+    "answer": "b"
+  },
+  {
+    "question_number": 325,
+    "question": "The unit of current is the:",
+    "options": {
+      "a": "ampere",
+      "b": "volt",
+      "c": "watt",
+      "d": "ohm"
+    },
+    "answer": "a"
+  },
+  {
+    "question_number": 326,
+    "question": "The unit of resistance is the:",
+    "options": {
+      "a": "ampere",
+      "b": "volt",
+      "c": "watt",
+      "d": "ohm"
+    },
+    "answer": "d"
+  },
+  {
+    "question_number": 327,
+    "question": "Electrical power is measured in:",
+    "options": {
+      "a": "amperes",
+      "b": "volts",
+      "c": "watts",
+      "d": "ohms"
+    },
+    "answer": "c"
+  }
+  ],
+
+    
+  "itu_dgca_icao_regulations": [
+    {
+      "id": "itu-dgca-icao-regulations-1",
+      "question": "What is the foundational legal document that defines the structure and functions of the International Telecommunication Union (ITU)?",
+      "options": [
+        "World Radiocommunication Conference Protocol",
+        "International Telecommunication Convention",
+        "Radio Regulations",
+        "Chicago Convention"
+      ],
+      "answer": 2,
+      "explanation": "The source identifies the International Telecommunication Convention as the foundational legal document of the ITU.",
+      "chapter": "ITU, DGCA, ICAO Regulations",
+      "difficulty": "medium"
+    },
+    {
+      "id": "itu-dgca-icao-regulations-2",
+      "question": "The Radio Regulations primarily govern:",
+      "options": [
+        "International postal mail services",
+        "The use of radio frequency spectrum",
+        "Submarine cable installations",
+        "Global airline ticket pricing"
+      ],
+      "answer": 2,
+      "explanation": "The Radio Regulations govern the use of the radio-frequency spectrum and related international radiocommunication matters.",
+      "chapter": "ITU, DGCA, ICAO Regulations",
+      "difficulty": "easy"
+    },
+    {
+      "id": "itu-dgca-icao-regulations-3",
+      "question": "How often are the ITU Radio Regulations revised and updated?",
+      "options": [
+        "Every 10 years",
+        "Every year",
+        "Every three to four years",
+        "Every 20 years"
+      ],
+      "answer": 3,
+      "explanation": "The source gives every three to four years as the answer.",
+      "chapter": "ITU, DGCA, ICAO Regulations",
+      "difficulty": "medium"
+    },
+    {
+      "id": "itu-dgca-icao-regulations-4",
+      "question": "One main purpose of the Radio Regulations is to:",
+      "options": [
+        "Assign internet addresses to websites",
+        "Prevent harmful interference between radiocommunication services",
+        "Set global television broadcasting standards",
+        "Regulate airline fares"
+      ],
+      "answer": 2,
+      "explanation": "A major purpose is to prevent harmful interference between radiocommunication services.",
+      "chapter": "ITU, DGCA, ICAO Regulations",
+      "difficulty": "easy"
+    },
+    {
+      "id": "itu-dgca-icao-regulations-5",
+      "question": "Which global conference is responsible for revising the Radio Regulations to adapt to new technologies?",
+      "options": [
+        "United Nations General Assembly",
+        "International Telecommunication Symposium",
+        "World Radiocommunication Conference (WRC)",
+        "ICAO Assembly"
+      ],
+      "answer": 3,
+      "explanation": "The World Radiocommunication Conference revises the Radio Regulations.",
+      "chapter": "ITU, DGCA, ICAO Regulations",
+      "difficulty": "medium"
+    }
+  ],
+  "dgca_icao_aviation_bodies": [
+    {
+      "id": "dgca-icao-aviation-bodies-1",
+      "question": "What does DGCA stand for?",
+      "options": [
+        "Directorate General of Cargo Aviation",
+        "Directorate General of Civil Aviation",
+        "Directorate General of Civil Accounts",
+        "Director General for Civil Affairs"
+      ],
+      "answer": 2,
+      "explanation": "DGCA stands for Directorate General of Civil Aviation.",
+      "chapter": "DGCA, ICAO Aviation Bodies",
+      "difficulty": "easy"
+    },
+    {
+      "id": "dgca-icao-aviation-bodies-2",
+      "question": "What is the primary role of the DGCA in India?",
+      "options": [
+        "Managing railway safety",
+        "Regulating civil aviation safety and standards",
+        "Promoting road transport",
+        "Managing maritime safety"
+      ],
+      "answer": 2,
+      "explanation": "The source identifies DGCA as responsible for regulating civil aviation safety and standards in India.",
+      "chapter": "DGCA, ICAO Aviation Bodies",
+      "difficulty": "easy"
+    },
+    {
+      "id": "dgca-icao-aviation-bodies-3",
+      "question": "Which authority is responsible for formulating national aviation policies and programmes in India?",
+      "options": [
+        "Ministry of Road Transport",
+        "Ministry of Civil Aviation",
+        "Ministry of Railways",
+        "Ministry of Defence"
+      ],
+      "answer": 2,
+      "explanation": "The Ministry of Civil Aviation is identified as the authority responsible for national aviation policies and programmes.",
+      "chapter": "DGCA, ICAO Aviation Bodies",
+      "difficulty": "easy"
+    },
+    {
+      "id": "dgca-icao-aviation-bodies-4",
+      "question": "Which international body does DGCA coordinate regulatory functions with?",
+      "options": [
+        "United Nations",
+        "International Civil Aviation Organization (ICAO)",
+        "World Health Organization",
+        "International Air Transport Association (IATA)"
+      ],
+      "answer": 2,
+      "explanation": "DGCA coordinates aviation regulatory functions with ICAO.",
+      "chapter": "DGCA, ICAO Aviation Bodies",
+      "difficulty": "easy"
+    },
+    {
+      "id": "dgca-icao-aviation-bodies-5",
+      "question": "Which of the following organizations is NOT under the Ministry of Civil Aviation?",
+      "options": [
+        "Bureau of Civil Aviation Security (BCAS)",
+        "Airports Authority of India (AAI)",
+        "Indian Meteorological Department (IMD)",
+        "Directorate General of Civil Aviation (DGCA)"
+      ],
+      "answer": 3,
+      "explanation": "The source lists the Indian Meteorological Department as the organization that is not under the Ministry of Civil Aviation.",
+      "chapter": "DGCA, ICAO Aviation Bodies",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dgca-icao-aviation-bodies-6",
+      "question": "Which Act is currently administered by the Ministry of Civil Aviation?",
+      "options": [
+        "Indian Aviation Act, 2000",
+        "Aircraft Act, 1994",
+        "Bharatiya Vayuyan Adhiniyam, 2024",
+        "Airports Act, 1980"
+      ],
+      "answer": 3,
+      "explanation": "The source identifies the Bharatiya Vayuyan Adhiniyam, 2024 in this question.",
+      "chapter": "DGCA, ICAO Aviation Bodies",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dgca-icao-aviation-bodies-7",
+      "question": "Who is the regulatory body in India for civil airworthiness and air safety?",
+      "options": [
+        "Airports Authority of India",
+        "Bureau of Civil Aviation Security",
+        "Directorate General of Civil Aviation",
+        "Ministry of Railways"
+      ],
+      "answer": 3,
+      "explanation": "DGCA is the regulatory body for civil airworthiness and air safety.",
+      "chapter": "DGCA, ICAO Aviation Bodies",
+      "difficulty": "easy"
+    },
+    {
+      "id": "dgca-icao-aviation-bodies-8",
+      "question": "Which ICAO Annex is associated with Aircraft Accident Investigation?",
+      "options": [
+        "Annex 12",
+        "Annex 13",
+        "Annex 15",
+        "Annex 14"
+      ],
+      "answer": 2,
+      "explanation": "ICAO Annex 13 deals with Aircraft Accident and Incident Investigation.",
+      "chapter": "DGCA, ICAO Aviation Bodies",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dgca-icao-aviation-bodies-9",
+      "question": "What is the main role of the ICAO Council?",
+      "options": [
+        "Elect the Secretary General",
+        "Adopt International Standards and incorporate them as Annexes",
+        "Conduct international pilot exams",
+        "Operate national airports"
+      ],
+      "answer": 2,
+      "explanation": "The source identifies adoption of International Standards and incorporation as Annexes as a main role of the ICAO Council.",
+      "chapter": "DGCA, ICAO Aviation Bodies",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dgca-icao-aviation-bodies-10",
+      "question": "ICAO Circulars are published to:",
+      "options": [
+        "Set mandatory standards",
+        "Provide specialized information on technical subjects to Contracting States",
+        "Amend national laws",
+        "Issue pilot licences"
+      ],
+      "answer": 2,
+      "explanation": "ICAO Circulars provide specialized information on technical subjects to Contracting States.",
+      "chapter": "DGCA, ICAO Aviation Bodies",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dgca-icao-aviation-bodies-11",
+      "question": "How many Annexes exist under the ICAO Convention?",
+      "options": [
+        "12",
+        "18",
+        "19",
+        "20"
+      ],
+      "answer": 3,
+      "explanation": "The source question set gives 19 as the answer.",
+      "chapter": "DGCA, ICAO Aviation Bodies",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dgca-icao-aviation-bodies-12",
+      "question": "The technical manuals under ICAO are primarily designed to:",
+      "options": [
+        "Replace national regulations",
+        "Provide detailed guidance to facilitate implementation of Standards and PANS",
+        "Serve as legal Acts",
+        "Issue licences"
+      ],
+      "answer": 2,
+      "explanation": "ICAO technical manuals provide detailed guidance for implementation of Standards and PANS.",
+      "chapter": "DGCA, ICAO Aviation Bodies",
+      "difficulty": "medium"
+    },
+    {
+      "id": "dgca-icao-aviation-bodies-13",
+      "question": "CARs are issued for granting which of the following?",
+      "options": [
+        "Air Operator Certificates",
+        "Private airport operator licences only",
+        "Visas for pilots",
+        "Aircraft registration only"
+      ],
+      "answer": 1,
+      "explanation": "The source associates the CAR question with Air Operator Certificates.",
+      "chapter": "DGCA, ICAO Aviation Bodies",
+      "difficulty": "medium"
+    }
+  ],
+  "q_codes": [],
+  "aftn_message_priority": [
+    {
+      "id": "aftn-message-priority-1",
+      "question": "What is the priority indicator for distress messages in AFTN?",
+      "options": [
+        "DD",
+        "SS",
+        "FF",
+        "GG"
+      ],
+      "answer": 2,
+      "explanation": "The source answer key identifies SS as the priority indicator for distress messages.",
+      "chapter": "AFTN / Message Priority",
+      "difficulty": "medium"
+    },
+    {
+      "id": "aftn-message-priority-2",
+      "question": "Which part of the international aeronautical telecommunication service handles aircraft-to-ground message exchange?",
+      "options": [
+        "Aeronautical Fixed Service (AFS)",
+        "Aeronautical Mobile Service (AMS)",
+        "Aeronautical Radio Navigation Service (ANS)",
+        "Aeronautical Broadcasting Service"
+      ],
+      "answer": 2,
+      "explanation": "Aircraft-to-ground message exchange is associated with the Aeronautical Mobile Service.",
+      "chapter": "AFTN / Message Priority",
+      "difficulty": "medium"
+    },
+    {
+      "id": "aftn-message-priority-3",
+      "question": "How many categories of messages are there in the Aeronautical Fixed Telecommunication Network (AFTN)?",
+      "options": [
+        "4",
+        "6",
+        "8",
+        "10"
+      ],
+      "answer": 2,
+      "explanation": "The source gives six categories.",
+      "chapter": "AFTN / Message Priority",
+      "difficulty": "medium"
+    },
+    {
+      "id": "aftn-message-priority-4",
+      "question": "The correct priority indicator for meteorological messages is:",
+      "options": [
+        "GG",
+        "KK",
+        "FF",
+        "DD"
+      ],
+      "answer": 2,
+      "explanation": "The source answer key identifies KK for meteorological messages.",
+      "chapter": "AFTN / Message Priority",
+      "difficulty": "medium"
+    },
+    {
+      "id": "aftn-message-priority-5",
+      "question": "A NOTAM message in AFTN belongs to which message category?",
+      "options": [
+        "Flight safety messages",
+        "Aeronautical Information Services (AIS) messages",
+        "Distress messages",
+        "Administrative messages"
+      ],
+      "answer": 2,
+      "explanation": "The source classifies NOTAM messages under Aeronautical Information Services.",
+      "chapter": "AFTN / Message Priority",
+      "difficulty": "medium"
+    },
+    {
+      "id": "aftn-message-priority-6",
+      "question": "What word is used in radiotelephony to indicate a distress call?",
+      "options": [
+        "PAN PAN, three times",
+        "MAYDAY, three times",
+        "SECURITE, three times",
+        "BREAK, three times"
+      ],
+      "answer": 2,
+      "explanation": "MAYDAY, spoken three times, indicates a distress call.",
+      "chapter": "AFTN / Message Priority",
+      "difficulty": "easy"
+    },
+    {
+      "id": "aftn-message-priority-7",
+      "question": "MAYDAY MAYDAY MAYDAY comes under:",
+      "options": [
+        "Distress",
+        "ICAO language",
+        "Urgency",
+        "Safety message"
+      ],
+      "answer": 1,
+      "explanation": "MAYDAY is the radiotelephony distress signal.",
+      "chapter": "AFTN / Message Priority",
+      "difficulty": "easy"
+    },
+    {
+      "id": "aftn-message-priority-8",
+      "question": "How long may test signals be transmitted during adjustment in the aeronautical mobile service?",
+      "options": [
+        "10 seconds",
+        "30 seconds",
+        "20 seconds",
+        "60 seconds"
+      ],
+      "answer": 3,
+      "explanation": "The source answer key gives 20 seconds.",
+      "chapter": "AFTN / Message Priority",
+      "difficulty": "medium"
+    },
+    {
+      "id": "aftn-message-priority-9",
+      "question": "The responsibility for establishing communication rests with:",
+      "options": [
+        "The receiving station",
+        "The station having traffic to transmit",
+        "Any nearby station",
+        "The aircraft only"
+      ],
+      "answer": 2,
+      "explanation": "The source states that the station having traffic to transmit has responsibility for establishing communication.",
+      "chapter": "AFTN / Message Priority",
+      "difficulty": "medium"
+    },
+    {
+      "id": "aftn-message-priority-10",
+      "question": "In radiotelephony, the signal for an urgency message is:",
+      "options": [
+        "MAYDAY",
+        "PAN-PAN",
+        "SECURITE",
+        "EMERGENCY"
+      ],
+      "answer": 2,
+      "explanation": "PAN-PAN is the standard radiotelephony urgency signal.",
+      "chapter": "AFTN / Message Priority",
+      "difficulty": "easy"
+    },
+    {
+      "id": "aftn-message-priority-11",
+      "question": "Messages concerning immediate concern to aircraft in flight are:",
+      "options": [
+        "Flight safety messages",
+        "Flight regularity messages",
+        "Aeronautical administrative messages",
+        "Meteorological messages"
+      ],
+      "answer": 1,
+      "explanation": "The source identifies flight safety messages for matters of immediate concern to aircraft in flight.",
+      "chapter": "AFTN / Message Priority",
+      "difficulty": "medium"
+    },
+    {
+      "id": "aftn-message-priority-12",
+      "question": "Administration of communication between civil aviation authorities relates to:",
+      "options": [
+        "Aeronautical administrative messages",
+        "Meteorological messages",
+        "Flight regularity messages",
+        "Distress messages"
+      ],
+      "answer": 1,
+      "explanation": "Communication concerning administration between civil aviation authorities is categorized as aeronautical administrative messages.",
+      "chapter": "AFTN / Message Priority",
+      "difficulty": "medium"
+    },
+    {
+      "id": "aftn-message-priority-13",
+      "question": "What is the correct priority indicator for aeronautical administrative messages?",
+      "options": [
+        "GG",
+        "FF",
+        "KK",
+        "DD"
+      ],
+      "answer": 1,
+      "explanation": "The source answer key identifies GG for aeronautical administrative messages.",
+      "chapter": "AFTN / Message Priority",
+      "difficulty": "medium"
+    },
+    {
+      "id": "aftn-message-priority-14",
+      "question": "Which of the following is not included in the aeronautical fixed service?",
+      "options": [
+        "AFTN",
+        "Meteorological broadcasts",
+        "VOR station signals",
+        "Fixed aeronautical communications"
+      ],
+      "answer": 3,
+      "explanation": "VOR station signals are part of radio navigation rather than the aeronautical fixed service.",
+      "chapter": "AFTN / Message Priority",
+      "difficulty": "medium"
+    },
+    {
+      "id": "aftn-message-priority-15",
+      "question": "In radiotelephony, who decides the order when called by several aircraft?",
+      "options": [
+        "The first aircraft",
+        "The ground station",
+        "The last aircraft",
+        "The aircraft with the strongest signal"
+      ],
+      "answer": 2,
+      "explanation": "The source answer key gives the ground station.",
+      "chapter": "AFTN / Message Priority",
+      "difficulty": "medium"
+    },
+    {
+      "id": "aftn-message-priority-16",
+      "question": "Which message is sent when there is grave and imminent danger requiring immediate assistance?",
+      "options": [
+        "Flight regularity message",
+        "Distress message",
+        "AIS message",
+        "Administrative message"
+      ],
+      "answer": 2,
+      "explanation": "A distress message is used for grave and imminent danger requiring immediate assistance.",
+      "chapter": "AFTN / Message Priority",
+      "difficulty": "easy"
+    },
+    {
+      "id": "aftn-message-priority-17",
+      "question": "After making a call, how long should you wait before repeating?",
+      "options": [
+        "3 seconds",
+        "5 seconds",
+        "10 seconds",
+        "20 seconds"
+      ],
+      "answer": 3,
+      "explanation": "The source answer key gives 10 seconds.",
+      "chapter": "AFTN / Message Priority",
+      "difficulty": "medium"
+    },
+    {
+      "id": "aftn-message-priority-18",
+      "question": "The use of CPDLC requires a response:",
+      "options": [
+        "Always by voice",
+        "In the same manner, via CPDLC",
+        "By mobile text",
+        "No response"
+      ],
+      "answer": 2,
+      "explanation": "The source identifies a response via CPDLC.",
+      "chapter": "AFTN / Message Priority",
+      "difficulty": "medium"
+    },
+    {
+      "id": "aftn-message-priority-19",
+      "question": "Which message category has priority indicator FE?",
+      "options": [
+        "Flight safety messages",
+        "Meteorological messages",
+        "Service messages",
+        "Distress messages"
+      ],
+      "answer": 3,
+      "explanation": "The source answer key identifies service messages for FE.",
+      "chapter": "AFTN / Message Priority",
+      "difficulty": "medium"
+    },
+    {
+      "id": "aftn-message-priority-20",
+      "question": "Messages originated by aircraft operating agencies reporting an aircraft arrival or departure are:",
+      "options": [
+        "AIS messages",
+        "Distress messages",
+        "Flight regularity messages",
+        "Meteorological messages"
+      ],
+      "answer": 3,
+      "explanation": "The source identifies these as flight regularity messages.",
+      "chapter": "AFTN / Message Priority",
+      "difficulty": "medium"
+    }
+  ],
+  "radio_equipment": [
+    {
+      "id": "radio-equipment-1",
+      "question": "In aircraft, VHF radios operate in which frequency range?",
+      "options": [
+        "30–88 MHz",
+        "118–137 MHz",
+        "108–117 MHz",
+        "225–400 MHz"
+      ],
+      "answer": 2,
+      "explanation": "Aeronautical VHF communications operate in the VHF aviation band around 118–137 MHz.",
+      "chapter": "Radio Equipment",
+      "difficulty": "easy"
+    },
+    {
+      "id": "radio-equipment-2",
+      "question": "HF communication is mainly used for:",
+      "options": [
+        "Short-range communication",
+        "Long-range communication",
+        "Cabin crew announcements",
+        "Ground handling"
+      ],
+      "answer": 2,
+      "explanation": "HF communication is used primarily for long-range communication.",
+      "chapter": "Radio Equipment",
+      "difficulty": "easy"
+    },
+    {
+      "id": "radio-equipment-3",
+      "question": "Which modulation method is typically used in aeronautical VHF voice communication?",
+      "options": [
+        "AM",
+        "FM",
+        "SSB",
+        "PM"
+      ],
+      "answer": 1,
+      "explanation": "The source identifies AM as the modulation used for aeronautical VHF voice communication.",
+      "chapter": "Radio Equipment",
+      "difficulty": "medium"
+    },
+    {
+      "id": "radio-equipment-4",
+      "question": "The SELCAL system is designed to:",
+      "options": [
+        "Improve audio clarity",
+        "Alert crew to incoming calls without continuous monitoring",
+        "Increase transmission power",
+        "Replace the VHF radio"
+      ],
+      "answer": 2,
+      "explanation": "SELCAL alerts the crew to incoming calls so continuous monitoring is not required.",
+      "chapter": "Radio Equipment",
+      "difficulty": "easy"
+    },
+    {
+      "id": "radio-equipment-5",
+      "question": "The ionospheric skip in HF communication is affected by:",
+      "options": [
+        "Time of day, frequency, and aircraft altitude",
+        "Only aircraft speed",
+        "Only fuel level",
+        "Only antenna colour"
+      ],
+      "answer": 1,
+      "explanation": "The source lists time of day, frequency and aircraft altitude as factors.",
+      "chapter": "Radio Equipment",
+      "difficulty": "medium"
+    },
+    {
+      "id": "radio-equipment-6",
+      "question": "Which component in an HF system matches the antenna to the transmitter?",
+      "options": [
+        "HF transceiver",
+        "HF antenna coupler",
+        "Radio control panel",
+        "SELCAL decoder"
+      ],
+      "answer": 2,
+      "explanation": "The HF antenna coupler matches the antenna to the transmitter.",
+      "chapter": "Radio Equipment",
+      "difficulty": "easy"
+    },
+    {
+      "id": "radio-equipment-7",
+      "question": "The frequency spacing of 8.33 kHz in VHF aviation radios is available in which range?",
+      "options": [
+        "118.000–121.400 MHz",
+        "108.000–117.975 MHz",
+        "225–400 MHz",
+        "30–88 MHz"
+      ],
+      "answer": 1,
+      "explanation": "The source associates 8.33 kHz channel spacing with the 118.000–121.400 MHz range in this question.",
+      "chapter": "Radio Equipment",
+      "difficulty": "medium"
+    },
+    {
+      "id": "radio-equipment-8",
+      "question": "Which of the following is NOT a component of a basic VHF communication system?",
+      "options": [
+        "VHF transmitter",
+        "VHF antenna",
+        "SELCAL decoder",
+        "VHF receiver"
+      ],
+      "answer": 3,
+      "explanation": "The source answer identifies the SELCAL decoder as not being a basic VHF communication-system component.",
+      "chapter": "Radio Equipment",
+      "difficulty": "medium"
+    },
+    {
+      "id": "radio-equipment-9",
+      "question": "A modulated carrier wave is generated by:",
+      "options": [
+        "The radio antenna",
+        "The transmitter",
+        "The SELCAL decoder",
+        "The headset"
+      ],
+      "answer": 2,
+      "explanation": "The transmitter generates the modulated carrier wave.",
+      "chapter": "Radio Equipment",
+      "difficulty": "easy"
+    },
+    {
+      "id": "radio-equipment-10",
+      "question": "SATCOM has reduced dependence on:",
+      "options": [
+        "VHF",
+        "HF",
+        "Interphone systems",
+        "Headphones"
+      ],
+      "answer": 2,
+      "explanation": "The source identifies reduced dependence on HF.",
+      "chapter": "Radio Equipment",
+      "difficulty": "medium"
+    }
+  ],
+  "aviation_meteorology": [
+    {
+      "id": "aviation-meteorology-1",
+      "question": "What is the main function of ICAO and WMO standard meteorological codes in aviation?",
+      "options": [
+        "To provide weather forecasts for the public",
+        "To standardize and clarify weather information transmission",
+        "To increase airport revenue",
+        "To reduce aircraft weight"
+      ],
+      "answer": 2,
+      "explanation": "Standard meteorological codes provide standardized, concise weather information transmission.",
+      "chapter": "Aviation Meteorology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "aviation-meteorology-2",
+      "question": "Which code provides routine weather observations at aerodromes?",
+      "options": [
+        "AIRMET",
+        "TAF",
+        "METAR",
+        "SIGMET"
+      ],
+      "answer": 3,
+      "explanation": "METAR is the routine aerodrome weather report.",
+      "chapter": "Aviation Meteorology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "aviation-meteorology-3",
+      "question": "A TAF forecast is valid primarily for which location?",
+      "options": [
+        "A specific aerodrome/terminal area",
+        "The whole country",
+        "Oceanic tracks only",
+        "The entire FIR"
+      ],
+      "answer": 1,
+      "explanation": "TAF is an aerodrome forecast for the relevant terminal area.",
+      "chapter": "Aviation Meteorology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "aviation-meteorology-4",
+      "question": "Which reports are issued when significant changes in weather occur between regular reports?",
+      "options": [
+        "METAR",
+        "TAF",
+        "SPECI",
+        "AIP"
+      ],
+      "answer": 3,
+      "explanation": "SPECI is a special aerodrome weather report issued when specified significant changes occur.",
+      "chapter": "Aviation Meteorology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "aviation-meteorology-5",
+      "question": "What does SIGMET stand for?",
+      "options": [
+        "Special Meteorological Report",
+        "Severe Meteorology",
+        "Significant Meteorological Information",
+        "Standard Meteorological Guidance"
+      ],
+      "answer": 3,
+      "explanation": "The source gives Significant Meteorological Information.",
+      "chapter": "Aviation Meteorology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "aviation-meteorology-6",
+      "question": "An AIRMET is issued for:",
+      "options": [
+        "Major volcanic eruptions",
+        "Less severe but significant weather phenomena",
+        "Routine current weather",
+        "Airport runway status"
+      ],
+      "answer": 2,
+      "explanation": "AIRMET provides information on significant weather phenomena of a lower severity than SIGMET.",
+      "chapter": "Aviation Meteorology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "aviation-meteorology-7",
+      "question": "What is the purpose of a TREND forecast?",
+      "options": [
+        "Long-term climate projection",
+        "A short-term forecast for planning",
+        "Emergency landing advice",
+        "Aircraft maintenance planning"
+      ],
+      "answer": 2,
+      "explanation": "The source describes a TREND forecast as a short-term forecast for planning.",
+      "chapter": "Aviation Meteorology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "aviation-meteorology-8",
+      "question": "A PIREP is reported by:",
+      "options": [
+        "Meteorological offices only",
+        "ATC staff only",
+        "Pilots",
+        "Passengers"
+      ],
+      "answer": 3,
+      "explanation": "PIREP is a pilot report of observed weather or flight conditions.",
+      "chapter": "Aviation Meteorology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "aviation-meteorology-9",
+      "question": "The primary benefit of meteorological codes in aviation is:",
+      "options": [
+        "Enhancing passenger entertainment",
+        "Allowing standard, concise and timely weather-data sharing",
+        "Reducing airport maintenance cost",
+        "Reducing aircraft noise"
+      ],
+      "answer": 2,
+      "explanation": "Standard codes enable concise and timely sharing of weather information.",
+      "chapter": "Aviation Meteorology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "aviation-meteorology-10",
+      "question": "Pre-flight briefing consolidates data from:",
+      "options": [
+        "Only airlines",
+        "Meteorological, aeronautical and operational sources",
+        "Passengers",
+        "Only ATC"
+      ],
+      "answer": 2,
+      "explanation": "The source identifies meteorological, aeronautical and operational sources.",
+      "chapter": "Aviation Meteorology",
+      "difficulty": "medium"
+    }
+  ],
+  "ais_aim_transition": [],
+  "aip": [
+    {
+      "id": "aip-1",
+      "question": "Which element is NOT usually part of the content within the General (GEN) section of an AIP?",
+      "options": [
+        "Non-operational regulatory information",
+        "Weather briefing details for specific flights",
+        "Information not requiring NOTAM issuance",
+        "General aeronautical information"
+      ],
+      "answer": 2,
+      "explanation": "The source identifies weather briefing details for specific flights as not normally part of GEN.",
+      "chapter": "AIP",
+      "difficulty": "medium"
+    }
+  ],
+  "location_indicators": [],
+  "notam_fir_aic": [
+    {
+      "id": "notam-fir-aic-1",
+      "question": "What does AIC stand for?",
+      "options": [
+        "Aeronautical Information Circular",
+        "Airline Information Chronicle",
+        "Airport Identification Catalogue",
+        "Aeronautical Inspection Certificate"
+      ],
+      "answer": 1,
+      "explanation": "AIC stands for Aeronautical Information Circular.",
+      "chapter": "NOTAM / FIR / AIC",
+      "difficulty": "easy"
+    },
+    {
+      "id": "notam-fir-aic-2",
+      "question": "Which authority publishes Aeronautical Information Circulars (AIC) in India?",
+      "options": [
+        "Airports Authority of India",
+        "Directorate General of Civil Aviation (DGCA)",
+        "Ministry of Defence",
+        "Indian Meteorological Department"
+      ],
+      "answer": 2,
+      "explanation": "The source identifies DGCA as the authority publishing AICs in India.",
+      "chapter": "NOTAM / FIR / AIC",
+      "difficulty": "medium"
+    },
+    {
+      "id": "notam-fir-aic-3",
+      "question": "What type of area is defined as an airspace where flight of aircraft is completely forbidden?",
+      "options": [
+        "Restricted Area",
+        "Danger Area",
+        "Prohibited Area",
+        "Control Area"
+      ],
+      "answer": 3,
+      "explanation": "A prohibited area is airspace within which flight is prohibited.",
+      "chapter": "NOTAM / FIR / AIC",
+      "difficulty": "easy"
+    },
+    {
+      "id": "notam-fir-aic-4",
+      "question": "Why should identification numbers for special-use airspace areas not be reused after cancellation?",
+      "options": [
+        "To avoid confusion among users",
+        "To comply with weather reporting",
+        "Because of aircraft speed changes",
+        "To reduce fuel consumption"
+      ],
+      "answer": 1,
+      "explanation": "The source gives avoidance of confusion among users as the reason.",
+      "chapter": "NOTAM / FIR / AIC",
+      "difficulty": "medium"
+    }
+  ],
+  "gps": [
+    {
+      "id": "gps-1",
+      "question": "How many satellites does the GPS constellation consist of?",
+      "options": [
+        "18",
+        "24",
+        "36",
+        "12"
+      ],
+      "answer": 2,
+      "explanation": "The source states a 24-satellite GPS constellation for this question.",
+      "chapter": "GPS",
+      "difficulty": "easy"
+    },
+    {
+      "id": "gps-2",
+      "question": "What is the minimum number of satellites required for an accurate three-dimensional position fix?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": 3,
+      "explanation": "Four satellites are required for an accurate three-dimensional position fix.",
+      "chapter": "GPS",
+      "difficulty": "easy"
+    },
+    {
+      "id": "gps-3",
+      "question": "What coordinate system does GPS use for positioning?",
+      "options": [
+        "Universal Transverse Mercator (UTM)",
+        "World Geodetic System 1984 (WGS-84)",
+        "North American Datum 1983 (NAD83)",
+        "Indian Datum"
+      ],
+      "answer": 2,
+      "explanation": "The source identifies WGS-84 as the coordinate system.",
+      "chapter": "GPS",
+      "difficulty": "easy"
+    },
+    {
+      "id": "gps-4",
+      "question": "What is RAIM in GPS?",
+      "options": [
+        "A system to monitor the GPS receiver battery",
+        "Receiver Autonomous Integrity Monitoring",
+        "A military augmentation system",
+        "A radio-frequency amplifier"
+      ],
+      "answer": 2,
+      "explanation": "RAIM stands for Receiver Autonomous Integrity Monitoring.",
+      "chapter": "GPS",
+      "difficulty": "easy"
+    },
+    {
+      "id": "gps-5",
+      "question": "What does the Wide Area Augmentation System (WAAS) do?",
+      "options": [
+        "Provides ground-station repairs",
+        "Corrects GPS data based on atmospheric conditions",
+        "Tracks military aircraft only",
+        "Replaces all GPS satellites"
+      ],
+      "answer": 2,
+      "explanation": "WAAS uses ground-based information to improve GPS accuracy and account for atmospheric effects.",
+      "chapter": "GPS",
+      "difficulty": "medium"
+    }
+  ],
+  "gagan": [
+    {
+      "id": "gagan-1",
+      "question": "What does GAGAN stand for?",
+      "options": [
+        "Global Altimeter Guidance and Navigation",
+        "GPS Aided GEO Augmented Navigation",
+        "General Aviation Guidance and Navigation",
+        "GPS Assisted Ground Air Navigation"
+      ],
+      "answer": 2,
+      "explanation": "GAGAN stands for GPS Aided GEO Augmented Navigation.",
+      "chapter": "GAGAN",
+      "difficulty": "easy"
+    },
+    {
+      "id": "gagan-2",
+      "question": "GAGAN is a system developed jointly by which organizations?",
+      "options": [
+        "DRDO and HAL",
+        "ISRO and AAI",
+        "NAL and IAF",
+        "DGCA and ICAO"
+      ],
+      "answer": 2,
+      "explanation": "The source identifies ISRO and AAI.",
+      "chapter": "GAGAN",
+      "difficulty": "medium"
+    },
+    {
+      "id": "gagan-3",
+      "question": "What is the primary purpose of GAGAN?",
+      "options": [
+        "Provide inflight Wi-Fi",
+        "Augment GPS signals for increased positional accuracy",
+        "Forecast weather en route",
+        "Replace VHF communications"
+      ],
+      "answer": 2,
+      "explanation": "GAGAN augments GPS to improve positional accuracy and integrity.",
+      "chapter": "GAGAN",
+      "difficulty": "easy"
+    },
+    {
+      "id": "gagan-4",
+      "question": "Which statement is correct regarding the accuracy of GAGAN?",
+      "options": [
+        "Reduces error margin to about 3.5 metres for area position",
+        "Works only within 25 metres accuracy",
+        "Has no effect on accuracy",
+        "Works only for military aircraft"
+      ],
+      "answer": 1,
+      "explanation": "The source gives the reduction of the error margin to about 3.5 metres for area position as the correct statement.",
+      "chapter": "GAGAN",
+      "difficulty": "medium"
+    },
+    {
+      "id": "gagan-5",
+      "question": "Which phase(s) of flight does GAGAN support for navigation?",
+      "options": [
+        "Only cruise phase",
+        "All phases, including approach and landing",
+        "Only ground operations",
+        "Only oceanic operations"
+      ],
+      "answer": 2,
+      "explanation": "The source states that GAGAN supports all phases including approach and landing.",
+      "chapter": "GAGAN",
+      "difficulty": "medium"
+    },
+    {
+      "id": "gagan-6",
+      "question": "How does GAGAN enhance airspace usage over India?",
+      "options": [
+        "By reducing the number of flights permitted",
+        "By enabling more efficient routing and tighter spacing",
+        "By providing free meals to pilots",
+        "By increasing runway length"
+      ],
+      "answer": 2,
+      "explanation": "The source identifies more efficient routing and tighter spacing as the benefit.",
+      "chapter": "GAGAN",
+      "difficulty": "medium"
+    },
+    {
+      "id": "gagan-7",
+      "question": "What additional capabilities does GAGAN provide to ATC and flight crews?",
+      "options": [
+        "Weather forecasting",
+        "High-precision vertical and horizontal guidance",
+        "Free internet access",
+        "Aircraft entertainment"
+      ],
+      "answer": 2,
+      "explanation": "The source identifies high-precision vertical and horizontal guidance.",
+      "chapter": "GAGAN",
+      "difficulty": "medium"
+    },
+    {
+      "id": "gagan-8",
+      "question": "The coverage area of GAGAN includes:",
+      "options": [
+        "Only Indian mainland",
+        "Indian region, Bay of Bengal, South East Asia and Middle East up to Africa",
+        "Only the Arabian Sea",
+        "Only the Indian Ocean"
+      ],
+      "answer": 2,
+      "explanation": "The source describes coverage extending beyond mainland India into the listed regions.",
+      "chapter": "GAGAN",
+      "difficulty": "medium"
+    },
+    {
+      "id": "gagan-9",
+      "question": "What benefits, besides aviation, are supported by GAGAN?",
+      "options": [
+        "Railway operations and maritime navigation",
+        "Only private pilot training",
+        "Only military applications",
+        "Only airport security"
+      ],
+      "answer": 1,
+      "explanation": "The source lists railway operations and maritime navigation among wider applications.",
+      "chapter": "GAGAN",
+      "difficulty": "medium"
+    },
+    {
+      "id": "gagan-10",
+      "question": "Which of the following is NOT a benefit of GAGAN?",
+      "options": [
+        "Reduced fuel costs for airlines",
+        "Improved on-time performance",
+        "Increased runway length at airports",
+        "Improved navigation accuracy"
+      ],
+      "answer": 3,
+      "explanation": "Increasing runway length is not a benefit of a satellite-based augmentation system.",
+      "chapter": "GAGAN",
+      "difficulty": "easy"
+    }
+  ],
+  "radar": [
+    {
+      "id": "radar-1",
+      "question": "What is the main purpose of radar?",
+      "options": [
+        "To send radio messages",
+        "To detect objects and measure their distance",
+        "To amplify signals",
+        "To provide passenger announcements"
+      ],
+      "answer": 2,
+      "explanation": "Radar detects objects and determines their range using radio waves.",
+      "chapter": "Radar",
+      "difficulty": "easy"
+    },
+    {
+      "id": "radar-2",
+      "question": "How does radar determine the distance to an object?",
+      "options": [
+        "By measuring the time delay between transmission and reception",
+        "By ignoring the reflected signal",
+        "By measuring only the signal colour",
+        "By calculating aircraft fuel quantity"
+      ],
+      "answer": 1,
+      "explanation": "Radar determines range from the time delay between transmitting a pulse and receiving its echo.",
+      "chapter": "Radar",
+      "difficulty": "medium"
+    },
+    {
+      "id": "radar-3",
+      "question": "What is the primary function of Surface Movement Radar (SMR) in air traffic control?",
+      "options": [
+        "Tracking aircraft in flight at long range",
+        "Detecting and tracking aircraft and vehicles on airport runways and taxiways",
+        "Measuring the speed of aircraft during takeoff",
+        "Tracking weather satellites"
+      ],
+      "answer": 2,
+      "explanation": "SMR monitors surface traffic on airport movement areas.",
+      "chapter": "Radar",
+      "difficulty": "easy"
+    },
+    {
+      "id": "radar-4",
+      "question": "How does Monopulse Secondary Surveillance Radar (MSSR) differ from Primary Surveillance Radar (PSR)?",
+      "options": [
+        "MSSR uses transponder replies to provide aircraft identity and altitude, while PSR detects reflected signals",
+        "MSSR only detects ground targets",
+        "MSSR sends continuous waves while PSR never uses pulses",
+        "PSR requires aircraft transponders"
+      ],
+      "answer": 1,
+      "explanation": "MSSR uses aircraft transponder replies, whereas PSR detects reflected energy from targets.",
+      "chapter": "Radar",
+      "difficulty": "medium"
+    },
+    {
+      "id": "radar-5",
+      "question": "Doppler radar can measure the speed of an object by using:",
+      "options": [
+        "The time delay of the signal",
+        "Change in frequency of the reflected waves",
+        "Strength of the radio wave",
+        "The aircraft registration"
+      ],
+      "answer": 2,
+      "explanation": "Doppler radar derives velocity from the frequency shift of reflected waves.",
+      "chapter": "Radar",
+      "difficulty": "medium"
+    }
+  ],
+  "radio_waves": [
+    {
+      "id": "radio-waves-1",
+      "question": "What is the skip distance in radio-wave propagation?",
+      "options": [
+        "The distance a ground wave travels",
+        "The minimum distance from a transmitter at which a sky wave returns to Earth",
+        "The maximum range of a ground wave",
+        "The distance between two antennas"
+      ],
+      "answer": 2,
+      "explanation": "Skip distance is the minimum distance from the transmitter to the first point where a sky wave returns to Earth.",
+      "chapter": "Radio Waves",
+      "difficulty": "medium"
+    },
+    {
+      "id": "radio-waves-2",
+      "question": "What is a skip zone or dead zone?",
+      "options": [
+        "A region where radio transmission cannot be received",
+        "The region between the transmitter and the point where the sky wave returns to Earth, where no signal is received",
+        "The area directly under the transmitted signal only",
+        "An area of high antenna gain"
+      ],
+      "answer": 2,
+      "explanation": "The source defines the skip zone as the region between the end of ground-wave coverage and the return of the sky wave.",
+      "chapter": "Radio Waves",
+      "difficulty": "medium"
+    },
+    {
+      "id": "radio-waves-3",
+      "question": "Which phenomenon causes the skip zone to form?",
+      "options": [
+        "Absorption by mountains",
+        "The inability of sky waves to return close to the transmitter due to angle of incidence and ionospheric conditions",
+        "Multipath interference",
+        "Aircraft speed"
+      ],
+      "answer": 2,
+      "explanation": "The source attributes skip-zone formation to sky-wave propagation geometry and ionospheric conditions.",
+      "chapter": "Radio Waves",
+      "difficulty": "medium"
+    },
+    {
+      "id": "radio-waves-4",
+      "question": "What phenomenon occurs when radio waves travel in two or more paths and produce slowly changing phase differences between signals?",
+      "options": [
+        "Absorption",
+        "Fading",
+        "Baffling",
+        "Reflection only"
+      ],
+      "answer": 2,
+      "explanation": "The source identifies fading.",
+      "chapter": "Radio Waves",
+      "difficulty": "medium"
+    },
+    {
+      "id": "radio-waves-5",
+      "question": "What is the distance from the far end of the ground wave to the nearest point where the sky wave returns to Earth called?",
+      "options": [
+        "Angle of radiation",
+        "Maximum usable frequency",
+        "Skip distance",
+        "Critical frequency"
+      ],
+      "answer": 3,
+      "explanation": "The source identifies this distance as skip distance.",
+      "chapter": "Radio Waves",
+      "difficulty": "easy"
+    }
+  ],
+  "electrical_units": [
+    {
+      "id": "electrical-units-1",
+      "question": "One volt is defined as the potential difference required to:",
+      "options": [
+        "Move one electron against one coulomb of resistance",
+        "Move one ampere of current through one ohm of resistance",
+        "Deliver one watt of power in one second",
+        "Move one ohm of current"
+      ],
+      "answer": 2,
+      "explanation": "From Ohm’s law, one volt corresponds to one ampere through one ohm.",
+      "chapter": "Electrical Units",
+      "difficulty": "easy"
+    },
+    {
+      "id": "electrical-units-2",
+      "question": "The unit of electrical current is the:",
+      "options": [
+        "Watt",
+        "Ampere",
+        "Ohm",
+        "Volt"
+      ],
+      "answer": 2,
+      "explanation": "Electrical current is measured in amperes.",
+      "chapter": "Electrical Units",
+      "difficulty": "easy"
+    },
+    {
+      "id": "electrical-units-3",
+      "question": "Ohm’s Law states that:",
+      "options": [
+        "Voltage = Current + Resistance",
+        "Voltage = Current × Resistance",
+        "Power = Voltage + Current",
+        "Resistance = Voltage + Power"
+      ],
+      "answer": 2,
+      "explanation": "Ohm’s law is V = I × R.",
+      "chapter": "Electrical Units",
+      "difficulty": "easy"
+    },
+    {
+      "id": "electrical-units-4",
+      "question": "What is the relationship between wavelength (λ), frequency (f), and the speed of light (c)?",
+      "options": [
+        "c = λf",
+        "c = λ + f",
+        "f = λc",
+        "λ = c + f"
+      ],
+      "answer": 1,
+      "explanation": "For electromagnetic waves, c = λf.",
+      "chapter": "Electrical Units",
+      "difficulty": "easy"
+    },
+    {
+      "id": "electrical-units-5",
+      "question": "If an AC transmission operates at a frequency of 50 Hz, this means:",
+      "options": [
+        "50 cycles occur per second",
+        "50 coulombs pass a point every second",
+        "The wavelength is fixed independent of speed",
+        "The voltage is 50 volts"
+      ],
+      "answer": 1,
+      "explanation": "A frequency of 50 Hz means 50 cycles per second.",
+      "chapter": "Electrical Units",
+      "difficulty": "easy"
+    }
+  ],
+  "selcal": [],
+  "ils": [
+    {
+      "id": "ils-1",
+      "question": "The Localizer (LLZ) of an ILS provides:",
+      "options": [
+        "Vertical guidance",
+        "Lateral guidance aligned with the runway centreline",
+        "Distance measurement only",
+        "Weather information"
+      ],
+      "answer": 2,
+      "explanation": "The localizer provides lateral guidance relative to the runway centreline.",
+      "chapter": "ILS",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ils-2",
+      "question": "The Glide Slope (GS) of an ILS provides:",
+      "options": [
+        "Lateral guidance only",
+        "Vertical guidance for the approach",
+        "Aircraft identification",
+        "Weather information"
+      ],
+      "answer": 2,
+      "explanation": "The glide slope provides vertical guidance on the ILS approach path.",
+      "chapter": "ILS",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ils-3",
+      "question": "Which ILS component provides visual information such as approach, runway, touchdown and centreline lights?",
+      "options": [
+        "Localizer",
+        "Glide slope",
+        "Lighting system",
+        "NDB"
+      ],
+      "answer": 3,
+      "explanation": "The source describes approach and runway lighting as visual information associated with the ILS approach environment.",
+      "chapter": "ILS",
+      "difficulty": "medium"
+    }
+  ],
+  "ndb": [],
+  "numbers_altitude_flight_levels": [],
+  "call_signs": [
+    {
+      "id": "call-signs-1",
+      "question": "The radiotelephony call sign for an aeronautical station is used to identify:",
+      "options": [
+        "The aircraft only",
+        "The ground/aeronautical station",
+        "The passenger",
+        "The weather office only"
+      ],
+      "answer": 2,
+      "explanation": "Aeronautical station call signs identify the station being called or transmitting.",
+      "chapter": "Call Signs",
+      "difficulty": "medium"
+    }
+  ],
+  "interpilot_readability_basic_atc": [
+    {
+      "id": "interpilot-readability-basic-atc-1",
+      "question": "The device used by a pilot to hear ATC instructions is called:",
+      "options": [
+        "Microphone",
+        "Headphones",
+        "Antenna",
+        "Transmitter"
+      ],
+      "answer": 2,
+      "explanation": "Headphones are used by the pilot to hear received audio.",
+      "chapter": "Interpilot / Readability / Basic ATC",
+      "difficulty": "easy"
+    },
+    {
+      "id": "interpilot-readability-basic-atc-2",
+      "question": "A microphone works on the principle of converting:",
+      "options": [
+        "Sound to electrical signals",
+        "Electrical signals to sound",
+        "Sound to light",
+        "Radio waves to heat"
+      ],
+      "answer": 1,
+      "explanation": "A microphone converts acoustic energy into an electrical signal.",
+      "chapter": "Interpilot / Readability / Basic ATC",
+      "difficulty": "easy"
+    },
+    {
+      "id": "interpilot-readability-basic-atc-3",
+      "question": "Which knob adjusts loudness in a radio set?",
+      "options": [
+        "Squelch control",
+        "Volume control",
+        "Frequency selector",
+        "Antenna control"
+      ],
+      "answer": 2,
+      "explanation": "Volume control adjusts the loudness of received audio.",
+      "chapter": "Interpilot / Readability / Basic ATC",
+      "difficulty": "easy"
+    },
+    {
+      "id": "interpilot-readability-basic-atc-4",
+      "question": "Squelch control is used to:",
+      "options": [
+        "Increase transmitter power",
+        "Reduce unwanted noise",
+        "Tune the antenna",
+        "Change frequency"
+      ],
+      "answer": 2,
+      "explanation": "Squelch suppresses unwanted receiver noise when no useful signal is present.",
+      "chapter": "Interpilot / Readability / Basic ATC",
+      "difficulty": "easy"
+    },
+    {
+      "id": "interpilot-readability-basic-atc-5",
+      "question": "AVC stands for:",
+      "options": [
+        "Automatic Voltage Control",
+        "Automatic Volume Control",
+        "Automatic Voice Channel",
+        "Aviation Volume Control"
+      ],
+      "answer": 2,
+      "explanation": "The source identifies AVC as Automatic Volume Control.",
+      "chapter": "Interpilot / Readability / Basic ATC",
+      "difficulty": "easy"
+    },
+    {
+      "id": "interpilot-readability-basic-atc-6",
+      "question": "In simplex communication:",
+      "options": [
+        "Only one party can talk at a time",
+        "Both parties can talk at the same time",
+        "Only one-way communication is possible",
+        "The tower talks continuously"
+      ],
+      "answer": 1,
+      "explanation": "Simplex communication permits transmission in one direction at a time.",
+      "chapter": "Interpilot / Readability / Basic ATC",
+      "difficulty": "easy"
+    },
+    {
+      "id": "interpilot-readability-basic-atc-7",
+      "question": "121.5 MHz is known as the:",
+      "options": [
+        "ATIS frequency",
+        "Emergency frequency",
+        "Navigation frequency",
+        "Airport information frequency"
+      ],
+      "answer": 2,
+      "explanation": "121.5 MHz is the international aeronautical emergency frequency.",
+      "chapter": "Interpilot / Readability / Basic ATC",
+      "difficulty": "easy"
+    },
+    {
+      "id": "interpilot-readability-basic-atc-8",
+      "question": "In half-duplex communication:",
+      "options": [
+        "Transmission happens both ways but one at a time",
+        "Only one-way talk is possible",
+        "Tower and pilot transmit simultaneously",
+        "No transmission is possible"
+      ],
+      "answer": 1,
+      "explanation": "Half-duplex permits two-way communication, but not simultaneously.",
+      "chapter": "Interpilot / Readability / Basic ATC",
+      "difficulty": "easy"
+    },
+    {
+      "id": "interpilot-readability-basic-atc-9",
+      "question": "A pilot changes frequency using the:",
+      "options": [
+        "Audio panel",
+        "Frequency selector",
+        "Squelch control",
+        "Headphones"
+      ],
+      "answer": 2,
+      "explanation": "The frequency selector is used to select the operating frequency.",
+      "chapter": "Interpilot / Readability / Basic ATC",
+      "difficulty": "easy"
+    },
+    {
+      "id": "interpilot-readability-basic-atc-10",
+      "question": "Headphones in an aircraft help to:",
+      "options": [
+        "Remove wind and engine noise from the received audio",
+        "Increase transmission power",
+        "Tune the VHF radio",
+        "Increase antenna range"
+      ],
+      "answer": 1,
+      "explanation": "Headphones provide the pilot with intelligible received audio while reducing ambient noise.",
+      "chapter": "Interpilot / Readability / Basic ATC",
+      "difficulty": "easy"
+    }
+  ],
+  "distress_and_urgency": [
+    {
+      "id": "distress-and-urgency-1",
+      "question": "Which signal indicates an urgency message in radiotelephony?",
+      "options": [
+        "MAYDAY",
+        "PAN-PAN",
+        "SECURITE",
+        "ROGER"
+      ],
+      "answer": 2,
+      "explanation": "PAN-PAN is the urgency signal.",
+      "chapter": "Distress and Urgency",
+      "difficulty": "easy"
+    },
+    {
+      "id": "distress-and-urgency-2",
+      "question": "Which signal indicates a distress situation?",
+      "options": [
+        "PAN-PAN",
+        "MAYDAY",
+        "SECURITE",
+        "WILCO"
+      ],
+      "answer": 2,
+      "explanation": "MAYDAY indicates distress.",
+      "chapter": "Distress and Urgency",
+      "difficulty": "easy"
+    }
+  ],
+  "general_radiotelephony": []
+
+
+    
+}

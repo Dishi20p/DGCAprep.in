@@ -1,0 +1,1614 @@
+[
+  {
+    "id": "piper-archer-iii-1",
+    "question": "The piper archer III is equipped with an Engine manufactured by:",
+    "options": [
+      "Technify Motors Gmbh",
+      "Thielert Aircraft Engines",
+      "Continental Motors",
+      "Textrone Lycoming Engine"
+    ],
+    "answer": 0,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-2",
+    "question": "The Engine model number is:",
+    "options": [
+      "TAE 125-02-114",
+      "TAE 125-02-99",
+      "IO-360-D26",
+      "IO-360-A4M"
+    ],
+    "answer": 0,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-3",
+    "question": "The Propeller Manufacture is:",
+    "options": [
+      "MT Propeller Entwicklung Gmbh",
+      "MTV Propellers",
+      "Sensenich Propellers",
+      "McCauley Accessory Propeller"
+    ],
+    "answer": 0,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-4",
+    "question": "Propeller Model Number for piper archer is",
+    "options": [
+      "MTV-6A/190-69",
+      "MTV-6A/187/129",
+      "MTV-6A/187-69",
+      "MT-6A/190-69"
+    ],
+    "answer": 0,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-5",
+    "question": "Number of blade of propeller of piper archer",
+    "options": [
+      "Three blade variable pitch",
+      "Two blade variable pitch",
+      "Two blade fix pitch",
+      "Two blade variable pitch"
+    ],
+    "answer": 0,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-6",
+    "question": "Diameter of propeller blades are",
+    "options": [
+      "1.90 FT",
+      "1.90 m",
+      "1.87 FT",
+      "1.87 m"
+    ],
+    "answer": 1,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-7",
+    "question": "Approved fuels for the Piper Archer are",
+    "options": [
+      "AVGAS 100",
+      "AVGAS 100 LL",
+      "JET A1/ JET A",
+      "MOGAS"
+    ],
+    "answer": 2,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-8",
+    "question": "Take off and maximum continuous power of the engine",
+    "options": [
+      "144 kW (155hp)",
+      "114 kW (155 hp)",
+      "99 kW (135 hp)",
+      "132 kW (99 hp)"
+    ],
+    "answer": 0,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-9",
+    "question": "Take off Continuous RPM is",
+    "options": [
+      "2000 rpm",
+      "2300 rpm",
+      "2700 rpm",
+      "3000rpm"
+    ],
+    "answer": 1,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-10",
+    "question": "Maximum recommended Cruise",
+    "options": [
+      "70 % throttle power",
+      "75 % throttle power",
+      "85 % throttle power",
+      "100 % throttle power"
+    ],
+    "answer": 2,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-11",
+    "question": "What is engine load",
+    "options": [
+      "percentage of max engine power",
+      "percentage of max brake horse power",
+      "percentage of max thrust horse power",
+      "percentage of max propeller thrust"
+    ],
+    "answer": 0,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-12",
+    "question": "Minimum oil pressure",
+    "options": [
+      "1 bar",
+      "1.2 bar",
+      "2.3 bar",
+      "6 bar"
+    ],
+    "answer": 1,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-13",
+    "question": "Minimum oil pressure in Flight",
+    "options": [
+      "1 bar",
+      "2.3 bar",
+      "2.6 bar",
+      "6 bar"
+    ],
+    "answer": 1,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-14",
+    "question": "Maximum oil pressure during takeoff",
+    "options": [
+      "6 bar",
+      "1 bar",
+      "1.2 bar",
+      "2.3 bar"
+    ],
+    "answer": 0,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-15",
+    "question": "Minimum oil pressure during takeoff",
+    "options": [
+      "1 bar",
+      "1.2 bar",
+      "2.3 bar",
+      "6 bar"
+    ],
+    "answer": 2,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-16",
+    "question": "Maximum oil pressure cold start",
+    "options": [
+      "1 bar",
+      "1.2 bar",
+      "2.3 bar",
+      "6 bar"
+    ],
+    "answer": 2,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-17",
+    "question": "FADEC stands for",
+    "options": [
+      "Full authority direct engine control",
+      "Full authority digital engine control",
+      "Fully automatic digital engine control",
+      "Full automomy digital engine contol"
+    ],
+    "answer": 1,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-18",
+    "question": "DOHC stands for",
+    "options": [
+      "Double Overhead Camshaft",
+      "Direct Overhead Camshaft",
+      "Double overhead Crankshaft",
+      "Direct Overhead Crankshaft"
+    ],
+    "answer": 0,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-19",
+    "question": "Minimum operating coolant temperature",
+    "options": [
+      "60 deg c",
+      "50 deg c",
+      "32 deg c",
+      "30 deg c"
+    ],
+    "answer": 0,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-20",
+    "question": "Maximum operating coollant temperature",
+    "options": [
+      "120 deg c",
+      "105 deg c",
+      "140 deg c",
+      "90  deg c"
+    ],
+    "answer": 1,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-21",
+    "question": "Maximum oil consumption is",
+    "options": [
+      "0.1L/h",
+      "0.5L/h",
+      "1L/h",
+      "5L/h"
+    ],
+    "answer": 0,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-22",
+    "question": "Minimum turning radius from pivot point to wing tip is",
+    "options": [
+      "25 FT",
+      "23 FT",
+      "30 FT",
+      "32 FT"
+    ],
+    "answer": 2,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-23",
+    "question": "VNE for Piper Archer is",
+    "options": [
+      "154 KIAS",
+      "154 KCAS",
+      "163 KIAS",
+      "163 KCAS"
+    ],
+    "answer": 0,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-24",
+    "question": "Wingspan of Piper Archer is",
+    "options": [
+      "36 FT 6 IN",
+      "35 FT 6 IN",
+      "35 FT 5 IN",
+      "36 FT 5 IN"
+    ],
+    "answer": 1,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-25",
+    "question": "Design manoeuvring speed for the Piper Archer is",
+    "options": [
+      "113 KIAS at 2550 LBS",
+      "113 KCAS at 2550 LBS",
+      "99 KIAS at 1635 LBS",
+      "129 KIAS at 1635 LBS"
+    ],
+    "answer": 0,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-26",
+    "question": "Vfe for Piper Archer is",
+    "options": [
+      "99 KCAS",
+      "102 KCAS",
+      "102 KIAS",
+      "100 KIAS"
+    ],
+    "answer": 2,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-27",
+    "question": "Maximum ramp weight for the Piper Archer in normal category is",
+    "options": [
+      "2550lbs",
+      "2558 lbs",
+      "2138 lbs",
+      "2130 lbs"
+    ],
+    "answer": 1,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-28",
+    "question": "The approved engine oil for the use Piper Archer",
+    "options": [
+      "Aeroshell oil diesel 10W-40",
+      "Shell Helix Ultra 5W-40",
+      "AeroShell Oil Diesel Ultra",
+      "All of  the above"
+    ],
+    "answer": 3,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-29",
+    "question": "The coolant used for Piper Archer is",
+    "options": [
+      "Water / Radiator protection ratio 50:50",
+      "Water/Radiator Protection ratio 70:30",
+      "water with 1% Radiator protection fluid",
+      "None of the above"
+    ],
+    "answer": 0,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-30",
+    "question": "If the main battery and alternator fails the engine will operate on FADEC A battery backup for",
+    "options": [
+      "30 MIN",
+      "120 MIN",
+      "60 MIN",
+      "45 MIN"
+    ],
+    "answer": 0,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-31",
+    "question": "Certified altitude is",
+    "options": [
+      "10000 FT",
+      "13000 FT",
+      "16400 FT",
+      "15400 FT"
+    ],
+    "answer": 2,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-32",
+    "question": "Maximum Fuel capacity of the aircraft",
+    "options": [
+      "50 USG",
+      "48 USG",
+      "52 USG",
+      "None of the above"
+    ],
+    "answer": 0,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-33",
+    "question": "Approved gearbox oil are",
+    "options": [
+      "Centurion Gearbox oil N1",
+      "Shell Spirax S6 GXME 75W-80",
+      "Shell Spirax EP 75W-90",
+      "All of  the above"
+    ],
+    "answer": 3,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-34",
+    "question": "Total usable fuel of the aircraft is",
+    "options": [
+      "55 USG",
+      "50 USG",
+      "48 USG",
+      "52 USG"
+    ],
+    "answer": 2,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-35",
+    "question": "If the propeller speed control fails climb are performed at",
+    "options": [
+      "Vy & 100%LOAD",
+      "67 KIAS & 100% LOAD",
+      "65 KIAS & 85% LOAD",
+      "65 KIAS & 100% LOAD"
+    ],
+    "answer": 3,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-36",
+    "question": "During engine failure after takeoff airspeed with flap retracted should be",
+    "options": [
+      "73 KIAS",
+      "65 KIAS",
+      "68 KIAS",
+      "70KIAS"
+    ],
+    "answer": 0,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-37",
+    "question": "In case of dead battery the aircraft can be started using external power source",
+    "options": [
+      "true",
+      "false",
+      "BOTH",
+      "None of the above"
+    ],
+    "answer": 1,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-38",
+    "question": "In an engine failure the propeller will continue to turn as long as the air speed is above",
+    "options": [
+      "73KIAS",
+      "68KIAS",
+      "65KIAS",
+      "60 KIAS"
+    ],
+    "answer": 2,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-39",
+    "question": "Shutdown the engine immediately if the oil pressure of one bar is not indicated within",
+    "options": [
+      "2 Sec",
+      "3Sec",
+      "30Sec",
+      "30 Sec"
+    ],
+    "answer": 1,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-40",
+    "question": "Lift off speed of Piper Archer at 2550 lbs",
+    "options": [
+      "55KIAS",
+      "53KIAS",
+      "54KIAS",
+      "60KIAS"
+    ],
+    "answer": 0,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-41",
+    "question": "Vy at 2550 lbs",
+    "options": [
+      "65KIAS",
+      "67KIAS",
+      "76KIAS",
+      "70KIAS"
+    ],
+    "answer": 2,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-42",
+    "question": "Best glide speed",
+    "options": [
+      "65KIAS",
+      "78KIAS",
+      "67KIAS",
+      "65KIAS"
+    ],
+    "answer": 1,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-43",
+    "question": "Main battery voltage is",
+    "options": [
+      "24V",
+      "28V",
+      "60V",
+      "12V"
+    ],
+    "answer": 0,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-44",
+    "question": "Main gear type pressure",
+    "options": [
+      "24psi",
+      "18psi",
+      "20psi",
+      "16psi"
+    ],
+    "answer": 0,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-45",
+    "question": "Nose gear type pressure",
+    "options": [
+      "16psi",
+      "24psi",
+      "18psi",
+      "20psi"
+    ],
+    "answer": 2,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-46",
+    "question": "ELT testing should be done on the frequency of",
+    "options": [
+      "121.5 mHZ",
+      "406Mhz",
+      "121.5Khz",
+      "406Khz"
+    ],
+    "answer": 0,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-47",
+    "question": "Stall warning horn is activated",
+    "options": [
+      "10 knots above stall",
+      "20 knots below above speed",
+      "5- 10 knots above stall speed",
+      "None of the above"
+    ],
+    "answer": 2,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-48",
+    "question": "Baggage area is",
+    "options": [
+      "30 cubic inches",
+      "24 cubic inches",
+      "200 cubic inches",
+      "None of the above"
+    ],
+    "answer": 1,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-49",
+    "question": "Maximum allowed baggage in baggage compartment is",
+    "options": [
+      "120 lbs",
+      "200 lbs",
+      "100 lbs",
+      "None of the above"
+    ],
+    "answer": 1,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-50",
+    "question": "Alternator excitation battery is used to ensure that the alternator will continue to function even if the main battery fails",
+    "options": [
+      "true",
+      "false",
+      "True but only in cold weather",
+      "True but only in hot weather"
+    ],
+    "answer": 0,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-51",
+    "question": "How much is the compulsory fuel reserve to be maintained",
+    "options": [
+      "15 mins",
+      "20 mins",
+      "30 mins",
+      "45 mins"
+    ],
+    "answer": 3,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-52",
+    "question": "Increase airspeed and range by _________ above ISA",
+    "options": [
+      "1 % per 10 deg C",
+      "5 % per 10 deg C",
+      "10 % per 10 deg C",
+      "None of the above"
+    ],
+    "answer": 0,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-53",
+    "question": "Economic growth on the Piper Archer is",
+    "options": [
+      "90% load",
+      "80 % load",
+      "75 % load",
+      "70% load"
+    ],
+    "answer": 3,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-54",
+    "question": "For operations on dry grass runway increases distance by",
+    "options": [
+      "5% of ground roll",
+      "10% of ground roll",
+      "15% of grounf roll",
+      "20% of ground roll"
+    ],
+    "answer": 2,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-55",
+    "question": "How do winds affect the takeoff roll?",
+    "options": [
+      "decrease 10% for each 9kts headwinds",
+      "decrese 9% for each 10 kts headwinds",
+      "Increase 10% for each 2kts tailwind",
+      "Both A and C"
+    ],
+    "answer": 3,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-56",
+    "question": "Finish of the paint of Piper Archer",
+    "options": [
+      "All aircrafts are primed with etching primer and finished with a polyurethane finish",
+      "All aircrafts are primed with normal primer and finished with a polyurethane finish",
+      "All aircrafts are primed with etching primer and finished with a normal finish",
+      "All of  the above"
+    ],
+    "answer": 0,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-57",
+    "question": "Nose gear steering",
+    "options": [
+      "30 deg and later aircraft 20 deg",
+      "20 deg and later aircraft 30 deg",
+      "10 deg and later aircraft 20 deg",
+      "30 deg and later aircraft 10 deg"
+    ],
+    "answer": 0,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-58",
+    "question": "Type of struts:",
+    "options": [
+      "Air- oil type",
+      "Nitrogen- oil type",
+      "water type",
+      "fuel - oil type"
+    ],
+    "answer": 0,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-59",
+    "question": "Type of landing gear",
+    "options": [
+      "Tricycle type fixed landing gear",
+      "Tricycle type retractable lending gear",
+      "Tail wheel fixed landing gear",
+      "Tail wheel retractable landing gear"
+    ],
+    "answer": 0,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-60",
+    "question": "All three wheels are:",
+    "options": [
+      "8 * 6 , four ply rating",
+      "8*6, six ply rating",
+      "6*6, four ply rating",
+      "6*6 six ply rating"
+    ],
+    "answer": 2,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-61",
+    "question": "Type of aerofoil is:",
+    "options": [
+      "Naca 415-625",
+      "Naca 652-415",
+      "Truss type",
+      "Positive cambered"
+    ],
+    "answer": 1,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-62",
+    "question": "Archer is a:",
+    "options": [
+      "Low wing monoplane with all metal construction",
+      "High wing monoplane with composite construction",
+      "Low wing monopoly with composite construction",
+      "High wing monoplane with all metal construction"
+    ],
+    "answer": 0,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-63",
+    "question": "The propeller of the Archer is:",
+    "options": [
+      "Aluminium alloy",
+      "Carbon fibre",
+      "Wooden composite",
+      "All Metal"
+    ],
+    "answer": 2,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-64",
+    "question": "Landing gear sturts are made of",
+    "options": [
+      "Aluminium alloy",
+      "Steel",
+      "Iron Iron",
+      "Carbon fibre"
+    ],
+    "answer": 1,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-65",
+    "question": "The engine Mount is made",
+    "options": [
+      "Aluminium alloy",
+      "Tabular steel",
+      "Carbon fibre",
+      "Iron"
+    ],
+    "answer": 1,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-66",
+    "question": "If the door in anadvertently opens then to the close the door speed should be",
+    "options": [
+      "100 KIAS",
+      "90 KIAS",
+      "87 KIAS",
+      "75KIAS"
+    ],
+    "answer": 2,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-67",
+    "question": "Cabin door of Piper Archer is",
+    "options": [
+      "Not Latched",
+      "Single latched",
+      "Double Latched",
+      "triple latched"
+    ],
+    "answer": 2,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-68",
+    "question": "Maximum demonstrated crosswind velocity  is",
+    "options": [
+      "17 kts",
+      "15 kts",
+      "20  kts",
+      "None of the above"
+    ],
+    "answer": 0,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-69",
+    "question": "Short filled takeoff flap configuration is",
+    "options": [
+      "10 deg",
+      "25 deg",
+      "40 deg",
+      "0 deg"
+    ],
+    "answer": 1,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-70",
+    "question": "Total number of seats of the aircraft archer",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "answer": 2,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-71",
+    "question": "Nose gear strut should be",
+    "options": [
+      "3.25 +/- 0.25 inches of strut exposure",
+      "4.5+/-0.25 inches of strut exposure",
+      "4.5 inches of strut exposure",
+      "None of the above"
+    ],
+    "answer": 0,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-72",
+    "question": "Main gear Strut should be",
+    "options": [
+      "3.25 +/- 0.25 inches of strut exposure",
+      "4.5 +/- 0.25 inches of strut exposure",
+      "4.5 inches of strut exposure",
+      "None of the above"
+    ],
+    "answer": 1,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-73",
+    "question": "The stall warning system is inoperative with the master switch off",
+    "options": [
+      "true",
+      "false",
+      "Both",
+      "None of the above"
+    ],
+    "answer": 0,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-74",
+    "question": "Heat loss during stall varies from",
+    "options": [
+      "50 -500 ft",
+      "100 -350 ft",
+      "150-350ft",
+      "200 -400 ft"
+    ],
+    "answer": 1,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-75",
+    "question": "Power off stall with flaps FLUP is",
+    "options": [
+      "33 KIAS",
+      "44 KIAS",
+      "45 KIAS",
+      "50 KIAS"
+    ],
+    "answer": 2,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-76",
+    "question": "Power off stall with flaps up is",
+    "options": [
+      "33 KIAS",
+      "44 KIAS",
+      "45 KIAS",
+      "50 KIAS"
+    ],
+    "answer": 3,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-77",
+    "question": "Brake fluid levels should be checked in every",
+    "options": [
+      "EVERY Hr",
+      "10 hrs",
+      "25 hr",
+      "50hr"
+    ],
+    "answer": 3,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-78",
+    "question": "The hydraulic brake fluid used is",
+    "options": [
+      "MIL-H-5606",
+      "MIL-L-5606",
+      "MIL-B-6082",
+      "MIL-H-22851"
+    ],
+    "answer": 0,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-79",
+    "question": "The Three landing gear use",
+    "options": [
+      "Cleveland aircraft products",
+      "centurion aircraft products",
+      "Thielert aircraft products",
+      "piper aircraft products"
+    ],
+    "answer": 0,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-80",
+    "question": "Fuel drainage should be done",
+    "options": [
+      "Each tank and fuel strainer twice",
+      "each tank only",
+      "fuel strainer only",
+      "each tank and fuel strainer once"
+    ],
+    "answer": 0,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-81",
+    "question": "The auxiliary electric fuel pump should be on for",
+    "options": [
+      "Take off, landings and switching tanks",
+      "Take off and landings",
+      "Switching tanks",
+      "Always on"
+    ],
+    "answer": 0,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-82",
+    "question": "The fuel selector prositions are",
+    "options": [
+      "right, left and off",
+      "Right, left both and off",
+      "Only A as a optional accessory",
+      "None of the above"
+    ],
+    "answer": 0,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-83",
+    "question": "The tail contains",
+    "options": [
+      "Stabilator",
+      "Elevator",
+      "Elevons",
+      "Ruddevators"
+    ],
+    "answer": 0,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-84",
+    "question": "The flat positions are",
+    "options": [
+      "0,10,15,25",
+      "0,10,25,40",
+      "0,10,20,40",
+      "0,15,25,40"
+    ],
+    "answer": 1,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-85",
+    "question": "The flap of the aircraft arm operated and spring loaded to return to the _______ position",
+    "options": [
+      "up",
+      "down",
+      "25 deg",
+      "None of the above"
+    ],
+    "answer": 0,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-86",
+    "question": "Length of the aircraft",
+    "options": [
+      "7 ft 3 in",
+      "6 ft 3 in",
+      "3 ft 7 in",
+      "6 ft 7 in"
+    ],
+    "answer": 0,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-87",
+    "question": "Wingspan of the aircraft",
+    "options": [
+      "36 FT 6 IN",
+      "35 FT 6 IN",
+      "36 ft",
+      "35 ft 5 in"
+    ],
+    "answer": 1,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-88",
+    "question": "Aircraft height is",
+    "options": [
+      "7 ft 3 in",
+      "6 ft 3 in",
+      "3 ft 7 in",
+      "6 ft 7 in"
+    ],
+    "answer": 0,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-89",
+    "question": "Warning information accepted via master warning switch on the Gramin 1000 shows up as",
+    "options": [
+      "Red text and black background",
+      "Yellow text and black backgrounds",
+      "Flash between white text red background and red text white background",
+      "Black text and yellow background"
+    ],
+    "answer": 0,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-90",
+    "question": "Warning information not accepted on the g1000 shows up as",
+    "options": [
+      "Flash between white text red background and red text and white background",
+      "Red text and black background",
+      "Black text and yellow background",
+      "White text and yellow background"
+    ],
+    "answer": 0,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-91",
+    "question": "Caution information accepted via Masters cautions switch on the G1000 shows up as",
+    "options": [
+      "Yellow text and black background",
+      "Red text and black background",
+      "Black text and yellow background",
+      "White text and black background"
+    ],
+    "answer": 0,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-92",
+    "question": "Caution information not accepted on the Gramin 1000 shows up as",
+    "options": [
+      "Red text and black background",
+      "Yellow text and black background",
+      "White text and black background",
+      "Black text and yellow background"
+    ],
+    "answer": 3,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-93",
+    "question": "Advisory information on the g1000 shows up as",
+    "options": [
+      "RED text and black background",
+      "Yellow text and black background",
+      "White text and black background",
+      "Black text and yellow background"
+    ],
+    "answer": 2,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-94",
+    "question": "When force B is activated the display on the gramin 1000 shows",
+    "options": [
+      "ECU B ACTIVE",
+      "FADEC B ACTIVE",
+      "B ACTIVE",
+      "None of the above"
+    ],
+    "answer": 0,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-95",
+    "question": "Engine coolant level low will show on the G1000 as",
+    "options": [
+      "COOL LVL - Caution",
+      "COOL LVL - warning",
+      "COOL LVL - advisory",
+      "COOLANT LVL"
+    ],
+    "answer": 0,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-96",
+    "question": "FADEC warning in the G1000 will display as",
+    "options": [
+      "ECU A Fail/ ECU B Fail",
+      "FADEC A Fail/ FADEC B Fail",
+      "Both A and B",
+      "None of the above"
+    ],
+    "answer": 0,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-97",
+    "question": "Fuel temperature green range",
+    "options": [
+      "< -30 deg C",
+      "0-65 deg C",
+      ">75 deg C",
+      "None of the above"
+    ],
+    "answer": 1,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-98",
+    "question": "Coolant temperature green range",
+    "options": [
+      ">105 deg C",
+      "101-105 deg C",
+      "60-100 deg C",
+      "None of the above"
+    ],
+    "answer": 2,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-99",
+    "question": "Oil pressure green range",
+    "options": [
+      "1.2-2.2 bar",
+      "2.3-5.1 bar",
+      "5.2-6.5 bar",
+      "None of the above"
+    ],
+    "answer": 1,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-100",
+    "question": "Oil temperature green range",
+    "options": [
+      "50-129",
+      "130-140",
+      "30-49",
+      "None of the above"
+    ],
+    "answer": 0,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-101",
+    "question": "Oil pressure red range",
+    "options": [
+      "1.2 -2.2 bar",
+      "0-1.1 & >6.5 bar",
+      "Both A and B",
+      "None of the above"
+    ],
+    "answer": 1,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-102",
+    "question": "Tachometer Green Range",
+    "options": [
+      "0-1200",
+      "1200-2300 RPM",
+      "0-2300 RPM",
+      ">2300 RPM"
+    ],
+    "answer": 2,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-103",
+    "question": "Gear box temperature red range",
+    "options": [
+      ">120 deg C",
+      "115-120 deg C",
+      "<115 deg C",
+      "None of the above"
+    ],
+    "answer": 0,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-104",
+    "question": "Gearbox temperature amber range",
+    "options": [
+      "<115 deg C",
+      "115-120 deg C",
+      ">120 deg C",
+      "None of the above"
+    ],
+    "answer": 1,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-105",
+    "question": "Gearbox temperature green range",
+    "options": [
+      ">120 deg C",
+      "115-120 deg C",
+      "<115 deg C",
+      "None of the above"
+    ],
+    "answer": 2,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-106",
+    "question": "Alternator red wing Range",
+    "options": [
+      ">60 A",
+      ">60 V",
+      "0-52 A",
+      "53-60 V"
+    ],
+    "answer": 0,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-107",
+    "question": "Red range of electrical system voltage is",
+    "options": [
+      "0-24.9 V",
+      "25-25.9 V",
+      ">30 V",
+      "Both A and C"
+    ],
+    "answer": 3,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-108",
+    "question": "During takeoff fuel pump must",
+    "options": [
+      "true",
+      "false",
+      "True but only in cold weather",
+      "True but only in hot weather"
+    ],
+    "answer": 0,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-109",
+    "question": "Fuel tanks must be switched every ____ mins",
+    "options": [
+      "10",
+      "20",
+      "30",
+      "60"
+    ],
+    "answer": 2,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-110",
+    "question": "Best rate of climb with flap 10 degree is",
+    "options": [
+      "79 kts",
+      "75 kts",
+      "70 kts",
+      "65 kts"
+    ],
+    "answer": 3,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-111",
+    "question": "Final approach speed with flap 40 degrees",
+    "options": [
+      "70 kts",
+      "63 kts",
+      "65 kts",
+      "None of the above"
+    ],
+    "answer": 1,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-112",
+    "question": "White arc in ASI is",
+    "options": [
+      "50 kts to 124 kts",
+      "99 kts to 154 kts",
+      "45 kts to 104 kts",
+      "125 kts to 154kts"
+    ],
+    "answer": 2,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-113",
+    "question": "Green arc in ASI is",
+    "options": [
+      "50 kts to 124 kts",
+      "45 kts to 124 kts",
+      "45 kts to 154 kts",
+      "125 kts to 154kts"
+    ],
+    "answer": 0,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-114",
+    "question": "Yellow arc ASI is",
+    "options": [
+      "125 knots to 154 knots",
+      "99 knots to 154 knots",
+      "50 knots to 124 knots",
+      "45 knots to 104 knots"
+    ],
+    "answer": 0,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-115",
+    "question": "The engine of Piper Archer is Controlled by",
+    "options": [
+      "Controlled by ECU",
+      "Controlled by Magnetos",
+      "Controlled by FADEC",
+      "All of the above"
+    ],
+    "answer": 2,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-116",
+    "question": "The engine on the Piper Archer is",
+    "options": [
+      "Turbo charged",
+      "Supercharged",
+      "Turbo supercharged",
+      "None of the above"
+    ],
+    "answer": 0,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-117",
+    "question": "The engine on the Piper Archer has a Displacement of",
+    "options": [
+      "125 cubic inches",
+      "121.5 cubic inches",
+      "114 cubic inches",
+      "121.5 cubic centimetres"
+    ],
+    "answer": 1,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-118",
+    "question": "The engine on the Piper Archer",
+    "options": [
+      "Horizontally opposed 4 cylinder",
+      "Horizontally opposed six cylinder",
+      "Inline 4 cylinder",
+      "In line 6 cylinder"
+    ],
+    "answer": 2,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-119",
+    "question": "The engine on the Piper Archer is",
+    "options": [
+      "Liquid cooled",
+      "Air Cooled",
+      "Oil cooled",
+      "None of the above"
+    ],
+    "answer": 0,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-120",
+    "question": "MFD stands for",
+    "options": [
+      "Multifunction display",
+      "Multi flight display",
+      "Both A and B",
+      "None of the above"
+    ],
+    "answer": 0,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-121",
+    "question": "PFD stands for",
+    "options": [
+      "Primary function display",
+      "Primary flight display",
+      "Both A and B",
+      "None of the above"
+    ],
+    "answer": 1,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-122",
+    "question": "After six attempts to start _____ hours must be given to cool the starter motors",
+    "options": [
+      "One hour",
+      "Two hour",
+      "30 mins",
+      "15 minutes"
+    ],
+    "answer": 2,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-123",
+    "question": "Starter motor can be updated for a maximum of ____ Seconds per attempt",
+    "options": [
+      "10 seconds",
+      "6 seconds",
+      "20 seconds",
+      "8 seconds"
+    ],
+    "answer": 0,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  },
+  {
+    "id": "piper-archer-iii-124",
+    "question": "Warm up procedure as",
+    "options": [
+      "890 RPM for two minutes then 1400 rpm Oil temperature 50 degrees Celsius and coolant temperature 60 degree Celsius",
+      "1400RPM till oil temperature 50 degrees Celsius and coolant temperature 60 degrees Celsius",
+      "890 RPM for two minutes",
+      "None of the above"
+    ],
+    "answer": 0,
+    "chapter": "Ques",
+    "difficulty": "medium"
+  }
+]

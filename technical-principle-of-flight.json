@@ -1,0 +1,990 @@
+[
+  {
+    "id": "technical-principle-of-flight-1",
+    "question": "An aircraft’s mass is a result of:",
+    "options": [
+      "its weight.",
+      "how big it is.",
+      "how much matter it contains.",
+      "its volume."
+    ],
+    "answer": 2,
+    "chapter": "Overview ",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-2",
+    "question": "The unit of mass is the:",
+    "options": [
+      "joule.",
+      "watt.",
+      "newton.",
+      "kilogram."
+    ],
+    "answer": 3,
+    "chapter": "overview",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-3",
+    "question": "The definition of a force is:",
+    "options": [
+      "that which causes a reaction to take place.",
+      "thrust and drag only.",
+      "a push or a pull.",
+      "the result of an applied input."
+    ],
+    "answer": 2,
+    "chapter": "overview",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-4",
+    "question": "The unit of force is the:",
+    "options": [
+      "mass-kilogram.",
+      "newton-metre.",
+      "joule.",
+      "newton."
+    ],
+    "answer": 3,
+    "chapter": "overview",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-5",
+    "question": "The unit of weight is the:",
+    "options": [
+      "kilogram.",
+      "newton.",
+      "watt.",
+      "kilowatt."
+    ],
+    "answer": 1,
+    "chapter": "Overview ",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-6",
+    "question": "Weight is the result of:",
+    "options": [
+      "the force on mass due to gravity.",
+      "the action of a falling mass.",
+      "how much matter the object contains.",
+      "the rate of mass per unit area."
+    ],
+    "answer": 0,
+    "chapter": "Overview ",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-7",
+    "question": "About which point does an aircraft rotate?",
+    "options": [
+      "The wings.",
+      "The main undercarriage.",
+      "The centre of gravity.",
+      "The rudder."
+    ],
+    "answer": 2,
+    "chapter": "Overview ",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-8",
+    "question": "If a force is applied to a mass and the mass does not move:",
+    "options": [
+      "work is done even though there is no movement of the mass.",
+      "work is done only if the mass moves a long way.",
+      "power is exerted, but no work is done.",
+      "no work is done."
+    ],
+    "answer": 3,
+    "chapter": "Overview ",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-9",
+    "question": "The unit of work is called the:",
+    "options": [
+      "pascal.",
+      "joule.",
+      "watt.",
+      "kilogram."
+    ],
+    "answer": 1,
+    "chapter": "Overview ",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-10",
+    "question": "The unit of power is called the:",
+    "options": [
+      "joule.",
+      "newton-metre.",
+      "watt.",
+      "metre per second."
+    ],
+    "answer": 2,
+    "chapter": "Overview ",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-11",
+    "question": "If a force of 20 newtons moves a mass 5 metres: 1 - the work done is 100 Nm; 2 - the work done is 100 joules; 3 - the work done is 4 joules; 4 - the work done is 0.25 joules. The correct statements are:",
+    "options": [
+      "1 only.",
+      "1 and 3.",
+      "1 and 2.",
+      "2 only."
+    ],
+    "answer": 2,
+    "chapter": "Overview ",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-12",
+    "question": "If a force of 50 newtons is applied to a 10 kg mass and the mass moves 10 metres and a force of 50 newtons is applied to a 100 kg mass which moves 10 metres:",
+    "options": [
+      "the work done is the same in both cases.",
+      "less work is done to the 10 kg mass.",
+      "more work is done to the 10 kg mass.",
+      "more work is done to the 100 kg mass."
+    ],
+    "answer": 0,
+    "chapter": "Overview ",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-13",
+    "question": "The definition of power is:",
+    "options": [
+      "the rate of force applied.",
+      "the rate of movement per second.",
+      "the rate of doing work.",
+      "the rate of applied force."
+    ],
+    "answer": 2,
+    "chapter": "Overview ",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-14",
+    "question": "If a force of 500 newtons moves a mass 1000 metres in 2 mins, the power used is:",
+    "options": [
+      "4167 watts.",
+      "250 kilowatts.",
+      "1 megawatt.",
+      "4 watts."
+    ],
+    "answer": 0,
+    "chapter": "Overview ",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-15",
+    "question": "Kinetic energy is:",
+    "options": [
+      "the energy a mass possesses due to its position in space.",
+      "the energy a mass possesses when a force has been applied.",
+      "the energy a mass possesses due to the force of gravity.",
+      "the energy a mass possesses because of its motion."
+    ],
+    "answer": 3,
+    "chapter": "Overview ",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-16",
+    "question": "The unit of kinetic energy is the:",
+    "options": [
+      "joule.",
+      "metre per second.",
+      "watt.",
+      "newton-metre per second."
+    ],
+    "answer": 0,
+    "chapter": "Overview ",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-17",
+    "question": "When considering kinetic energy: 1 - a moving mass can apply a force by being brought to rest; 2 - kinetic energy is the energy possessed by a body because of its motion; 3 - if a body’s kinetic energy is increased, a force must have been applied; 4 - kinetic energy = ½ m V² joules. The combination of correct statements is:",
+    "options": [
+      "1 and 2.",
+      "1, 2, 3 and 4.",
+      "4 only.",
+      "2 and 4."
+    ],
+    "answer": 1,
+    "chapter": "Overview ",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-18",
+    "question": "The property of inertia is said to be:",
+    "options": [
+      "the energy possessed by a body because of its motion.",
+      "the opposition which a body offers to a change in motion.",
+      "that every action has an equal and opposite reaction.",
+      "the quantity of motion possessed by a body."
+    ],
+    "answer": 1,
+    "chapter": "Overview ",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-19",
+    "question": "Considering Newton’s first law of motion: 1 - a body is said to have energy if it has the ability to do work; 2 - the amount of energy a body possesses is measured by the amount of work it can do; 3 - a body will tend to remain at rest, or in uniform motion in a straight line, unless acted upon by an external force; 4 - to move a stationary object or to make a moving object change its direction, a force must be applied. The combination with the correct statements is:",
+    "options": [
+      "3 and 4.",
+      "3 only.",
+      "1 and 2.",
+      "1, 2, 3 and 4."
+    ],
+    "answer": 0,
+    "chapter": "Overview ",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-20",
+    "question": "Considering Newton’s second law of motion: 1 - every action has an equal and opposite reaction; 2 - if the same force is applied, the larger the mass the slower the acceleration; 3 - if two forces are applied to the same mass, the bigger the force the greater the acceleration; 4 - the acceleration of a body from a state of rest, or uniform motion in a straight line, is proportional to the applied force and inversely proportional to the mass. The combination of true statements is:",
+    "options": [
+      "1 only.",
+      "1, 2, 3 and 4.",
+      "2, 3, and 4.",
+      "3 and 4."
+    ],
+    "answer": 2,
+    "chapter": "Overview ",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-21",
+    "question": "Newton’s third law of motion states:",
+    "options": [
+      "the energy possessed by a mass is inversely proportional to its velocity.",
+      "every force has an equal and opposite inertia.",
+      "for every force there is an action.",
+      "every action has an equal and opposite reaction."
+    ],
+    "answer": 3,
+    "chapter": "overview",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-22",
+    "question": "The definition of velocity is the:",
+    "options": [
+      "rate of change of acceleration.",
+      "rate of change of displacement.",
+      "the quantity of motion possessed by a body.",
+      "the acceleration of a body in direct proportion to its mass."
+    ],
+    "answer": 1,
+    "chapter": "Overview ",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-23",
+    "question": "When considering acceleration: 1 - acceleration is the rate of change of velocity; 2 - the units of acceleration are metres per second; 3 - the units of acceleration are kilogram-metres per second; 4 - the units of acceleration are seconds per metre per metre. The combination of correct statements is:",
+    "options": [
+      "4 only.",
+      "1 and 4.",
+      "1 only.",
+      "1 and 2."
+    ],
+    "answer": 2,
+    "chapter": "Overview ",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-24",
+    "question": "The definition of momentum is:",
+    "options": [
+      "the quantity of mass possessed by a body.",
+      "the quantity of inertia possessed by a body.",
+      "the quantity of motion possessed by a body.",
+      "the opposition which a body offers to a change in velocity."
+    ],
+    "answer": 2,
+    "chapter": "Overview ",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-25",
+    "question": "A force of 24 newtons moves a 10 kg mass 60 metres in 1 minute. The power used is: 1 - 24 watts; 2 - 240 watts; 3 - force times distance moved in one second; 4 - force times the distance the mass is moved in one second. Which of the preceding statements are correct:",
+    "options": [
+      "1 and 3.",
+      "1, 3 and 4.",
+      "2 and 4.",
+      "4 only."
+    ],
+    "answer": 1,
+    "chapter": "Overview ",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-26",
+    "question": "When considering momentum: 1 - momentum is the quantity of motion possessed by a body; 2 - momentum is the tendency of a body to continue in motion after being placed in motion; 3 - a mass of 2000 kg moving at 55 m/s has 110 000 kg-m/s of momentum; 4 - a large mass moving at 50 m/s will have less momentum than a small mass moving at 50 m/s. The correct combination of statements is:",
+    "options": [
+      "1 and 3.",
+      "1, 2, 3 and 4.",
+      "1, 2 and 3.",
+      "2, 3 and 4."
+    ],
+    "answer": 2,
+    "chapter": "overview",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-27",
+    "question": " – Atmosphere 1. When considering air: 1 - air has mass. 2 - air is not compressible. 3 - air is able to flow or change its shape when subject to even small pressures. 4 - the viscosity of air is very high. 5 - moving air has kinetic energy. The correct combination of all true statements is:",
+    "options": [
+      "1, 2, 3 and 5.",
+      "2, 3 and 4.",
+      "1 and 4.",
+      "1, 3, and 5."
+    ],
+    "answer": 3,
+    "chapter": "Atomsphere",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-28",
+    "question": "Why do the lower layers contain the greater proportion of the whole mass of the atmosphere?",
+    "options": [
+      "Because air is very viscous.",
+      "Because air is compressible.",
+      "Because of greater levels of humidity at low altitude.",
+      "Because air has very little mass."
+    ],
+    "answer": 3,
+    "chapter": "Atomsphere",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-29",
+    "question": "With increasing altitude, up to about 40 000 ft, the characteristics of air change: 1 - temperature decreases continuously with altitude. 2 - pressure falls steadily to an altitude of about 36 000 ft, where it then remains constant. 3 - density decreases steadily with increasing altitude. 4 - pressure falls steadily with increasing altitude. The combination of true statements is:",
+    "options": [
+      "2, 4 and 5.",
+      "1, 2, 3, 4 and 5.",
+      "1, 3 and 5.",
+      "1 and 5."
+    ],
+    "answer": 0,
+    "chapter": "Atomsphere",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-30",
+    "question": "When considering static pressure: 1 - in aviation, static pressure can be measured in hectopascals. 2 - the SI unit for static pressure is N/m2. 3 - static pressure is the product of the mass of air pressing down on the air beneath. 4 - referred to as static pressure because of the air’s stationary or static presence. the lower the altitude, the greater the static pressure. The correct statements are:",
+    "options": [
+      "2, 4 and 5.",
+      "1, 2, 3, 4 and 5.",
+      "1, 3 and 5.",
+      "1 and 5."
+    ],
+    "answer": 1,
+    "chapter": "Chapter 1",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-31",
+    "question": "When considering air density: 1 - density is measured in millibars. 2 - density increases with increasing altitude. 3 - if temperature increases, the density will increase. 4 - as altitude increases, density will decrease. 5 - temperature decreases with increasing altitude, and this will cause air density to increase The combination of correct statements is:",
+    "options": [
+      "4 only.",
+      "4 and 5.",
+      "5 only.",
+      "2, 3 and 5."
+    ],
+    "answer": 0,
+    "chapter": "Atomsphere",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-32",
+    "question": "Air density is:",
+    "options": [
+      "mass per unit volume.",
+      "proportional to temperature and inversely proportional to pressure.",
+      "independent of both temperature and pressure.",
+      "dependent only on decreasing pressure with increasing altitude."
+    ],
+    "answer": 0,
+    "chapter": "Atomsphere",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-33",
+    "question": "When considering the ICAO International Standard Atmosphere and comparing it with the actual atmosphere, which of the following statements is correct? 1 - Temperature, pressure and density are constantly changing in any given layer of the actual atmosphere. 2 - A requirement exists for a hypothetical 'standard' atmosphere. 3 - The values given in the International Standard Atmosphere exist at the same altitudes in the actual atmosphere. 4- The International Standard Atmosphere was designed for the calibration of pressure instruments and the comparison of aircraft performance calculations.",
+    "options": [
+      "1, 2 and 3.",
+      "2, 3 and 4.",
+      "1, 2, 3 and 4.",
+      "1, 2 and 4."
+    ],
+    "answer": 1,
+    "chapter": "Atomsphere",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-34",
+    "question": "When considering the ICAO International Standard Atmosphere, which of the following statements is correct? 1 - The temperature lapse rate is assumed to be uniform at 2°C per 1000 ft (1.98°C) up to a height of 11 000 ft. 2 - Sea level temperature is assumed to be 15°",
+    "options": [
+      "3 - Sea level static pressure is assumed to be 1.225 kg/m3. 4 - Sea level density is assumed to be 1013.25 hPa.",
+      "1, 2, 3 and 4.",
+      "No statements are correct.",
+      "1, 3 and 4. d. 2 only."
+    ],
+    "answer": 3,
+    "chapter": "Atomsphere",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-35",
+    "question": "A moving mass of air possesses kinetic energy. An object placed in the path of such a moving mass of air will be subject to which of the following?",
+    "options": [
+      "Dynamic pressure.",
+      "Static pressure.",
+      "Static pressure and dynamic pressure.",
+      "Dynamic pressure minus static pressure."
+    ],
+    "answer": 2,
+    "chapter": "Atomsphere",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-36",
+    "question": " Dynamic pressure is:",
+    "options": [
+      "the total pressure at a point where a moving airflow is brought completely to rest.",
+      "the amount by which the pressure rises at a point where a moving airflow is brought completely to rest.",
+      "the pressure due to the mass of air pressing down on the air beneath.",
+      "the pressure change caused by heating when a moving airflow is brought completely to rest."
+    ],
+    "answer": 1,
+    "chapter": "Atomsphere",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-37",
+    "question": "Dynamic pressure is equal to:",
+    "options": [
+      "density times speed squared.",
+      "half the density times the indicated airspeed squared.",
+      "half the true airspeed times the density squared.",
+      "half the density times the true airspeed squared."
+    ],
+    "answer": 3,
+    "chapter": "Atomsphere",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-38",
+    "question": " A tube facing into an airflow will experience a pressure in the tube equal to:",
+    "options": [
+      "static pressure.",
+      "dynamic pressure.",
+      "static pressure plus dynamic pressure.",
+      "the difference between total pressure and static pressure."
+    ],
+    "answer": 2,
+    "chapter": "Atomsphere",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-39",
+    "question": " A static pressure vent must be positioned:",
+    "options": [
+      "on a part of the aircraft structure where the airflow is undisturbed, in a surface at right angles to the airflow direction.",
+      "on a part of the structure where the airflow is undisturbed, in a surface parallel to the airflow direction.",
+      "at the stagnation point.",
+      "at the point on the surface where the airflow reaches the highest speed."
+    ],
+    "answer": 1,
+    "chapter": "Atomsphere",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-40",
+    "question": "The inputs to an Airspeed Indicator are from:",
+    "options": [
+      "a static source.",
+      "pitot pressure.",
+      "a pitot and a static source.",
+      "pitot, static and density."
+    ],
+    "answer": 2,
+    "chapter": "Atomsphere",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-41",
+    "question": "The deflection of the pointer of the Airspeed Indicator is proportional to:",
+    "options": [
+      "dynamic pressure.",
+      "static pressure.",
+      "the difference between static and dynamic pressure.",
+      "static pressure plus dynamic pressure."
+    ],
+    "answer": 0,
+    "chapter": "Atomsphere",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-42",
+    "question": "Calibration of the Airspeed Indicator is based upon the density:",
+    "options": [
+      "at the altitude at which the aircraft is flying.",
+      "at sea level ICAO International Standard Atmosphere temperature.",
+      "at sea level.",
+      "at sea level ICAO International Standard Atmosphere +15°C temperature."
+    ],
+    "answer": 1,
+    "chapter": "Atomsphere",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-43",
+    "question": " When considering the relationship between different types of airspeed: 1 - True Airspeed (TAS) is read directly from the Airspeed Indicator. 2 - Equivalent Airspeed is Indicated Airspeed corrected for position error. 3 - Indicated Airspeed is not a speed at all, it is a pressure. 4 - True Airspeed is the speed of the aircraft through the air. Which of the above statements are true?",
+    "options": [
+      "1 only.",
+      "2 and 3.",
+      "3 and 4.",
+      "1 and 4."
+    ],
+    "answer": 2,
+    "chapter": "Atomsphere",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-44",
+    "question": "When considering the relationship between different types of Airspeed: 1 - Calibrated Airspeed is Indicated Airspeed corrected for position error. 2 - Equivalent Airspeed is Indicated Airspeed corrected for position error & compressibility. 3 - Position error, which causes false Indicated Airspeed readings, is due to variations in the pressures sensed at the pitot and static ports. 4 - The Airspeed Indicator is calibrated to read True Airspeed when the ambient density is that of the ICAO International Standard Atmosphere at sea level. The combination of correct statements is:",
+    "options": [
+      "none of the statements are correct.",
+      "1, 2 and 4.",
+      "2 and 3.",
+      "1, 2, 3 and 4."
+    ],
+    "answer": 3,
+    "chapter": "Atomsphere",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-45",
+    "question": "The speed of sound:",
+    "options": [
+      "is dependent upon the True Airspeed and the Mach number of the aircraft.",
+      "is inversely proportional to the absolute temperature.",
+      "is proportional to the square root of the absolute temperature of the air.",
+      "is directly proportional to the True Airspeed of the aircraft."
+    ],
+    "answer": 2,
+    "chapter": "Atomsphere",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-46",
+    "question": "Mach number is:",
+    "options": [
+      "the aircraft True Airspeed divided by the local speed of sound.",
+      "the speed of sound in the ambient conditions in which the aircraft is flying.",
+      "the True Airspeed of the aircraft at which the relative airflow somewhere on the aircraft first reaches the local speed of sound.",
+      "the Indicated Airspeed divided by the local speed of sound sea level"
+    ],
+    "answer": 0,
+    "chapter": "Atomsphere",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-47",
+    "question": "An aircraft’s critical Mach number is:",
+    "options": [
+      "the speed of the airflow when the aircraft first becomes supersonic.",
+      "the speed of the aircraft when the airflow somewhere reaches the speed of sound.",
+      "the Indicated Airspeed when the aircraft first becomes supersonic.",
+      "the aircraft’s Mach number when airflow over it first reaches the local speed of sound."
+    ],
+    "answer": 3,
+    "chapter": "Atomsphere",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-48",
+    "question": "Chapter 3 – basic aerodynamic theory 1.If the cross-sectional area of an airflow is mechanically reduced:",
+    "options": [
+      "the velocity of the airflow remains constant and the kinetic energy increases.",
+      "the velocity of the airflow remains constant and the mass flow increases.",
+      "the mass flow remains constant and the static pressure increases.",
+      "the mass flow remains constant and the velocity of the airflow increases."
+    ],
+    "answer": 3,
+    "chapter": "basic aerodynamic theory",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-49",
+    "question": "The statement, Pressure plus Kinetic energy equals constant, refers to:",
+    "options": [
+      "Bernoulli’s theorem.",
+      "the principle of continuity.",
+      "Newton’s second law of motion.",
+      "the Magnus effect."
+    ],
+    "answer": 0,
+    "chapter": "basic aerodynamic theory",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-50",
+    "question": "If the velocity of an air mass is increased:",
+    "options": [
+      "the dynamic pressure will decrease and the static pressure will increase.",
+      "the static pressure will remain constant and the kinetic energy will increase.",
+      "the kinetic energy will increase, the dynamic pressure will increase and the static pressure will decrease.",
+      "the mass flow will stay constant, the dynamic pressure will decrease and the static pressure will increase."
+    ],
+    "answer": 2,
+    "chapter": "basic aerodynamic theory",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-51",
+    "question": "When considering a streamlined airflow, which of the following statements is correct? 1. 2. 3. 4. A resultant decrease in static pressure is indicated by streamlines shown close together. An increase in velocity is indicated by streamlines shown close together. Accelerating airflow with a resultant decreasing static pressure is indicated by converging streamlines. Diverging streamlines indicate decelerating airflow with a resultant increasing static pressure.",
+    "options": [
+      "2 and 4.",
+      "1, 3 and 4.",
+      "2, 3 and 4.",
+      "1, 2, 3 and 4."
+    ],
+    "answer": 3,
+    "chapter": "basic aerodynamic theory",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-52",
+    "question": "If the pressure on one side of a surface is lower than on the other side:",
+    "options": [
+      "a force per unit area will exist, acting in the direction of the lower pressure.",
+      "no force will be generated, other than drag.",
+      "a force will be generated, acting in the direction of the higher pressure.",
+      "the pressure will leak around the sides of the surface, cancelling out any pressure differential."
+    ],
+    "answer": 0,
+    "chapter": "basic aerodynamic theory",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-53",
+    "question": "When considering a streamtube, which of the following statements is correct? 1. Different sizes of stream tube are manufactured to match the wingspan of the aircraft to which they will be fitted. 2. A streamtube is a concept to aid understanding of aerodynamic force generation. 3. There is no flow into or out of the streamtube through the “walls”, only flow along the tube. 4. A streamtube is an imaginary tube made up of streamlines.",
+    "options": [
+      "1 only.",
+      "1 and 3.",
+      "2, 3 and 4.",
+      "1, 2 and 3."
+    ],
+    "answer": 2,
+    "chapter": "basic aerodynamic theory",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-54",
+    "question": "In accordance with the principle of continuity: 1. air accelerates when the cross-sectional area of a streamline flow is reduced. 2. when air accelerates the density of air in a streamline flow is increased. 3. air decelerates when the cross-sectional area of a streamline flow is increased. 4. changes in cross-sectional area of a streamline flow will affect the air velocity. Which of the preceding statements are true?",
+    "options": [
+      "1, 2, 3 and 4.",
+      "1 and 4.",
+      "3 and 4.",
+      "1, 3 and 4."
+    ],
+    "answer": 3,
+    "chapter": "basic aerodynamic theory",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-55",
+    "question": "In accordance with Bernoulli’s theorem: 1. if a streamline flow of air decelerates, its kinetic energy will decrease and the static pressure will increase. 2. if a streamline flow of air accelerates, its kinetic energy will increase and the static pressure will decrease. 3. if a streamline flow of air is accelerated, the dynamic pressure will increase and the static pressure will increase. 4. if a streamline flow of air is decelerated, its dynamic pressure will decrease and the static pressure will increase. The combination of correct statements is:",
+    "options": [
+      "1, 2, 3 and 4.",
+      "3 only.",
+      "1, 2 and 4.",
+      "3 and 4."
+    ],
+    "answer": 2,
+    "chapter": "basic aerodynamic theory",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-56",
+    "question": "The statement, “Energy and mass can neither be created nor destroyed, only changed from one form to another”, refers to:",
+    "options": [
+      "Bernoulli’s theorem.",
+      "the equation of kinetic energy.",
+      "the principle of continuity.",
+      "Bernoulli’s principle of continuity."
+    ],
+    "answer": 2,
+    "chapter": "basic aerodynamic theory",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-57",
+    "question": "With reference to aerofoil section terminology, which of the following statements are true? 1. 2. 3. 4. The chord line is a line joining the centre of curvature of the leading edge to the centre of the trailing edge, equidistant from the top and bottom surface of the aerofoil. The angle of incidence is the angle between the chord line and the horizontal datum of the aircraft. The angle between the chord line and the relative airflow is called the aerodynamic incidence or angle of attack. The thickness/chord ratio is the maximum thickness of the aerofoil as a percentage of the chord; the location of maximum thickness is measured as a percentage of the chord aft of the leading edge.",
+    "options": [
+      "1, 2, 3 and 4.",
+      "1, 2 and 4.",
+      "2, 3 and 4.",
+      "2 and 4."
+    ],
+    "answer": 2,
+    "chapter": "Subsonic flow",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-58",
+    "question": "The definition of lift is:",
+    "options": [
+      "the aerodynamic force which acts perpendicular to the chord line of the aerofoil.",
+      "the aerodynamic force that results from the pressure differentials about an aerofoil.",
+      "the aerodynamic force which acts perpendicular to the upper surface of the aerofoil.",
+      "the aerodynamic force which acts at 90° to the relative airflow."
+    ],
+    "answer": 3,
+    "chapter": "Subsonic flow",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-59",
+    "question": "An aerofoil section is designed to produce lift resulting from a difference in the:",
+    "options": [
+      "negative air pressure below and a vacuum above the surface.",
+      "vacuum below the surface and greater air pressure above the surface.",
+      "higher air pressure below the surface and lower air pressure above the surface.",
+      "higher air pressure at the leading edge than at the trailing edge."
+    ],
+    "answer": 2,
+    "chapter": "Subsonic flow",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-60",
+    "question": "On an aerofoil section, the force of lift acts perpendicular to, and the force of drag acts parallel to the:",
+    "options": [
+      "flight path.",
+      "longitudinal axis.",
+      "chord line.",
+      "aerofoil section upper surface."
+    ],
+    "answer": 0,
+    "chapter": "Subsonic flow",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-61",
+    "question": "When the angle of attack of a symmetrical aerofoil is increased, the centre of pressure will:",
+    "options": [
+      "have very limited movement.",
+      "move aft along the aerofoil surface.",
+      "remain unaffected.",
+      "move forward to the leading edge."
+    ],
+    "answer": 2,
+    "chapter": "Subsonic flow",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-62",
+    "question": "Why does increasing speed also increase lift?",
+    "options": [
+      "The increased impact of the relative wind on an aerofoil’s lower surface creates a greater amount of air being deflected downward.",
+      "The increased speed of the air passing over an aerofoil’s upper surface decreases the static pressure, thus creating a greater pressure differential between the upper and lower surface.",
+      "The increased velocity of the relative wind overcomes the increased drag.",
+      "Increasing speed decreases drag."
+    ],
+    "answer": 1,
+    "chapter": "Subsonic flow",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-63",
+    "question": "The point on an aerofoil section through which lift acts is the:",
+    "options": [
+      "midpoint of the chord.",
+      "centre of gravity.",
+      "centre of pressure.",
+      "aerodynamic centre."
+    ],
+    "answer": 2,
+    "chapter": "Subsonic flow",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-64",
+    "question": "The angle between the chord line of the aerofoil section and the longitudinal axis of the aircraft is known as:",
+    "options": [
+      "the angle of attack.",
+      "the angle of incidence.",
+      "dihedral.",
+      "sweepback."
+    ],
+    "answer": 1,
+    "chapter": "Subsonic flow",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-65",
+    "question": "The angle between the chord line of an aerofoil section and the relative wind is known as the angle of:",
+    "options": [
+      "incidence.",
+      "lift.",
+      "attack.",
+      "sweepback ."
+    ],
+    "answer": 2,
+    "chapter": "Subsonic flow",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-66",
+    "question": "A line drawn from the leading edge to the trailing edge of an aerofoil section and equidistant at all points from the upper and lower contours is called the:",
+    "options": [
+      "chord line.",
+      "camber.",
+      "mean camber line.",
+      "longitudinal axis."
+    ],
+    "answer": 2,
+    "chapter": "Subsonic flow",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-67",
+    "question": "At zero angle of attack, the pressure along the upper surface of a symmetrical aerofoil section would be:",
+    "options": [
+      "greater than atmospheric pressure.",
+      "equal to atmospheric pressure.",
+      "less than atmospheric pressure.",
+      "non existent."
+    ],
+    "answer": 2,
+    "chapter": "Subsonic flow",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-68",
+    "question": "The angle of attack of an aerofoil section directly controls:",
+    "options": [
+      "the amount of airflow above and below the section.",
+      "the angle of incidence of the section.",
+      "the distribution of positive and negative pressure acting on the section.",
+      "the angle relative to the horizontal datum."
+    ],
+    "answer": 2,
+    "chapter": "Subsonic flow",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-69",
+    "question": "When the angle of attack of a positively cambered aerofoil is increased, the centre of pressure will:",
+    "options": [
+      "have very little movement.",
+      "move forward along the chord line.",
+      "remain unaffected.",
+      "move back along the chord."
+    ],
+    "answer": 1,
+    "chapter": "Subsonic flow",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-70",
+    "question": "The term “angle of attack’’ is defined as the angle:",
+    "options": [
+      "formed by the longitudinal axis of the aeroplane and the chord line of the section.",
+      "between the section chord line and the relative wind.",
+      "between the aeroplane’s climb angle and the horizon.",
+      "formed by the leading edge of the section and the relative airflow."
+    ],
+    "answer": 1,
+    "chapter": "Subsonic flow",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-71",
+    "question": "Which of the following statements is true? 1. Relative airflow, free stream flow, relative wind and aircraft flight path are parallel. 2. Aircraft flight path, relative airflow, relative wind and free stream flow are parallel, but the aircraft flight path is opposite in direction. 3. The pressure, temperature and relative velocity of the free stream flow are unaffected by the presence of the aircraft. 4. The relative wind is produced by the aircraft moving through the air. 5. The direction of flight is parallel with and opposite to the relative airflow.",
+    "options": [
+      "5 only.",
+      "3, 4 and 5.",
+      "1 and 2.",
+      "1, 2, 3, 4 and 5."
+    ],
+    "answer": 3,
+    "chapter": "Subsonic flow",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-72",
+    "question": "Which of the following statements are correct? 1. Maximum camber is the maximum distance between the top and bottom surface of an aerofoil section. 2. The thickness/chord ratio is expressed as a percentage of the chord. 3. It is easier for air to flow over a well-rounded leading edge radius than a sharp leading edge. 4. Two dimensional airflow assumes a wing with the same aerofoil section along its entire span, with no spanwise pressure differential. 5. Air flowing towards the lower pressure of the upper surface is called upwash.",
+    "options": [
+      "1, 2, 3, 4 and 5.",
+      "2, 3 and 4.",
+      "2, 3, 4 and 5.",
+      "1 and 5."
+    ],
+    "answer": 2,
+    "chapter": "Subsonic flow",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-73",
+    "question": "When considering an aerofoil section at a constant angle of attack, which of the following statements is true?",
+    "options": [
+      "If the static pressure on one side is reduced more than on the other side, a pressure differential will exist.",
+      "If dynamic pressure is increased, the pressure differential will decrease.",
+      "The pressure differential will increase if the dynamic pressure is decreased",
+      "Dynamic pressure and pressure differential are not related."
+    ],
+    "answer": 0,
+    "chapter": "Subsonic flow",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-74",
+    "question": "18 Considering an aerofoil section subject to a constant dynamic pressure, which of the following statements is correct?",
+    "options": [
+      "If the angle of attack is increased from 4° to 14°, the pressure differential will not change but lift will be greater due to increased dynamic pressure acting on the lower surface.",
+      "Up to about 16°, increasing the angle of attack will increase the pressure differential between the top and bottom surface of the aerofoil.",
+      "Changing the angle of attack does not affect the pressure differential, only changes in dynamic pressure affect the pressure differential.",
+      "Up to about 16°, increasing the angle of attack decreases the pressure differential between the top and bottom surface of the aerofoil section."
+    ],
+    "answer": 1,
+    "chapter": "Subsonic flow",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-75",
+    "question": "19 When considering the effect of changing angle of attack on the pitching moment of an aerofoil, which of the following statements is correct? 1. 2. 3. 4. At ‘normal’ angles of attack the pitching moment is nose-up. The pitching moment about the aerodynamic centre (AC) is constant at normal angles of attack. The aerodynamic centre (AC) is located approximately at the 25% chord point. The moment about the aerodynamic centre (AC) is a product of the distance between the aerodynamic centre (AC) and the centre of pressure (CP) and the magnitude of the lift force.",
+    "options": [
+      "1, 2, 3 and 4.",
+      "4 only.",
+      "3 and 4.",
+      "2, 3 and 4."
+    ],
+    "answer": 3,
+    "chapter": "Subsonic flow",
+    "difficulty": "easy"
+  },
+  {
+    "id": "technical-principle-of-flight-76",
+    "question": "20 Ice contamination of the leading portion of the aerofoil has which of the following consequences? 1. 2. 3. 4. The profile of the leading portion of the surface can be changed, preventing normal acceleration of the airflow and substantially reducing the magnitude of the lift force. Form (pressure) drag will be increased because of the increased frontal area of the aerofoil section. Loss of lift will have a greater effect than an increase in form (pressure) drag. At ‘normal’ angles of attack lift can be lost entirely if enough ice accumulates.",
+    "options": [
+      "1, 2, 3 and 4.",
+      "1, 3 and 4.",
+      "1, 2 and 3.",
+      "3 and 4."
+    ],
+    "answer": 0,
+    "chapter": "Subsonic flow",
+    "difficulty": "easy"
+  }
+]

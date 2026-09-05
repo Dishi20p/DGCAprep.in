@@ -1,0 +1,8 @@
+[
+{"id":"air-regulations","name":"Air Regulations","shortName":"\u2696\ufe0f","description":"DGCA CPL Air Regulations question bank.","access":"paid","file":"air-regulations.json"},
+{"id":"meteorology","name":"Meteorology","shortName":"\ud83c\udf24\ufe0f","description":"CPL Meteorology question bank.","access":"paid","file":"meteorology.json"},
+{"id":"air-navigation","name":"Air Navigation","shortName":"\ud83e\udded","description":"CPL Air Navigation question bank.","access":"paid","file":"air-navigation.json"},
+{"id":"technical-general","name":"Technical General","shortName":"\u2699\ufe0f","description":"Aircraft Technical General question bank.","access":"paid","file":"technical-general.json","books":[{"id":"principle-of-flight","name":"Principle of Flight","file":"technical-principle-of-flight.json","chapters":16},{"id":"airframes","name":"Airframes","file":"technical-airframes.json","chapters":8},{"id":"electrical","name":"Electrical","file":"technical-electrical.json","chapters":8},{"id":"redbird","name":"Red Redbird","file":"technical-red-redbird.json","chapters":6},{"id":"engines","name":"Engines","file":"technical-engines.json","chapters":10}]},
+{"id":"rtr","name":"RTR","shortName":"\ud83d\udce1","description":"RTR communication question bank.","access":"paid","file":"rtr.json"},
+{"id":"piper-archer-iii","name":"Piper Archer III","shortName":"\u2708\ufe0f","description":"Piper Archer III aircraft-specific question bank.","access":"paid","file":"piper-archer-iii.json"}
+]
